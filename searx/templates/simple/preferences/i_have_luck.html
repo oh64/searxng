@@ -1,0 +1,16 @@
+<fieldset>{{- '' -}}
+  <legend>{{ _('I have luck button') }}</legend>{{- '' -}}
+  <p class="value">{{- '' -}}
+    <input type="checkbox" {{- ' ' -}}
+           name="i_have_luck" {{- ' ' -}}
+           aria-labelledby="pref_i_have_luck" {{- ' ' -}}
+           class="checkbox-onoff" {{- ' ' -}}
+           {%- if preferences.get_value('i_have_luck') -%}
+             checked
+           {%- endif -%}{{- ' ' -}}
+           >{{- '' -}}
+  </p>{{- '' -}}
+  <div class="description" id="pref_i_have_luck">
+    {{- _('Show the I am feeling lucky button') -}}
+  </div>{{- '' -}}
+</fieldset>{{- '' -}}

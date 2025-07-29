@@ -5,8 +5,16 @@
         <input id="q" name="q" type="text" placeholder="{{ _('Search for...') }}" autocomplete="off" autocapitalize="none" spellcheck="false" autocorrect="off" dir="auto" value="{{ q or '' }}">
         <button id="clear_search" type="reset" aria-label="{{ _('clear') }}"><span class="hide_if_nojs">{{ icon_big('close') }}</span><span class="show_if_nojs">{{ _('clear') }}</span></button>
         <button id="send_search" type="submit" aria-label="{{ _('search') }}"><span class="hide_if_nojs">{{ icon_big('search') }}</span><span class="show_if_nojs">{{ _('search') }}</span></button>
+        {% if preferences.get_value('i_have_luck') %}
+        <input type="hidden" name="lucky" id="lucky_field" value="">
+        <button id="direct_search" type="submit" aria-label="{{ _('lucky') }}"
+                onclick="document.getElementById('lucky_field').value = '1'">
+            {{ _('I have luck') }}
+        </button>
+        {% endif %}
         <div class="autocomplete hide_if_nojs"><ul></ul></div>
       </div>
+      <br>
     </div>
   </div>
   {% for category in selected_categories %}

@@ -349,6 +349,7 @@ def get_client_settings():
         'autocomplete_min': get_setting('search.autocomplete_min'),
         'method': req_pref.get_value('method'),
         'infinite_scroll': req_pref.get_value('infinite_scroll'),
+        'i_have_luck': req_pref.get_value('i_have_luck'),
         'translations': get_translations(),
         'search_on_category_select': req_pref.get_value('search_on_category_select'),
         'hotkeys': req_pref.get_value('hotkeys'),
@@ -638,6 +639,11 @@ def search():
         search_query, raw_text_query, _, _, selected_locale = get_search_query_from_webapp(
             sxng_request.preferences, sxng_request.form
         )
+
+        lucky = sxng_request.form.get('lucky') or sxng_request.args.get('lucky')
+        if lucky == '1':
+            search_query.redirect_to_first_result = True
+
         search_obj = searx.search.SearchWithPlugins(search_query, sxng_request, sxng_request.user_plugins)
         result_container = search_obj.search()
 
