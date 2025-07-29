@@ -126,6 +126,8 @@ ui:
   query_in_title: false
   # infinite_scroll: When true, automatically loads the next page when scrolling to bottom of the current page.
   infinite_scroll: false
+  # i_have_luck: When true, shows the "I have luck" button.
+  i_have_luck: true
   # ui theme
   default_theme: simple
   # center the results ?
@@ -167,6 +169,7 @@ ui:
 #     - method
 #     - image_proxy
 #     - query_in_title
+#     - i_have_luck
 
 # communication with search engines
 #

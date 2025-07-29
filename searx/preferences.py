@@ -446,6 +446,10 @@ class Preferences:
                 locked=is_locked('doi_resolver'),
                 choices=DOI_RESOLVERS
             ),
+            'i_have_luck': BooleanSetting(
+                settings['ui']['i_have_luck'],
+                locked=is_locked('i_have_luck')
+            ),
             'simple_style': EnumStringSetting(
                 settings['ui']['theme_args']['simple_style'],
                 locked=is_locked('simple_style'),

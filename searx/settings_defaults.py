@@ -205,6 +205,7 @@ SCHEMA = {
         'advanced_search': SettingsValue(bool, False),
         'query_in_title': SettingsValue(bool, False),
         'infinite_scroll': SettingsValue(bool, False),
+        'i_have_luck': SettingsValue(bool, True),
         'cache_url': SettingsValue(str, 'https://web.archive.org/web/'),
         'search_on_category_select': SettingsValue(bool, True),
         'hotkeys': SettingsValue(('default', 'vim'), 'default'),
