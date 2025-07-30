@@ -446,10 +446,6 @@ class Preferences:
                 locked=is_locked('doi_resolver'),
                 choices=DOI_RESOLVERS
             ),
-            'i_have_luck': BooleanSetting(
-                settings['ui']['i_have_luck'],
-                locked=is_locked('i_have_luck')
-            ),
             'simple_style': EnumStringSetting(
                 settings['ui']['theme_args']['simple_style'],
                 locked=is_locked('simple_style'),
@@ -470,6 +466,14 @@ class Preferences:
             'infinite_scroll': BooleanSetting(
                 settings['ui']['infinite_scroll'],
                 locked=is_locked('infinite_scroll')
+            ),
+            'i_have_luck': BooleanSetting(
+                settings['ui']['i_have_luck'],
+                locked=is_locked('i_have_luck')
+            ),
+            'search_loading_anim': BooleanSetting(
+                settings['ui']['search_loading_anim'],
+                locked=is_locked('search_loading_anim')
             ),
             'search_on_category_select': BooleanSetting(
                 settings['ui']['search_on_category_select'],
