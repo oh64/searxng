@@ -18,24 +18,26 @@ document.addEventListener('DOMContentLoaded', async () => {
 
     form.addEventListener('submit', () => {
         const formData = new FormData(form);
-        const catValue = formData.get('categories') || formData.get('category_general') || '';
-        const category = (catValue === "1" || catValue === "general") ? "web" : (catValue || "web");
+        if (formData.get('q') != '') {
+            const catValue = formData.get('categories') || formData.get('category_general') || '';
+            const category = (catValue === "1" || catValue === "general") ? "web" : (catValue || "web");
 
-        overlay.style.display = 'flex';
-        index = 0;
+            overlay.style.display = 'flex';
+            index = 0;
 
-        const engines = enginesCache[category] || ["the web"];
+            const engines = enginesCache[category] || ["the web"];
 
-        interval = setInterval(() => {
-            if (index < engines.length) {
-                loadingText.textContent = `Searching on ${engines[index]}...`;
-                index++;
-            } else {
-                loadingText.textContent = `Finalizing the ${category} search...`;
-                clearInterval(interval);
-                interval = null;
-            }
-        }, 500);
+            interval = setInterval(() => {
+                if (index < engines.length) {
+                    loadingText.textContent = `Searching on ${engines[index]}...`;
+                    index++;
+                } else {
+                    loadingText.textContent = `Finalizing the ${category} search...`;
+                    clearInterval(interval);
+                    interval = null;
+                }
+            }, 500);
+        }
     });
 
     window.addEventListener('pageshow', () => {
