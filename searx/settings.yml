@@ -18,11 +18,11 @@ general:
   open_metrics: ''
 
 brand:
-  new_issue_url: https://github.com/searxng/searxng/issues/new
+  new_issue_url: https://github.com/Oh64/searxng/issues/new
   docs_url: https://docs.searxng.org/
   public_instances: https://searx.space
   wiki_url: https://github.com/searxng/searxng/wiki
-  issue_url: https://github.com/searxng/searxng/issues
+  issue_url: https://github.com/Oh64/searxng/issues
   # custom:
   #   maintainer: "Jon Doe"
   #   # Custom entries in the footer: [title]: [link]
@@ -126,8 +126,10 @@ ui:
   query_in_title: false
   # infinite_scroll: When true, automatically loads the next page when scrolling to bottom of the current page.
   infinite_scroll: false
-  # i_have_luck: When true, shows the "I have luck" button.
+  # i_have_luck: When true, shows the "I'm feeling lucky" button.
   i_have_luck: true
+  # search_loading_anim: When true, shows the loading animation when searching.
+  search_loading_anim: true
   # ui theme
   default_theme: simple
   # center the results ?
@@ -170,6 +172,7 @@ ui:
 #     - image_proxy
 #     - query_in_title
 #     - i_have_luck
+#     - search_loading_anim
 
 # communication with search engines
 #
