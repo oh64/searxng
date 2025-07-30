@@ -849,46 +849,61 @@ def autocompleter():
     suggestions = escape(suggestions, False)
     return Response(suggestions, mimetype=mimetype)
 
-@app.route('/engines.json')
+
+@app.route("/engines.json")
 def engines_list():
-    if not hasattr(sxng_request, 'preferences'):
+    if not hasattr(sxng_request, "preferences"):
         client_pref = ClientPref.from_http_request(sxng_request)
-        sxng_request.preferences = Preferences(themes, list(categories.keys()), engines, searx.plugins.STORAGE, client_pref)
+        sxng_request.preferences = Preferences(
+            themes,
+            list(categories.keys()),
+            engines,
+            searx.plugins.STORAGE,
+            client_pref,
+        )
         try:
             sxng_request.preferences.parse_dict(sxng_request.cookies)
-        except Exception:
+        except (ValueError, KeyError):
             pass
 
     enabled_engine_names = set(e[0] for e in sxng_request.preferences.engines.get_enabled())
 
     category_map = {
-        'web': ['web'],
-        'images': ['images'],
-        'videos': ['videos'],
-        'news': ['news'],
-        'map': ['map'],
-        'packages': ['packages'],
-        'scientific_publications': ['science'],
-        'music': ['music'],
-        'apps': ['apps'],
-        'it': ['it'],
-        'social media': ['social media'],
-        'other': ['dictionaries', 'movies', 'shopping', 'software_wikis', 'weather'],
+        "web": ["web"],
+        "images": ["images"],
+        "videos": ["videos"],
+        "news": ["news"],
+        "map": ["map"],
+        "packages": ["packages"],
+        "scientific_publications": ["science"],
+        "music": ["music"],
+        "apps": ["apps"],
+        "it": ["it"],
+        "social media": ["social media"],
+        "other": [
+            "dictionaries",
+            "movies",
+            "shopping",
+            "software_wikis",
+            "weather",
+        ],
     }
 
     result = {}
 
     for key, cat_list in category_map.items():
         result[key] = [
-            name for name in enabled_engine_names
+            name
+            for name in enabled_engine_names
             if any(cat in engines[name].categories for cat in cat_list)
-            and (' ' not in name or key != 'web')
-            and '.' not in name
+            and (" " not in name or key != "web")
+            and "." not in name
         ]
 
     response = make_response(jsonify(result))
     response.headers["Cache-Control"] = "max-age=60"
     return response
+
 
 @app.route('/preferences', methods=['GET', 'POST'])
 def preferences():
