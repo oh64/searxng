@@ -16,12 +16,12 @@ This is a **custom fork of SearXNG**, a privacy‑respecting, hackable
 `metasearch engine`_.
 
 **Because I like SearXNG, I add whatever I want on it.**
-This code will runs on my own instance : https://search.oh64.moe if you want to try it.
+This code runs on my own instance : https://search.oh64.moe if you want to try it.
 
 The privacy‑respecting aspect is preserved here too:
 
 - No tracking code is added.
-- I make sure all my client‑side modifications respect your privacy.
+- I make sure all my modifications respect your privacy.
 - My instance does not keep any logs (not directly related to this code, but see https://oh64.moe/Search-Privacy.html).
 
 I will try to keep this fork updated with the original SearXNG as much as possible.
