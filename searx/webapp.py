@@ -868,7 +868,11 @@ def engines_list():
         'news': ['news'],
         'map': ['map'],
         'packages': ['packages'],
+        'scientific_publications': ['science'],
+        'music': ['music'],
         'apps': ['apps'],
+        'it': ['it'],
+        'social media': ['social media'],
         'other': ['dictionaries', 'movies', 'shopping', 'software_wikis', 'weather'],
     }
 
