@@ -1,0 +1,16 @@
+<fieldset>{{- '' -}}
+  <legend>{{ _('Loading animation on search') }}</legend>{{- '' -}}
+  <p class="value">{{- '' -}}
+    <input type="checkbox" {{- ' ' -}}
+           name="search_loading_anim" {{- ' ' -}}
+           aria-labelledby="pref_search_loading_anim" {{- ' ' -}}
+           class="checkbox-onoff" {{- ' ' -}}
+           {%- if preferences.get_value('search_loading_anim') -%}
+             checked
+           {%- endif -%}{{- ' ' -}}
+           >{{- '' -}}
+  </p>{{- '' -}}
+  <div class="description" id="pref_search_loading_anim">
+    {{- _('Show an animation while loading') -}}
+  </div>{{- '' -}}
+</fieldset>{{- '' -}}

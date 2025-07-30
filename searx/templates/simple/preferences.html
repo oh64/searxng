@@ -207,6 +207,9 @@
     {%- if 'i_have_luck' not in locked_preferences -%}
       {%- include 'simple/preferences/i_have_luck.html' -%}
     {%- endif -%}
+    {%- if 'search_loading_anim' not in locked_preferences -%}
+      {%- include 'simple/preferences/search_loading_anim.html' -%}
+    {%- endif -%}
     {%- if 'search_on_category_select' not in locked_preferences -%}
       {%- include 'simple/preferences/search_on_category_select.html' -%}
     {%- endif -%}
