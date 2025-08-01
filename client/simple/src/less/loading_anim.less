@@ -1,9 +1,7 @@
 #loading_overlay {
-  display:none;
   position: fixed;
   inset: 0;
   background: var(--color-base-background);
-  display: flex;
   justify-content: center;
   align-items: center;
   flex-direction: column;
@@ -12,6 +10,7 @@
   transition: opacity 0.3s cubic-bezier(0.4, 0, 0.2, 1);
   pointer-events: all;
   padding: 20px;
+  display:none;
 }
 
 #loading_overlay > div {
