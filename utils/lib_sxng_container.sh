@@ -8,7 +8,8 @@ container.:
 EOF
 }
 
-CONTAINER_IMAGE_ORGANIZATION=${GITHUB_REPOSITORY_OWNER:-"searxng"}
+CONTAINER_IMAGE_ORGANIZATION=${GITHUB_REPOSITORY_OWNER:-"oh64"}
+DOCKER_IMAGE_ORGANIZATION=${DOCKER_REPOSITORY_OWNER:-"oh64chan"}
 CONTAINER_IMAGE_NAME="searxng"
 
 container.build() {
@@ -281,9 +282,15 @@ container.push() {
             for tag in "${release_tags[@]}"; do
                 build_msg CONTAINER "Pushing manifest $tag to $registry"
 
-                podman manifest push \
-                    "localhost/$CONTAINER_IMAGE_ORGANIZATION/$CONTAINER_IMAGE_NAME:$tag" \
-                    "docker://$registry/$CONTAINER_IMAGE_ORGANIZATION/$CONTAINER_IMAGE_NAME:$tag"
+                if [ "$registry" = "docker.io" ]; then
+                    podman manifest push \
+                        "localhost/$CONTAINER_IMAGE_ORGANIZATION/$CONTAINER_IMAGE_NAME:$tag" \
+                        "docker://$registry/$DOCKER_IMAGE_ORGANIZATION/$CONTAINER_IMAGE_NAME:$tag"
+                else
+                    podman manifest push \
+                        "localhost/$CONTAINER_IMAGE_ORGANIZATION/$CONTAINER_IMAGE_NAME:$tag" \
+                        "docker://$registry/$CONTAINER_IMAGE_ORGANIZATION/$CONTAINER_IMAGE_NAME:$tag"
+                fi
             done
         done
     )
