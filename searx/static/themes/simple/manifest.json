@@ -1,4 +1,10 @@
 {
+  "js/anim.loader.js": {
+    "file": "js/anim.loader.js",
+    "name": "js/anim.loader",
+    "src": "js/anim.loader.js",
+    "isEntry": true
+  },
   "js/searxng.head.js": {
     "file": "js/searxng.head.min.js",
     "name": "js/searxng.head.min",
