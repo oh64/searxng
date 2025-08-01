@@ -32,7 +32,7 @@
 </head>
 <body class="{{ endpoint }}_endpoint" >
   {% if preferences.get_value('search_loading_anim') %}
-  <div id="loading_overlay" style="display:none;">
+  <div id="loading_overlay">
   <div class="loader-content">
       <div class="spinner"></div>
       <div id="loading_text">{{ _('Searching on the web...') }}</div>
