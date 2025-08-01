@@ -17,7 +17,7 @@ permissions:
 jobs:
   registry:
     # FIXME: On forks it fails with "Failed to fetch packages: missing field `id` at line 1 column 141"
-    if: github.repository_owner == 'searxng' || github.event_name == 'workflow_dispatch'
+    if: github.repository_owner == 'oh64' || github.event_name == 'workflow_dispatch'
     name: Registry
     runs-on: ubuntu-24.04
     permissions:
