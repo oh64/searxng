@@ -19,7 +19,7 @@ env:
 
 jobs:
   data:
-    if: github.repository_owner == 'searxng'
+    if: github.repository_owner == 'oh64'
     name: ${{ matrix.fetch }}
     runs-on: ubuntu-24.04-arm
     strategy:

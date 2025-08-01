@@ -16,7 +16,7 @@ permissions:
 
 jobs:
   container:
-    if: github.repository_owner == 'searxng'
+    if: github.repository_owner == 'oh64'
     name: Container
     runs-on: ubuntu-24.04-arm
     permissions:
