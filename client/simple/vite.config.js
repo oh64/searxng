@@ -71,6 +71,7 @@ export default defineConfig({
         "css/rss.min.css": `${PATH.src}/less/rss.less`,
 
         // build JS files
+        "js/anim.loader": `${PATH.src}/js/anim.loader.js`,
         "js/searxng.head.min": `${PATH.src}/js/searxng.head.js`,
         "js/searxng.min": `${PATH.src}/js/searxng.js`
       },

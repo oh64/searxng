@@ -1,0 +1,1 @@
+import "./main/loading_anim_starter.js";
