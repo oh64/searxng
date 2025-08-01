@@ -89,6 +89,15 @@
     // focus search input on large screens
     if (!isMobile && !isResultsPage) document.getElementById("q").focus();
 
+    const luckyButton = d.getElementById("direct_search");
+    const luckyField = d.getElementById("lucky_field");
+
+    if (luckyButton && luckyField) {
+      searxng.on(luckyButton, "click", () => {
+        luckyField.value = "1";
+      });
+    }
+
     qinput = d.getElementById(qinput_id);
     const autocomplete = d.querySelector(".autocomplete");
     const autocompleteList = d.querySelector(".autocomplete ul");
