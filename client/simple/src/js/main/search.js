@@ -95,6 +95,8 @@
     if (luckyButton && luckyField) {
       searxng.on(luckyButton, "click", () => {
         luckyField.value = "1";
+        const form = d.querySelector("#search");
+        form.submit();
       });
     }
 

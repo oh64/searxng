@@ -4,7 +4,7 @@
       <div class="search_box">
         {% if preferences.get_value('i_have_luck') %}
         <input type="hidden" name="lucky" id="lucky_field" value="">
-        <button id="direct_search" type="submit" aria-label="{{ _('lucky') }}">
+        <button id="direct_search" type="button" aria-label="{{ _('lucky') }}">
             {{ _('I\'m feeling lucky') }}
         </button>
         {% endif %}
