@@ -7,7 +7,7 @@
    "ref"
   ],
   "bing videos":[
-   "Intelligente soektog van Bing maak dit makliker om vinnig te kry waarna jy soek en beloon jou.",
+   "Soek met Microsoft Bing en gebruik die krag van AI om inligting te vind, webbladsye, beelde, video's, kaarte en meer te verken. ’n Slimsoekenjin vir die ewig nuuskieriges.",
    "https://www.bing.com/videos"
   ],
   "currency":"DuckDuckGo is ’n soekenjin op die Internet. Een van hulle grootste trekpleisters is dat hulle meer privaatheidsbewus is en nie op gebruikers spioeneer nie. Die gebruiker se gedrag en profiel beïnvloed dus nie die resultate nie. As gevolg hiervan sal elke gebruiker presies dieselfde resultate vir dieselfde soektog kry.",
@@ -44,6 +44,10 @@
   "google images":[
    "Google Images. Die omvattendste prentesoektog op die web.",
    "https://images.google.com"
+  ],
+  "google news":[
+   "Voor jy voortgaan",
+   "https://news.google.com"
   ],
   "hackernews":"Hacker News is 'n sosiale nuus webwerf wat fokus op rekenaarwetenskap en entrepreneurskap. Dit word gelei deur Paul Graham se belegging fonds en opstart broeikas, Y Combinator. In die algemeen, is inhoud wat ingedien kan word, gedefinieer as \"enigiets wat jou intellektuele nuuskierigheid bevredig\".",
   "imdb":"Die Internet-rolprentdatabasis is 'n aanlyn databasis met rolprente, televisiereekse, akteurs en rekenaarspeletjies. IMDb behoort sedert 1998 aan Amazon.com.",
@@ -124,7 +128,7 @@
    "https://www.bing.com/news"
   ],
   "bing videos":[
-   "يُسهّل البحث الذكي من Bing من العثور بسرعة على ما تبحث عنه كما يمنحك مكافآت.",
+   "ابحث باستخدام Microsoft Bing واستخدم قوة الذكاء الاصطناعي للعثور على المعلومات، واستكشاف صفحات الويب، والصور، ومقاطع الفيديو، والخرائط، والمزيد. محرك بحث ذكي للأشخاص دائمي الفضول.",
    "https://www.bing.com/videos"
   ],
   "bitbucket":[
@@ -333,7 +337,7 @@
   ],
   "wikidata":"ويكي بيانات مشروع يهدف لإنشاء قاعدة بيانات حرة للمعلومات عن العالم يمكن للإنسان والآلة قراءتها وتعديلها على حد سواء. إذ ستزود ببيانات بجميع لغات مشاريع ويكيميديا، وتتيح الوصول المركزي إلى البيانات مثلما يعمل مشروع ويكيميديا كومنز للملفات. المشروع تشغله وتستضيفه مؤسسة ويكيميديا وهو أحد المشاريع الشقيقة لويكيبيديا الموسوعة الحرة. أنشئ المشروع بتمويل من التبرعات المقدمة من معهد ألين للذكاء الاصطناعي، ومؤسسة غوردون وبيتي موور، وشركة غوغل، تصل إلى إجمالي 1.3 مليون دولار.",
   "wikinews":"ويكي الأخبار أحد مشاريع مؤسسة ويكيميديا، بدأ في 8 نوفمبر 2004، وبدأت النسخة العربية منه في 12 ديسمبر 2005، يهدف المشروع إلى كتابة محتوى إخباري محايد؛ في سبتمبر 2005 أصبح محتوى المشروع متوفرا تحت رخصة التشارك الإبداعي.",
-  "wikipedia":"ويكيبيديا والكلمة مشتقة من مقطعين: ويكي wiki وتعني بلغة هاواي \"بالغ السرعة\"، والثاني بيديا pedia ومشتق من كلمة موسوعة encyclopedia، ويكيبيديا هي موسوعة متعددة اللغات، مبنية على الويب، ذات محتوى حر، تشغلها مؤسسة ويكيميديا، التي هي منظمة غير ربحية. ويكيبيديا هي موسوعة يمكن لأي مستخدم تعديل وتحرير وإنشاء مقالات جديدة فيها.",
+  "wikipedia":"ويكيبيديا والكلمة مشتقة من مقطعين: ويكي wiki وتعني بلغة هاواي \"بالغ السرعة\"، والثاني بيديا pedia ومشتق من كلمة موسوعة encyclopedia، فيمكن ترجمتها إلى \"الموسوعة السريعة\". ويكيبيديا هي موسوعة متعددة اللغات، مبنية على الويب، ذات محتوى حر، تشغلها مؤسسة ويكيميديا، التي هي منظمة غير ربحية. ويكيبيديا هي موسوعة يمكن لأي مستخدم تعديل وتحرير وإنشاء مقالات جديدة فيها.",
   "wikiquote":"ويكي الاقتباس هو أحد مشاريع مؤسسة ويكيميديا؛ مبني بالأساس على فكرة دانييل الستون التي سرعان ما قام بتنفيذها بريون فيبر. يهدف المشروع إلى تجميع الاقتباسات والأقوال المأثورة، بدأ المشروع في 10 يوليو 2003 وبدأت النسخة العربية في 30 سبتمبر 2004 وهي أيضا تستخدم برنامج ميدياويكي لإدارة المحتوى.",
   "wikisource":"ويكي مصدر هي مكتبة رقمية متصلة بالشبكة العنكبوتية مفتوحة للجميع، ويمكن تحميلها على شكل ملف pdf.في هذا المشروع العربي تضم 79٬518 صفحة حتى تاريخ 2020 من الرسائل الأدبية، والكتب والنصوص الدينية والتراثية والتاريخية، والشعر. بدأت ويكي مصدر في نوفمبر 2003 كمجموعة للنصوص الحرة الداعمة لمقالات ويكيبيديا المشروع الأساسي لمؤسسة ويكيميديا. سميت في أول الأمر مشروع سورس بيرغ كمحاولةٍ لنحت اسم ما يعرف بمشروع غوتنبرغ، ثمّ تغيّر اسم المشروع في 6 ديسمبر 2003 إلى ويكي المصدر. وهو مشروع مؤسسة ويكيميديا لجمع وتخزين نصوص الملكية العامة المنشورة سابقًا أو النصوص الحرة التي نفدت حقوق طبعها أو المترجمة ومتوفرة بعدة لغات. انتقل المشروع إلى عنوان موقعه الدائم في 23 يوليو 2004.",
   "wikispecies":"ويكي أنواع هو أحد مشاريع مؤسسة ويكيميديا، وهو يهدف إلى إنشاء دليل بكل أنواع الكائنات. بدأ المشروع في 13 سبتمبر 2004.",
@@ -341,10 +345,6 @@
   "wikivoyage":"ويكي الرحلات هي دليل سياحي على شبكة الإنترنت، كتب بطريقة تشاركية من عدد من الكتاب المتطوعين، ومحتواه هو تحت رخصة حرة.",
   "wiktionary":"ويكاموس هو مشروع مُتعدد اللغات، أحد مشاريع مؤسسة ويكيميديا على شبكة الإنترنت يهدف إلى إيجاد قاموس حر بلغة الويكي لكل اللغات. يتم تحريرها بشكل تعاوني عن طريق ويكي، وهو متاح في 172 لغة من بينها العربية. مُعظم مفردات اللغة في ويكاموس توفر تعريفات وترجمات للكلمات إلى لغات عديدة، وبعض المفردات متصلة بمعلومات إضافية موجودة عادة في المكنز أو المعجم اللغوي، كما تضم مرادفات الكلمة.",
   "wolframalpha":"ولفرام ألفا ، هو محرك بحث أطلق عند الساعة الثالثة من صباح 16 مايو 2009. على خلاف محركات البحث التقليدية، فإن ولفرام يقوم بالإجابة عن الأسئلة التي تطرح عليه في حين تقوم البواحيث التقليدية بمجرد عرض قائمة من مواقع الإنترنت ذات العلاقة بالكلمات المفتاحية التي يتم البحث عبرها.",
-  "wttr.in":[
-   "not found تقرير حالة ألطقس",
-   "https://wttr.in"
-  ],
   "yacy":"ياسي – هو محرك بحثي موزع يستخدم بالمجان، مبني علي مبادئ شبكة النظير للنظير. محتوى المحرك عبار عن برنامج مكتوب بلغة الجافا موزع على العديد من الحواسب الالية في شهر سبتمبر 2006 وكان يسمى ب «نظراء الياسي» كل نظير بمفرده يبحث في شبكة الإنترنت، يحلل ويسجل الصفحات التي وجدت ويخزن التسجيلات في قاعدة بيانات مشتركة بين الاخرون طبقا لمبادئ شبكة النظير للنظير. هو محرك بحث لأي شخص ويمكنه بناء مدخل بحثي لشبكته الداخلية ومساعدته في البحث على الإنترنت العام.",
   "yacy images":[
    "yacy:ar",
@@ -352,10 +352,6 @@
   ],
   "yahoo news":"ياهو! نيوز بالإنجليزية موقع أخباري تابع لشركة ياهو الأمريكية تقوم بجمع الأخبار من جميع الوكلات والصحف ووضعها في الموقع.",
   "youtube":"يوتيوب هو موقع ويب أمريكي يسمح لمستخدميه برفع، بث، ومشاركة التسجيلات المرئية مجانًا، بالإضافة إلى إمكانية التعليق والتفاعل مع المحتوى. تأسس الموقع في 14 فبراير 2005 على يد تشاد هيرلي وستيف تشين وجاود كريم، وهم ثلاثة موظفين سابقين في شركة باي بال، وكان مقره في مدينة سان برونو، كاليفورنيا. في البداية، اعتمد يوتيوب على تقنية أدوبي فلاش لعرض الفيديوهات، لكنه انتقل لاحقًا إلى تقنية إتش تي إم إل 5 الأكثر حداثة.",
-  "yummly":[
-   "تطبيق محمول",
-   "wikidata"
-  ],
   "z-library":"مكتبة-زد هو مشروعshadow library لمشاركه الملفات للوصول إلى مقالات العلميه والنصوص الادبيه وكتب المصالح العامه. ونشآت كمرآه لLibrary Genesis،و اغلبيه كتبها من Library Genesis."
  },
  "bg":{
@@ -388,7 +384,7 @@
    "https://www.bing.com/news"
   ],
   "bing videos":[
-   "Интелигентното търсене на Bing ви помага бързо да намирате това, което търсите, и ви предоставя награди.",
+   "Търсете с Microsoft Bing и използвайте мощта на ИИ, за да намирате информация, да разглеждате уеб страници, изображения, видеоклипове, карти и др. Интелигентна търсачка за вечно любопитните.",
    "https://www.bing.com/videos"
   ],
   "bitchute":"BitChute е сайт за видео споделяне, базиран в Обединеното кралство. Създаден е през януари 2017 година от Рей Вахей. Сайтът използва технологията peer-to-peer на WebTorrent. Негова цел е да се избегнат повишените нива на цензура, които се прилагат на платформи като YouTube. Платформата е пригодена за привържениците на крайнодясната политика и на конспиративните теории.",
@@ -414,6 +410,10 @@
    "ref"
   ],
   "deviantart":"deviantArt е онлайн общност, в която се качват различни видове „произведения на изкуството“, направени от потребителите. Отворен е на 7 август, 2000 от Скот Джаркоф, Матю Стивънс, Анджело Сотира и други. Дружеството на deviantArt се намира в Холивуд, Лос Анджелис, Съединени щати.",
+  "dictzone":[
+   "Онлайн речници: английски, испански, немски, френски, италиански, унгарски... Изберете любимия си речник!",
+   "https://dictzone.com/"
+  ],
   "duckduckgo":[
    "currency:bg",
    "ref"
@@ -454,7 +454,7 @@
    "https://images.google.com"
   ],
   "google news":[
-   "Изчерпателни и актуални новинарски материали, обобщени от източници по целия свят от Google Новини.",
+   "Преди да продължите",
    "https://news.google.com"
   ],
   "google play apps":"Google Play, първоначално Android Market, е онлайн магазин за софтуер, разработен от Google. Tой служи като официален магазин за приложения за операционната система Android, позволявайки на потребителите да преглеждат и свалят приложения, разработени под Android и публикувани през Google. Google Play също така служи като дигитален магазин, който предлага музика, списания, книги, филми и тв сериали. Потребителите също така може и да закупуват хардуерни устройства през услугата, като Chromebook, Google Nexus-брандирани телефони, Chromecast и аксесоари.",
@@ -553,10 +553,6 @@
   "wikivoyage":"„Уикипътешественик“ е отворен многоезичен проект, посветен на туризма и създаването на свободно редактируем пътеводител. „Уикипътешественик“ е наречен „Уикипедия на пътеводителите“.",
   "wiktionary":"Уикиречник е многоезичен, уеб-базиран проект, стремящ се да създаде свободен по своето съдържание речник на над 150 езика. За разлика от традиционните речници, Уикиречникът се изгражда съвместно на доброволни начала посредством МедияУики, който позволява речниковите записи да се променят практически от всеки човек с достъп до Интернет.",
   "wolframalpha":"WolframAlpha е отговаряща машина, разработена от компанията Wolfram Research, чийто основател и главен изпълнителен директор е Стивън Волфрам.",
-  "wttr.in":[
-   "Прогноза за времето в: not found",
-   "https://wttr.in"
-  ],
   "youtube":"Ютюб е видео хостинг услуга, притежавана от Гугъл Тя предоставя уебсайт за видеосподеляне, на който потребителите могат да качват, споделят и гледат видеоклипове. След нова актуализация е предоставена възможността за споделяне на снимки, както и „истории“, видими за 12-часов период.",
   "z-library":"Z-Library е уебсайт за незаконно споделяне на електронни книги."
  },
@@ -586,7 +582,7 @@
    "ref"
   ],
   "bing videos":[
-   "Bing-এর বোধশক্তিসম্পন্ন সন্ধান বৈশিষ্ট্যটি আপনি যা খুঁজছেন তা সহজেই দ্রুত পেতে সাহায্য করে এবং আপনাকে পুরস্কার দেয়।",
+   "Microsoft Bing-এর সাথে সন্ধান করুন এবং তথ্য খুঁজতে, ওয়েব পৃষ্ঠা, চিত্র, ভিডিও, মানচিত্র এবং আরও অনেক কিছু এক্সপ্লোর করতে AI এর শক্তি ব্যবহার করুন। যারা সবসময় কৌতূহলী থাকেন জন্য একটি স্মার্ট সন্ধানকারী ইঞ্জিন।",
    "https://www.bing.com/videos"
   ],
   "bitbucket":"বিটবাকেট হল একটি গিট - ভিত্তিক সোর্স কোড রিপোজিটরি হোস্টিং পরিষেবা যা আটলাসিয়ানের মালিকানাধীন । গিটহাব এবং গিটল্যাব এর প্রতিদ্বন্দ্বী । Bitbucket সীমাহীন সংখ্যক ব্যক্তিগত সংগ্রহস্থল সহ বাণিজ্যিক পরিকল্পনা এবং বিনামূল্যে অ্যাকাউন্ট উভয়ই অফার করে।",
@@ -737,10 +733,6 @@
   "wikiversity":"উইকিবিশ্ববিদ্যালয় হল উইকিমিডিয়া ফাউন্ডেশনের একটি প্রকল্প যা শিক্ষার সম্প্রদায়, তাদের শিক্ষার উপকরণ এবং ফলস্বরূপ ক্রিয়াকলাপকে সমর্থন করে। এটি উইকিপিডিয়া থেকে আলাদা যে এটি একটি এনসাইক্লোপিডিয়ার পরিবর্তে শিক্ষার উত্সাহের জন্য টিউটোরিয়াল এবং অন্যান্য উপকরণ সরবরাহ করে; উইকিপিডিয়ার মতো, এটি অনেক ভাষায় পাওয়া যায়।",
   "wikivoyage":"উইকিভ্রমণ হলো স্বেচ্ছাসেবক লেখকদের দ্বারা লিখিত ভ্রমণের গন্তব্য ও বিষয়গুলোর জন্য একটি বিনামূল্যের ওয়েবভিত্তিক ভ্রমণ নির্দেশিকা। এটি উইকিপিডিয়ার একটি সহপ্রকল্প এবং অলাভজনক উইকিমিডিয়া ফাউন্ডেশন দ্বারা সমর্থিত ও হোস্ট করা হয়। উইকিভ্রমণকে \"ভ্রমণ নির্দেশনার উইকিপিডিয়া\" বলা হয়েছে।",
   "wiktionary":"উইকিঅভিধান বা উইকশনারি উন্মুক্ত অভিধান তৈরির একটি বহুভাষিক, ওয়েব-ভিত্তিক প্রকল্প, যা ১৫১ টি ভাষায় রয়েছে। অন্যান্য আদর্শ অভিধানের মত করে এটি করা হয়নি, এটি করা হয়েছে স্বেচ্ছাসেবকদের সহযোগীতায় উইকি সফটওয়্যার ব্যবহার করে, যেখানে ইন্টারনেটে এ ওয়েব সাইট ব্যবহার করে এমন প্রায় সবাইকে তা পরিবর্তন করার সুযোগ করে দেয়। এর সহপ্রকল্প উইকিপিডিয়ার মত উইকিঅভিধানও উইকিমিডিয়া ফাউন্ডেশন দ্বারা পরিচালিত হয়।",
-  "wttr.in":[
-   "আবহাওয়া সঙ্ক্রান্ত তথ্য not found",
-   "https://wttr.in"
-  ],
   "yahoo news":"ইয়াহু! নিউজ হল একটি সংবাদ ওয়েবসাইট যা ইয়াহু! দ্বারা একটি ইন্টারনেট-ভিত্তিক সংবাদ সমষ্টিকারী হিসাবে উদ্ভূত হয়েছে। সাইটটি ইয়াহু! সফ্টওয়্যার প্রকৌশলী ব্র্যাড ক্লোসি আগস্ট ১৯৯৬ সালে তৈরি করেছিল। নিবন্ধগুলি মূলত অ্যাসোসিয়েটেড প্রেস, রয়টার্স, ফক্স নিউজ, আল জাজিরা, এবিসি নিউজ, ইউএসএ টুডে, সিএনএন এবং বিবিসি নিউজের মতো সংবাদ পরিষেবাগুলি থেকে এসেছে।",
   "youtube":"ইউটিউব হলো সান ব্রুনো, ক্যালিফোর্নিয়া ভিত্তিক একটি বৈশ্বিক অনলাইন ভিডিও প্ল্যাটফর্ম সেবার সাইট এবং সামাজিক যোগাযোগ মাধ্যম, যা ২০০৫ সালের ফেব্রুয়ারিতে প্রকাশিত হয়। ইউটিউব বর্তমানে গুরুত্বপূর্ণ একটি প্ল্যাটফর্ম। ২০০৬ সালের অক্টোবরে, গুগল সাইটটিকে ১.৬৫ বিলিয়ন মার্কিন ডলারের বিনিময়ে ক্রয় করে নেয়। ইউটিউব বর্তমানে গুগলের অন্যতম অধীনস্থ প্রতিষ্ঠান হিসেবে পরিচালিত হচ্ছে।"
  },
@@ -793,7 +785,7 @@
    "https://www.bing.com/news"
   ],
   "bing videos":[
-   "La cerca intel·ligent del Bing t'ajuda a trobar el que cerques més ràpidament i et recompensa.",
+   "Cerqueu amb el Microsoft Bing i utilitzeu el poder de la IA per cercar informació, explorar pàgines web, imatges, vídeos, mapes i molt més. Un motor de cerca intel·ligent per a la curiositat infinita.",
    "https://www.bing.com/videos"
   ],
   "bitchute":"BitChute és un servei d'allotjament de vídeos alternatiu que funciona mitjançant tecnologia peer-to-peer. La companyia va ser fundada per Ray Vahey el gener de 2017, com a mètode d'evitar algunes de les regles de contingut marcades en plataformes com Youtube. Alguns creadors de contingut que van ser bloquejats o els canals del qual van ser desmonetitzats a Youtube, han migrat a BitChute.",
@@ -968,7 +960,7 @@
    "startpage:ca",
    "ref"
   ],
-  "steam":"Steam és una plataforma de videojocs desenvolupada per Valve Corporation mitjançant la qual la companyia posa a la disposició dels usuaris serveis tals com compres digitals, actualitzacions instantànies, llistat de servidors disponibles, assoliments, servei de missatgeria instantània entre jugadors, ofertes exclusives, informació d'última hora, etc.",
+  "steam":"Steam és una plataforma de videojocs desenvolupada per Valve Corporation mitjançant la qual la companyia posa a la disposició dels usuaris serveis tals com compres digitals, actualitzacions instantànies, llista de servidors disponibles, assoliments, servei de missatgeria instantània entre jugadors, ofertes exclusives, informació d'última hora, etc.",
   "superuser":[
    "stackoverflow:ca",
    "ref"
@@ -1000,10 +992,6 @@
   "wikivoyage":"Viquiviatges és un projecte per crear una guia turística lliure, basada en la tecnologia wiki. Es desenvolupa de manera col·laborativa per viquiviatgers de tot el món. Viquiviatges es construeix amb l'esperit de compartir el coneixement que fa que viatjar sigui tan agradable.",
   "wiktionary":"El Viccionari és un projecte col·laboratiu per produir un diccionari multilingüe lliure, amb significats, etimologies i pronunciacions, en totes aquelles llengües en què sigui possible. El Viccionari és l'acompanyant lèxic al contingut obert de l'enciclopèdia Viquipèdia.",
   "wolframalpha":"WolframAlpha ( WUULf-rəm-) és un motor de respostes desenvolupat per Wolfram Research. Respon a les consultes de fets calculant respostes a partir de dades d'origen extern.",
-  "wttr.in":[
-   "Informe del temps per a: not found",
-   "https://wttr.in"
-  ],
   "yacy":"Yacy és un cercador lliure que fa servir una xarxa peer-to-peer com a infraestructura.",
   "yacy images":[
    "yacy:ca",
@@ -1049,7 +1037,7 @@
    "https://www.bing.com/news"
   ],
   "bing videos":[
-   "S inteligentním vyhledáváním od Bingu najdete, co hledáte, snadno a rychle a ještě získáte odměnu.",
+   "Hledejte pomocí Microsoft Bingu a využijte sílu AI k hledání informací, zkoumání webových stránek, obrázků, videí, map a dalších informací. Chytrý vyhledávací web pro navždy zvídavé.",
    "https://www.bing.com/videos"
   ],
   "bitbucket":"Bitbucket je produkt a služba společnosti Atlassian pro webhosting repozitářů zdrojových kódů s verzovacím systémem Git. Nabízí jak komerční služby tak volné účty s neomezeným počtem soukromých repozitářů.",
@@ -1076,6 +1064,10 @@
    "https://deezer.com"
   ],
   "deviantart":"DeviantArt je online umělecká komunita. Poprvé byla spuštěna 7. srpna 2000 díky práci Scotta Jarkoffa, Matthewa Stephense a Angela Sotiry, který je nyní CEO.",
+  "dictzone":[
+   "Online slovníky: angličtina, němčina, maďarština... Vyberte si svůj oblíbený slovník!",
+   "https://dictzone.com/"
+  ],
   "duckduckgo":[
    "currency:cs",
    "ref"
@@ -1219,7 +1211,7 @@
   "wiktionary":"Wikislovník je sesterský internetový projekt Wikipedie, který má za cíl vytvořit svobodný wiki mnohojazyčný slovník ve všech a o všech jazycích s definicemi, výslovností, překlady, etymologií a dalšími slovníkovými sekcemi. Vychází z myšlenky Daniela Alstona a byl spuštěn 12. prosince 2002.",
   "wolframalpha":"Wolfram Alpha je odpovídací stroj, vytvořený firmou Wolfram Research. Jde o službu, která se snaží přímo odpovídat na dotazy uživatele, na rozdíl od vyhledávacích služeb, které poskytnou pouze seznam stránek, pravděpodobně obsahujících odpověď. Wolfram Alpha je vytvořen na základě výpočetního softwaru Mathematica, který je využíván pro řešení algebraických úloh, numerických a statistických výpočtů, ale i vizualizaci výsledků. Odpověď na dotaz se zobrazí v člověku čitelné a přehledné formě. Často je přiložen i postup vedoucí k výsledku.",
   "wttr.in":[
-   "Předpověď počasí pro: not found",
+   "Predpoveď počasia pre: Alès, France",
    "https://wttr.in"
   ],
   "yacy":"YaCy je svobodný P2P vyhledávač. Na rozdíl od jiných známých vyhledávačů, YaCy nefunguje prostřednictvím několika málo datacenter. Místo toho využívá Peer-to-peer komunikaci a sdílení dat, kde jsou disková úložiště jeho uživatelů používána k uchování dat o zaindexovaných webových stránkách a jiných dokumentech. V důsledku toho je velmi těžké cenzurovat nebo arbitrárně seřazovat výsledky vyhledávání jiných uživatelů a stejně tak nebude vyhledávač poškozen v případě poruchy několika jeho serverů.",
@@ -1227,11 +1219,7 @@
    "yacy:cs",
    "ref"
   ],
-  "youtube":"YouTube [ju:tu:b] je největší internetový server pro sdílení videosouborů. Založili jej v únoru 2005 zaměstnanci PayPalu Chad Hurley, Steve Chen a Jawed Karim. Nynějším generálním ředitelem společnosti je od února 2023 Neal Mohan. V listopadu 2006 byl zakoupen společností Google za 1,65 miliardy dolarů. Google nyní provozuje tuto stránku jako dceřinou společnost, uživatelské účty mezi těmito společnostmi jsou propojené.",
-  "yummly":[
-   "bandcamp:cs",
-   "ref"
-  ]
+  "youtube":"YouTube [ju:tu:b] je největší internetový server pro sdílení videosouborů. Založili jej v únoru 2005 zaměstnanci PayPalu Chad Hurley, Steve Chen a Jawed Karim. Nynějším generálním ředitelem společnosti je od února 2023 Neal Mohan. V listopadu 2006 byl zakoupen společností Google za 1,65 miliardy dolarů. Google nyní provozuje tuto stránku jako dceřinou společnost, uživatelské účty mezi těmito společnostmi jsou propojené."
  },
  "cy":{
   "annas archive":"Peiriant metachwilio ar gyfer llyfrgelloedd \"cysgodol\" yw Archif Anna. Mae'n cynnig mynediad i lyfrau, papurau academaidd, comics a chylchgronau'n rhad ac am ddim. Mae gwefan yr archif, sy'n cael ei hariannu trwy roddion, yn cael ei rhedeg gan dîm anhysbys sy'n galw eu hunain yn \"Anna\" a thîm \"Pirate Library Mirror (PiLiMi)\". Yn ôl y wefan, mae'r archif yn cadw metadata ar dros 120 miliwn o weithiau.",
@@ -1252,8 +1240,8 @@
    "https://www.bing.com/news"
   ],
   "bing videos":[
-   "Mae chwilio deallus gan Bing yn ei gwneud yn haws i chi canfod yr hyn rydych chi'n chwilio amdano ac yn eich gwobrwyo.",
-   "https://www.bing.com/videos"
+   "bing:cy",
+   "ref"
   ],
   "flickr":"Gwefan sy'n cynnal lluniau a fideos gan gymuned ar y we yw Flickr.",
   "gentoo":[
@@ -1321,10 +1309,6 @@
   "wikisource":"Prosiect Wicifryngau yw Wicidestun, sy'n ceisio adeiladu ystorfa testunau gwreiddiol sy'n eiddo cyhoeddus neu o dan termau'r Drwydded Dogfennaeth Rhydd GNU (\"GFDL\"). Mae'r safle yn rhan o'r Sefydliad Wicifryngau.",
   "wikispecies":"Prosiect gan Sefydliad Wicimedia yw Wicirywogaeth (Wikispecies) a lansiwyd ar 5 Medi 2004. Mae'n brosiect amlieithog, ac yn debycach i Comin Wicimedia nag i Wicipedia o ran ffurf.",
   "wiktionary":"Un o brosiectau Sefydliad Wicifryngau gyda'r nod o greu geiriadur wici rhydd ym mhob iaith yw Wiciadur sy'n eiriadur Cymraeg - Saesneg. Erbyn Medi 2012 roedd gan y Wiciadur dros 17,000 o gofnodion mewn 65 o ieithoedd gwahanol. Gyda'r Wiciadur Cymraeg, darperir diffiniadau o ystyron geiriau ac ymadroddion Cymraeg eu hiaith tra bod cyfieithiadau o eiriau mewn ieithoedd eraill yn cael eu darparu.",
-  "wttr.in":[
-   "Adroddiad tywydd ar gyfer: not found",
-   "https://wttr.in"
-  ],
   "youtube":"Cwmni cynnal a rhannu fideos ar-lein ydy YouTube a grëwyd gan dri cynweithwyr cwmni bancio digidol PayPal yn Chwefror 2005. Gall defnyddwyr uwchlwytho a lawrlwytho fideos. Yn San Bruno, California, y lleolwyd pencadlys y cwmni a defnyddia Adobe Flash Video a thechnoleg HTML5 i arddangos ystod eang iawn o fideos a gynhyrchwyd gan y defnyddwyr neu wylwyr gan gynnwys clipiau byr, tameidiau o raglenni teledu a cherddoriaeth yn ogystal â ffilmiau a chlipiau amtaur a blogiau fideo."
  },
  "da":{
@@ -1351,7 +1335,7 @@
    "https://www.bing.com/news"
   ],
   "bing videos":[
-   "Med intelligent søgning med Bing kan du nemmere og hurtigere finde, hvad du leder efter, og du modtager også belønninger.",
+   "Søg med Microsoft Bing, og brug styrken ved kunstig intelligens til at finde oplysninger, udforske websider, billeder, videoer, kort og meget mere. En smart søgemaskine til de nysgerrige, der altid er nysgerrige.",
    "https://www.bing.com/videos"
   ],
   "bitchute":"BitChute er et websted til deling af videoer, der bruger peer-to-peer-netværk. Webstedet blev grundlagt af Ray Vahey, der beskrev BitChute som en måde at undgå censur og fjernelse af videoer af etablerede tjenester som YouTube.",
@@ -1381,6 +1365,10 @@
    "https://deezer.com"
   ],
   "deviantart":"DeviantArt er en amerikansk online fællesskab tilgængeligt for hele verden, der fremviser brugerfremstillet kunst. Siden blev lanceret den 7. august 2000 af Scott Jarkoff, Matthew Stephens, Angelo Sotira og andre. DeviantArt, Inc. har hovedkvarter i Hollywood-området af Los Angeles, Californien, USA.",
+  "dictzone":[
+   "Online ordbøger: engelsk, spansk, tysk, fransk, italiensk, ungarsk... Vælg din yndlingsordbog!",
+   "https://dictzone.com/"
+  ],
   "duckduckgo":[
    "currency:da",
    "ref"
@@ -1413,7 +1401,7 @@
    "https://images.google.com"
   ],
   "google news":[
-   "Omfattende og oppdatert nyhetsdekning, samlet inn av Google News fra nyhetskilder i hele verden.",
+   "Inden du fortsætter",
    "https://news.google.com"
   ],
   "google play apps":"Google Play – tidligere Android Market – er en applikation, der er udviklet af Google til systemet Android. Det giver brugeren mulighed for at finde og downloade applikationer fra tredjepartsudviklere.",
@@ -1490,10 +1478,6 @@
   "wikivoyage":"Wikivoyage er en fri webbaseret rejseguide for både rejsedestinationer og emner relateret til rejser, der er skrevet af frivillige forfattere.",
   "wiktionary":"Wiktionary er en ordbog med åbent indhold fra Wikimedia Foundation. Den engelsksprogede version blev etableret i december 2002 og rummer mere end 3.500.000 artikler.",
   "wolframalpha":"Wolfram Alpha er en beregningsmæssig vidensmotor eller svarmaskine, som er udviklet af Wolfram Research. Wolfram Alpha er en online søgemaskine som kan svare på faktuelle forespørgsler direkte ved at behandle disse vha. eksterne kilder. Dermed undlader Wolfram Alpha at oplyse en liste med links, som en normal søgemaskine måske ville.",
-  "wttr.in":[
-   "Vejret i: not found",
-   "https://wttr.in"
-  ],
   "youtube":"YouTube er en online video platform og socialt medie med hovedsæde i San Bruno i Californien, USA. Tjenesten blev udviklet af de tidligere PayPal-medarbejdere Steve Chen, Chad Hurley og Jawed Karim og åbnede den 14. februar 2005. Tjenesten blev i november 2006 købt af Google for 1,65 mia $."
  },
  "de":{
@@ -1533,7 +1517,7 @@
    "https://www.bing.com/news"
   ],
   "bing videos":[
-   "Mit der intelligenten Bing-Suche können Sie die gewünschten Informationen schneller und einfacher finden und dabei Punkte sammeln.",
+   "Suchen Sie mit Microsoft Bing und nutzen Sie die Leistungsfähigkeit der KI, um Informationen zu finden, Webseiten, Bilder, Videos, Karten und mehr zu erkunden. Eine intelligente Suchmaschine für immer neugierige Menschen.",
    "https://www.bing.com/videos"
   ],
   "bitbucket":"Bitbucket ist eine proprietäre Softwareentwicklungsplattform. Der Dienst wurde ursprünglich als reines Mercurial-System entwickelt, jedoch am 3. Oktober 2011 um Unterstützung für Git erweitert. Bitbucket wurde 2007 durch den Dänen Jesper Nøhr entwickelt und 2010 von Atlassian gekauft. Seit dem 1. Juli 2020 wird Mercurial nicht mehr unterstützt.",
@@ -1576,6 +1560,10 @@
    "https://www.destatis.de"
   ],
   "deviantart":"DeviantArt ist ein kommerzieller Onlinedienst mit zahlreichen Elementen einer Internetgemeinschaft, der registrierten Nutzern die Möglichkeit bietet, eigene Werke aus den Bereichen Fotografie, Grafik oder Illustration zu veröffentlichen. Zahlreiche dieser Werke können im integrierten Shop angeboten und von anderen Nutzern in gedruckter Form bestellt werden, wozu keine kostenpflichtige Mitgliedschaft notwendig ist.",
+  "dictzone":[
+   "DictZone online Wörterbücher, Englisch, Ungarisch, Deutsch, Russisch...",
+   "https://dictzone.com/"
+  ],
   "discuss.python":"Discourse ist eine Open-Source-Software zum Management von Internetforen und Mailinglisten. Sie hat zum Ziel, bessere Diskussionsqualität zu erreichen als in bis dahin gängigen Internetforen.",
   "docker hub":"Docker ist eine freie Software zur Isolierung von Anwendungen mit Hilfe von Containervirtualisierung.",
   "duckduckgo":[
@@ -1677,7 +1665,7 @@
   "mastodon users":"Mastodon ist ein dezentraler Mikroblogging-Dienst, der anfänglich von Eugen Rochko und der von ihm in Jena gegründeten und in Berlin ansässigen Mastodon gGmbH entwickelt wurde. Mastodon ist als dezentrales Netzwerk konzipiert, das nicht auf eine Plattform beschränkt ist: Verschiedene Server, von Privatpersonen oder Institutionen eigenverantwortlich betrieben, können miteinander interagieren. Seit März 2024 sind über 15 Millionen Nutzer im Mastodon-Netzwerk registriert.",
   "mdn":"MDN Web Docs, ehemals Mozilla Developer Network und Mozilla Developer Center, ist die offizielle Entwickler-Dokumentation der Mozilla Foundation für Web-Technologien, das Offene Web und Mozilla Projekte.",
   "mediathekviewweb":"MediathekView ist ein Programm, das die Online-Mediatheken verschiedener öffentlich-rechtlicher TV-Sender durchsuchen und die vorhandenen Sendungen auflisten kann.",
-  "metacpan":"CPAN ist ein weltweit gespiegeltes Online-Repository für Perl-Module, -Anwendungen und -Dokumentationen, das am 25. Oktober 1995 in Anlehnung an die TeX-Library CTAN ins Leben gerufen wurde und sich schnell zum De-facto-Standard entwickelt hat. Es bietet die Möglichkeit einer komfortablen Installation und Verwaltung von Perl-Modulen. Im Oktober 2020 umfasste das CPAN circa 260 Server auf fünf Kontinenten und enthielt ca. 39.700 Distributionen von über 12.700 Autoren mit einem Volumen von ungefähr 21 GB.",
+  "metacpan":"CPAN ist ein weltweit gespiegeltes Online-Repository für Perl-Module, -Anwendungen und -Dokumentationen, das am 25. Oktober 1995 in Anlehnung an die TeX-Library CTAN ins Leben gerufen wurde und sich schnell zum De-facto-Standard entwickelt hat. Es bietet die Möglichkeit einer komfortablen Installation und Verwaltung von Perl-Modulen. Im Februar 2025 umfasste das CPAN circa 260 Server auf fünf Kontinenten und enthielt ca. 45.500 Distributionen von über 14.500 Autoren mit einem Volumen von ungefähr 36 GB.",
   "microsoft learn":[
    "Lernen Sie mit interaktiven Lektionen und technischer Dokumentation, erwerben Sie Weiterbildungsstunden und Zertifizierungen und treten Sie mit der Community in Kontakt.",
    "https://learn.microsoft.com"
@@ -1804,7 +1792,7 @@
    "https://www.woxikon.de/"
   ],
   "wttr.in":[
-   "Wetterbericht für: not found",
+   "Wetterbericht für: Alès, France",
    "https://wttr.in"
   ],
   "yacy":"YaCy ist eine Suchmaschine, die nach dem Peer-to-Peer-Prinzip – kurz P2P – arbeitet. Dabei gibt es keinen zentralen Server, sondern alle Teilnehmer sind gleichwertig.",
@@ -1852,7 +1840,7 @@
    "https://www.bing.com/news"
   ],
   "bing videos":[
-   "Η έξυπνη αναζήτηση του Bing σάς διευκολύνει να βρίσκετε γρήγορα αυτό που ψάχνετε και σας ανταμείβει.",
+   "Προβείτε σε αναζήτηση μέσω του Microsoft Bing και χρησιμοποιήστε τη δύναμη της AI για να βρείτε πληροφορίες, να εξερευνήσετε ιστοσελίδες, εικόνες, βίντεο, χάρτες και πολλά άλλα. Μια έξυπνη μηχανή αναζήτησης για τους αιωνίως περίεργους.",
    "https://www.bing.com/videos"
   ],
   "brave":"Ο Brave είναι ελεύθερος και ανοικτού κώδικα περιηγητής ιστού, τον οποίο διαχειρίζεται η Brave Software Inc. Ιδρύθηκε στις 28 Μαϊου 2015. Ως φυλλομετρητής δίνει έμφαση στην ιδιωτικότητα των χρηστών και στο μπλοκάρισμα των διαδικτυακών διαφημίσεων. Επίσης δίνει την δυνατότητα στους χρήστες να ανταλλάσσουν κρυπτονομίσματα. Είναι διαθέσιμος σε διάφορες πλατφόρμες, όπως Android, Linux, Windows, IoS, κ.λπ.",
@@ -1877,6 +1865,10 @@
   "deezer":[
    "γαλλική διαδικτυακή υπηρεσία αναπαραγωγής μουσικής",
    "wikidata"
+  ],
+  "dictzone":[
+   "Διαδικτυακά λεξικά: Αγγλικά, Ισπανικά, Γερμανικά, Γαλλικά, Ιταλικά, Ουγγρικά... Επιλέξτε το αγαπημένο σας λεξικό!",
+   "https://dictzone.com/"
   ],
   "duckduckgo":[
    "currency:el-GR",
@@ -1923,7 +1915,7 @@
   ],
   "google scholar":"Η Google Scholar είναι ελεύθερα προσβάσιμη μηχανή αναζήτησης ιστού που εντοπίζει το πλήρες κείμενο ή τα μεταδεδομένα των ακαδημαϊκών δημοσιεύσεων που έχουν υλοποιηθεί σε μία εκτεταμένη σειρά επιστημονικών και τεχνικών εκδόσεων, σε παγκόσμια κλίμακα. Η βάση αυτή αφορά δημοσιεύσεις που έχουν γίνει αποκλειστικά με χρήση της αγγλικής γλώσσας.",
   "hoogle":"Η Haskell είναι μια πρότυπη αμιγώς συναρτησιακή γλώσσα προγραμματισμού γενικής χρήσης με μη-αυστηρή σημασιολογία και ισχυρούς τύπους. Πήρε το όνομά της από τον επιστήμονα της λογικής Haskell Curry. Στη Haskell, \"μια συνάρτηση είναι μέλος πρώτης τάξης\" της γλώσσας προγραμματισμού. Ως συναρτησιακή γλώσσα προγραμματισμού, χρησιμοποιεί σαν κύρια δομή ελέγχου τη συνάρτηση. Η γλώσσα βασίζεται στις παρατηρήσεις του Haskell Curry και των πνευματικών του απογόνων, ότι \"μια απόδειξη είναι ένα πρόγραμμα και ο μαθηματικός τύπος που αποδεικνύει είναι ο τύπος του προγράμματος\".",
-  "imdb":"Η Internet Movie Database, πιο γνωστή με την συντομογραφία IMDb, είναι διαδικτυακή βάση δεδομένων με πληροφορίες για ηθοποιούς, ταινίες, τηλεοπτικά προγράμματα, παρουσιαστές της τηλεόρασης, βιντεοπαιχνίδια και συντελεστές παραγωγής ταινιών ή προγραμμάτων.",
+  "imdb":"Η Internet Movie Database, πιο γνωστή με τη συντομογραφία IMDb, είναι διαδικτυακή βάση δεδομένων με πληροφορίες για ηθοποιούς, ταινίες, τηλεοπτικά προγράμματα, παρουσιαστές της τηλεόρασης, βιντεοπαιχνίδια και συντελεστές παραγωγής.",
   "imgur":[
    "υπηρεσία που προσφέρει φιλοξενία εικόνων",
    "wikidata"
@@ -1994,7 +1986,7 @@
   "wikivoyage":"Τα Βικιταξίδια είναι ένας ελεύθερος διαδικτυακός ταξιδιωτικός οδηγός, για ταξιδιωτικούς προορισμούς και θέματα ευρύτερου ταξιδιωτικού ενδιαφέροντος, ο οποίος συντάσσεται από εθελοντές. Το όνομα αποτελεί συνδυασμό της λέξης \"Wiki\" και \"Ταξίδια\".",
   "wiktionary":"Το Βικιλεξικό είναι πολύγλωσσο λεξικογραφικό διαδικτυακό εγχείρημα του ιδρύματος Wikimedia. Βασίζεται σε σύστημα wiki και το περιεχόμενό του μπορεί να χρησιμοποιηθεί ελεύθερα.",
   "wttr.in":[
-   "Πρόγνωση καιρού για: not found",
+   "Πρόγνωση καιρού για: Alès, France",
    "https://wttr.in"
   ],
   "youtube":"To YouTube είναι ιστότοπος κοινοποίησης, αποθήκευσης, αναζήτησης και αναπαραγωγής ψηφιακών βίντεο και ψηφιακών ταινιών. Δημιουργήθηκε στις 14 Φεβρουαρίου 2005. Τον Νοέμβριο του 2005 ονομάστηκε από το περιοδικό Time «Η Εφεύρεση του 2005». Τον Οκτώβριο του 2006, η εταιρεία αγοράστηκε από την Google με ανταλλαγή μετοχών αξίας 1,65 δισεκατομμυρίων δολαρίων ΗΠΑ και σήμερα λειτουργεί ως θυγατρική της Google. Η εταιρία εδρεύει στο Σαν Μπρούνο της Καλιφόρνια, και χρησιμοποιεί την τεχνολογία Adobe Flash Video για να εμφανιστεί μια μεγάλη ποικιλία από το περιεχόμενο φτιαγμένο από χρήστες, συμπεριλαμβανομένων των κλιπ ταινιών, κλιπ τηλεόρασης, βίντεο και μουσικής, καθώς και ερασιτεχνικό περιεχόμενο, όπως το βιντεοϊστολόγιο και σύντομα πρωτότυπα βίντεο. Το μεγαλύτερο μέρος του περιεχομένου στο YouTube επιφορτώνεται από ιδιώτες, ωστόσο μέσα μαζικής ενημέρωσης και επιχειρήσεις παρέχουν ορισμένο από το υλικό τους μέσω της ιστοσελίδας συμπεριλαμβανομένων των CBS, BBC, Vevo και άλλων οργανώσεων, ως μέρος του προγράμματος εταιρικής σχέσης YouTube."
@@ -2102,6 +2094,10 @@
   ],
   "deezer":"Deezer is a French music streaming service and media service provider founded in 2007 that provides users with access to a vast library of music tracks, podcasts, and radio stations. It offers streaming services in over 180 countries and features a catalog of more than 90 million licensed tracks, making it one of the largest streaming platforms available. Deezer is available on various devices, including Android, iOS, macOS and others. The company is 41.4% owned by the Access Industries investment fund since 2016, 8.1% by Orange Group and 4.5% by the Pinault family through Artémis Group.",
   "deviantart":"DeviantArt is an American online community that features artwork, videography, photography, and literature, launched on August 7, 2000, by Mathew Stephens, Scott Jarkoff and Angelo Sotira, among others.",
+  "dictzone":[
+   "Online dictionaries: English, Spanish, German, French, Italian, Hungarian... Select your favorite dictionary!",
+   "https://dictzone.com/"
+  ],
   "discuss.python":"Discourse is an open source Internet forum system released on August 26, 2014. It was founded by Jeff Atwood, Robin Ward, and Sam Saffron.",
   "docker hub":[
    "hosting service for Docker repository",
@@ -2132,10 +2128,6 @@
    "wikidata"
   ],
   "emojipedia":"Emojipedia is an emoji reference website which documents the meaning and common usage of emoji characters in the Unicode Standard. Most commonly described as an emoji encyclopedia or emoji dictionary, Emojipedia also publishes articles and provides tools for tracking new emoji characters, design changes and usage trends. It has been owned by Zedge since 2021.",
-  "encyclosearch":[
-   "Search over two dozen encyclopedias at once with EncycloSearch! EncycloSearch is an ad-free, open-source encyclopedia search engine and reader. Supported by the Knowledge Standards Foundation.",
-   "https://encyclosearch.org"
-  ],
   "erowid":"Erowid, also called Erowid Center, is a non-profit educational organization that provides information about psychoactive plants and chemicals.",
   "etymonline":"Etymonline, or Online Etymology Dictionary, sometimes abbreviated as OED, is a free online dictionary that describes the origins of English words, written and compiled by Douglas R. Harper.",
   "fdroid":"F-Droid is a free and open source app store and software repository for Android, serving a similar function to the Google Play store. The main repository, hosted by the project, contains only free and open source apps. Applications can be browsed, downloaded and installed from the F-Droid website or client app without the need to register an account. \"Anti-features\" such as advertising, user tracking, or dependence on non-free software are flagged in app descriptions.",
@@ -2190,7 +2182,7 @@
    "huggingface:en",
    "ref"
   ],
-  "il post":"Il Post is an Italian online daily newspaper, founded in 2010 by Luca Sofri and directed by Francesco Costa. The editorial staff includes assistant editors Francesco Costa and Elena Zacchetti and journalists Arianna Cavallo, Luca Misculin, Giulia Balducci and Emanuele Menietti, as well as contributions from Luca Sofri and a number of other collaborators.",
+  "il post":"Il Post is an Italian news website, founded in 2010 by Luca Sofri and directed by Francesco Costa.",
   "imdb":"IMDb, historically known as the Internet Movie Database, is an online database of information related to films, television series, podcasts, home videos, video games, and streaming content online – including cast, production crew and biographies, plot summaries, trivia, ratings, and fan and critical reviews. IMDb began as a fan-operated movie database on the Usenet group \"rec.arts.movies\" in 1990, and moved to the Web in 1993. Since 1998, it has been owned and operated by IMDb.com, Inc., a subsidiary of Amazon.",
   "imgur":"Imgur is an American online image sharing and image hosting service with a focus on social gossip that was founded by Alan Schaaf in 2009. The service has hosted viral images and memes, particularly those posted on Reddit.",
   "ina":"The Institut national de l'audiovisuel is a repository of all French radio and television audiovisual archives. Additionally it provides free access to archives of countries such as Afghanistan and Cambodia. It has its headquarters in Bry-sur-Marne.",
@@ -2226,6 +2218,10 @@
   "libretranslate":[
    "Free and Open Source Machine Translation API. Free to download, offline capable and easy to setup. Run your own API server in just a few minutes.Free and Open Source Machine Translation API. Free to download, offline capable and easy to setup. Run your own API server in just a few minutes.",
    "https://libretranslate.com"
+  ],
+  "lingva":[
+   "Alternative front-end for Google Translate, serving as a Free and Open Source translator with over a hundred languages available",
+   "https://lingva.ml"
   ],
   "lobste.rs":[
    "social news website focused on computer engineering",
@@ -2451,6 +2447,10 @@
    "stackoverflow:en",
    "ref"
   ],
+  "svgrepo":[
+   "Free Vectors and Icons in SVG format. ✅ Download free mono or multi color vectors for commercial use. Search in 500.000+ Free SVG Vectors and Icons.",
+   "https://www.svgrepo.com"
+  ],
   "tagesschau":"Tagesschau is a German national and international television news service produced by the editorial staff of ARD-aktuell on behalf of the German public-service television network ARD.",
   "tineye":"TinEye is a reverse image search engine developed and offered by Idée, Inc., a company based in Toronto, Ontario, Canada. It is the first image search engine on the web to use image identification technology rather than keywords, metadata or watermarks. TinEye allows users to search not using keywords but with images. Upon submitting an image, TinEye creates a \"unique and compact digital signature or fingerprint\" of the image and matches it with other indexed images. This procedure is able to match even heavily edited versions of the submitted image, but will not usually return similar images in the results.",
   "tmdb":[
@@ -2463,7 +2463,7 @@
   ],
   "unsplash":"Unsplash is a website dedicated to proprietary stock photography. Since 2021, it has been owned by Getty Images. The website claims over 330,000 contributing photographers and generates more than 13 billion photo impressions per month on their growing library of over 5 million photos. Unsplash has been cited as one of the world's leading photography websites by Forbes, Design Hub, CNET, Medium and The Next Web.",
   "uxwing":[
-   "Exclusive Free icons SVG images easily copy paste SVG code or download SVG vector & PNG for commercial use no attribution required. You can use this icons library for websites, PowerPoint, applications, Android, etc",
+   "Get free icons download in SVG, PNG format for commercial use with no attribution required. Access a wide selection of free SVG icons, perfect for websites, apps, PowerPoint, and more. Download or copy SVG icons code easily!",
    "https://uxwing.com"
   ],
   "vimeo":"Vimeo is an American video hosting, sharing, and services provider founded in 2004 and headquartered in New York City. Vimeo focuses on the delivery of high-definition video across a range of devices and operates on a software as a service (SaaS) business model. The platform provides tools for video creation, editing, and broadcasting along with enterprise software solutions and the means for video professionals to connect with clients and other professionals. As of December 2021, the site has 260 million users, with around 1.6 million subscribers to its services.",
@@ -2502,7 +2502,7 @@
   "wikispecies":"Wikispecies is a wiki-based online project supported by the Wikimedia Foundation. Its aim is to create a comprehensive open content catalogue of all species; the project is directed at scientists, rather than at the general public. Jimmy Wales stated that editors are not required to fax in their degrees, but that submissions will have to pass muster with a technical audience. Wikispecies is available under the GNU Free Documentation License and CC BY-SA 4.0.",
   "wikiversity":"Wikiversity is a Wikimedia Foundation project that supports learning communities, their learning materials, and resulting activities. It differs from Wikipedia in that it offers tutorials and other materials for the fostering of learning, rather than an encyclopedia. It is available in many languages.",
   "wikivoyage":"Wikivoyage is a free web-based travel guide for travel destinations and travel topics written by volunteer authors. It is a sister project of Wikipedia and supported and hosted by the same non-profit Wikimedia Foundation (WMF). Wikivoyage has been called the \"Wikipedia of travel guides\".",
-  "wiktionary":"Wiktionary is a multilingual, web-based project to create a free content dictionary of terms in a large number of natural languages and a number of artificial languages. These entries may contain definitions, images for illustration, pronunciations, etymologies, inflections, usage examples, quotations, related terms, and translations of terms into other languages, among other features. It is collaboratively edited by volunteers via a wiki. Its name is a portmanteau of the words wiki and dictionary. It is available in 196 languages and in Simple English. Like its sister project Wikipedia, Wiktionary is run by the Wikimedia Foundation, and is written collaboratively by volunteers, dubbed \"Wiktionarians\". Its wiki software, MediaWiki, allows almost anyone with access to the website to create and edit entries.",
+  "wiktionary":"Wiktionary is a multilingual, web-based project to create a free content dictionary of terms in a large number of natural languages and a number of artificial languages. These entries may contain definitions, images for illustration, pronunciations, etymologies, inflections, usage examples, quotations, related terms, and translations of terms into other languages, among other features. It is collaboratively edited by volunteers via a wiki. Its name is a portmanteau of the words wiki and dictionary. It is available in 197 languages and in Simple English. Like its sister project Wikipedia, Wiktionary is run by the Wikimedia Foundation, and is written collaboratively by volunteers, dubbed \"Wiktionarians\". Its wiki software, MediaWiki, allows almost anyone with access to the website to create and edit entries.",
   "wolframalpha":"WolframAlpha is an answer engine developed by Wolfram Research. It is offered as an online service that answers factual queries by computing answers from externally sourced data.",
   "wordnik":"Wordnik, a nonprofit organization, is an online English dictionary and language resource that provides dictionary and thesaurus content. Some of the content is based on print dictionaries such as the Century Dictionary, the American Heritage Dictionary, WordNet, and GCIDE. Wordnik has collected a corpus of billions of words which it uses to display example sentences, allowing it to provide information on a much larger set of words than a typical dictionary. Wordnik uses as many real examples as possible when defining a word.",
   "wttr.in":[
@@ -2514,13 +2514,8 @@
    "yacy:en",
    "ref"
   ],
-  "yahoo":[
-   "The search engine that helps you find exactly what you're looking for. Find the most relevant information, video, images, and answers from all across the Web.",
-   "https://search.yahoo.com/"
-  ],
   "yahoo news":"Yahoo News is a news website that originated as an internet-based news aggregator by Yahoo. The site was created by Yahoo software engineer Brad Clawsie in August 1996. Articles originally came from news services such as the Associated Press, Reuters, Fox News, Al Jazeera, ABC News, USA Today, CNN and BBC News.",
   "youtube":"YouTube is an American social media and online video sharing platform owned by Google. YouTube was founded on February 14, 2005, by Chad Hurley, Jawed Karim, and Steve Chen, who were former employees of PayPal. Headquartered in San Bruno, California, it is the second-most-visited website in the world, after Google Search. In January 2024, YouTube had more than 2.7 billion monthly active users, who collectively watched more than one billion hours of videos every day. As of May 2019, videos were being uploaded to the platform at a rate of more than 500 hours of content per minute, and as of mid-2024, there were approximately 14.8 billion videos in total.",
-  "yummly":"Yummly was an American website and mobile app that provided users recipes via recommendations and a search engine. Yummly used a knowledge graph to offer a semantic web search engine for food, cooking and recipes.",
   "z-library":"Z-Library is a shadow library project for file-sharing access to scholarly journal articles, academic texts and general-interest books. It began as a mirror of Library Genesis but has expanded dramatically."
  },
  "eo":{
@@ -2612,14 +2607,18 @@
   "ina":"La Nacia Instituto pri Aŭdovido estas franca publika entrepreno, de industria kaj komerca naturo.",
   "iqiyi":"iQiyi estas interreta videoplatformo el Pekino, Ĉinio; lanĉita la 22-an de aprilo 2010. iQiyi estas unu el la plej grandaj interretaj videoplatformoj en la mondo, kun preskaŭ 6 miliardoj da horoj da spektado en sia servo ĉiumonate, kaj kun pli ol 500 milionoj da aktivaj uzantoj monate.",
   "lemmy comments":[
-   "lemmy users:eo",
+   "lemmy communities:eo",
    "ref"
   ],
+  "lemmy communities":"Lemmy estas libera kaj malfermitkoda programo por krei forumojn kaj aktualaĵajn retejojn, simile al Reddit, kreita en la jaro 2019. Subtenante la protokolon ActivityPub, retejoj de Lemmy povas interagi unu al la alia kaj al aliaj retejoj de Fediverso.",
   "lemmy posts":[
-   "lemmy users:eo",
+   "lemmy communities:eo",
    "ref"
   ],
-  "lemmy users":"Lemmy estas libera kaj malfermitkoda programo por krei forumojn kaj aktualaĵajn retejojn, simile al Reddit, kreita en la jaro 2019. Subtenante la protokolon ActivityPub, retejoj de Lemmy povas interagi unu al la alia kaj al aliaj retejoj de Fediverso.",
+  "lemmy users":[
+   "lemmy communities:eo",
+   "ref"
+  ],
   "library of congress":"La Kongresa Biblioteko estas la neoficiala nacia biblioteko de Usono. Havante pli ol 128 milionojn da eroj ĝi estas la dua plej granda bibliodeko de la mondo, superata sole de la Brita Biblioteko. Ĝiaj kolektoj enhavas pli ol 28 milionojn da katalogitaj libroj kaj aliaj presaĵoj en 470 lingvoj, pli ol 50 milionojn da manuskriptoj, la kolekton plej grandan de libroj raraj en Nordameriko, inkluzivantan la biblion de Gutenberg, kaj la kolekton plej grandan en la mondo de materialoj leĝaj, filmoj, kartoj kaj surbendigaĵoj sonaj.",
   "libretranslate":[
    "Libera kaj malfermitkoda API de maŝina tradukado. Senpage elŝutebla, senkonekte funkciebla kaj facile instalebla. Rulu vian propran API-servilon en nur kelkaj minutoj.Libera kaj malfermitkoda API de maŝina tradukado. Senpage elŝutebla, senkonekte funkciebla kaj facile instalebla. Rulu vian propran API-servilon en nur kelkaj minutoj.",
@@ -2763,6 +2762,10 @@
   ],
   "deezer":"Deezer es un sitio web y aplicación informática con un amplio catálogo musical. Se creó en Francia durante junio de 2006 por dos jóvenes, Daniel Marhely y Jonathan Benassaya. Cuenta con 16 millones de usuarios, está disponible en 16 idiomas, cuenta con tres versiones: Free [Disponible en algunos países], Premium [calidad 320 kbps y FLAC] y Family.",
   "deviantart":"DeviantArt o DA, es un sitio web estadounidense que agrupa a una comunidad internacional de artistas en la red, es filial de la empresa israelí Wix.com. Fue lanzada el 7 de agosto de 2000 por Angelo Sotira, Scott Jarkoff, Matthew Stephens y otros.",
+  "dictzone":[
+   "Diccionarios en línea: inglés, español, alemán, francés, italiano, húngaro...",
+   "https://dictzone.com/"
+  ],
   "discuss.python":"Discourse es un sistema de foros y listas de correo de código abierto creado en 2013 por Jeff Atwood, Robin Ward y Sam Saffron. La aplicación funciona con Ember.js y Ruby on Rails. PostgreSQL es el sistema de gestión de bases de datos.",
   "duckduckgo":[
    "currency:es",
@@ -2950,7 +2953,7 @@
    "startpage:es",
    "ref"
   ],
-  "steam":"Steam es una plataforma de distribución digital de videojuegos desarrollada por Valve Corporation. Fue lanzada en septiembre de 2003 como una forma para Valve de proveer actualizaciones automáticas a sus juegos, pero finalmente se amplió para incluir juegos de terceros. Steam ofrece protección contra piratería, servidores de emparejamiento, transmisiones de vídeo y servicios de redes sociales. También proporciona al usuario la instalación y la actualización automática de juegos y características de comunidad como grupos y listas de amigos, guardado en la nube, voz en el juego y funcionalidad de chat.",
+  "steam":"Steam es una plataforma de distribución digital de videojuegos desarrollada por Valve Corporation. Fue lanzada el 12 de septiembre de 2003 como una forma para Valve de proveer actualizaciones automáticas a sus juegos, pero finalmente se amplió para incluir juegos de terceros. Steam ofrece protección contra piratería, servidores de emparejamiento, transmisiones de vídeo y servicios de redes sociales. También proporciona al usuario la instalación y la actualización automática de juegos y características de comunidad como grupos y listas de amigos, guardado en la nube, voz en el juego y funcionalidad de chat.",
   "superuser":[
    "stackoverflow:es",
    "ref"
@@ -2985,7 +2988,7 @@
   "wiktionary":"El Wikcionario es un proyecto de diccionario libre de la Fundación Wikimedia, que contiene definiciones, traducciones, etimologías, sinónimos y pronunciaciones de palabras en múltiples idiomas. Está basado en la tecnología wiki, en particular mediante la utilización del software MediaWiki, y su contenido está protegido por las licencias libres GFDL y CC BY-SA.",
   "wolframalpha":"Wolfram|Alpha es un buscador de respuestas desarrollado por la compañía Wolfram Research. Es un servicio en línea que responde a las preguntas directamente, mediante el procesamiento de la respuesta extraída de una base de datos estructurados, en lugar de proporcionar una lista de los documentos o páginas web que podrían contener la respuesta, tal y como lo hace Google. Fue anunciado en marzo de 2009 por el físico británico Stephen Wolfram y está en funcionamiento desde el 15 de mayo de 2009. Fue lanzado en español en 2022.",
   "wttr.in":[
-   "El tiempo en: not found",
+   "El tiempo en: Alès, France",
    "https://wttr.in"
   ],
   "yacy":"YaCy es un motor de búsqueda distribuido y libre que utiliza una red peer-to-peer (P2P) como infraestructura. En 2011 el motor tenía 1400 millones de documentos en su índice, y gestionaba unas 130.000 peticiones de búsquedas al día.",
@@ -2994,7 +2997,7 @@
    "ref"
   ],
   "yahoo news":"Yahoo! News es un sitio de noticias de redes que surgió como un agregador de noticias en Yahoo!. El sitio fue creado por Brad Clawsie, ingeniero de software de Yahoo!, en agosto de 1996. Los artículos provenían originalmente de servicios noticiosos como Associated Press, Reuters, Fox News, Al Jazeera, ABC News, USA Today, CNN y BBC News.",
-  "youtube":"YouTube es una red social y plataforma de video online estadounidense propiedad de Google. YouTube, fue fundada el 14 de febrero de 2005 por Steve Chen, Chad Hurley y Jawed Karim, tres antiguos empleados de PayPal. Con sede en San Bruno, California, es el segundo sitio web más visitado del mundo, después de Google Search. En enero de 2024, YouTube contaba con más de 2,7 millones de usuarios activos mensuales, que veían colectivamente más de mil millones de horas de videos al día. En mayo de 2019, se subían videos a la plataforma a un ritmo de más de 500 horas de contenido por minuto, y a 2023, había aproximadamente 14 millones de videos en total.",
+  "youtube":"YouTube es una red social y plataforma de video online estadounidense propiedad de Google. YouTube, fue fundada el 14 de febrero de 2005 por Steve Chen, Chad Hurley y Jawed Karim, tres antiguos empleados de PayPal. Con sede en San Bruno, California, es el segundo sitio web más visitado del mundo, después de Google Search. En enero de 2024, YouTube contaba con más de 2,7 millardos de usuarios activos mensuales, que veían colectivamente más de mil millones de horas de videos al día. En mayo de 2019, se subían videos a la plataforma a un ritmo de más de 500 horas de contenido por minuto, y a 2023, había aproximadamente 14 millardos de videos en total.",
   "z-library":"Z-Library es un proyecto de biblioteca fantasma de intercambio de archivos con acceso a libros de interés general, artículos de revistas académicas y textos académicos."
  },
  "et":{
@@ -3021,7 +3024,7 @@
    "https://www.bing.com/news"
   ],
   "bing videos":[
-   "Bingi intelligentne otsing võimaldab teil otsitavat kiiremini leida ja pakub teile preemiaid.",
+   "Saate otsida Microsoft Bingiga ja kasutada tehisintellekti võimsust, et leida teavet, uurida veebilehti, pilte, videoid, kaarte ja palju muud. Nutikas otsimootor igavesti uudishimulikele.",
    "https://www.bing.com/videos"
   ],
   "bitchute":"BitChute on veebisait, kuhu selle kasutajad saavad videoid üles laadida, jagada ja vaadata. Video hostimise teenus, mis kasutab P2P-võrgustik WebTorrenti tehnoloogiat. See loodi nii, et vältida sisureegleid, mida rakendatakse sellistel platvormidel nagu YouTube. BitChute väidab et pakub tsensuurivaba alternatiivi YouTube'ile, kuid tegelikult on BitChute tsenseerinud natsionaalsotsialistliku ideoloogiaga videoid, näiteks keelas BitChute oma platvormil Rootsis tegutseva ametliku natsionaalsotsialistliku poliitilise partei Põhjala Vastupanuliikumine.",
@@ -3048,6 +3051,10 @@
   ],
   "deezer":"Deezer on prantsuse veebipõhine muusika voogedastusteenus.",
   "deviantart":"DeviantART on kunstiteemaline veebisait, mis avati 7. augustil 2000.",
+  "dictzone":[
+   "Veebisõnastikud: inglise, ungari Valige oma lemmiksõnaraamat!",
+   "https://dictzone.com/"
+  ],
   "duckduckgo images":[
    "currency:et",
    "ref"
@@ -3079,7 +3086,7 @@
    "https://images.google.com"
   ],
   "google news":[
-   "Põhjalikud ja ajakohased uudised, mis Google News koondab kogu maailma uudisteallikatest.",
+   "Enne kui jätkate",
    "https://news.google.com"
   ],
   "google play apps":[
@@ -3162,7 +3169,7 @@
    "https://www.bing.com/news"
   ],
   "bing videos":[
-   "Bing bilaketa adimendunei esker, bizkorrago aurkituko duzu bilatzen ari zarena; gainera, sariak jasoko dituzu.",
+   "Bilatu Microsoft Bing-ekin eta erabili AAren indarra informazioa bilatzeko, web-orriak, irudiak, bideoak, mapak eta abar arakatzeko. Bilatzaile adimenduna jakin-mina dutenentzat.",
    "https://www.bing.com/videos"
   ],
   "brave":[
@@ -3309,7 +3316,7 @@
    "ref"
   ],
   "wikidata":"Wikidata elkarlanean sortutako datu-base eleanitz bat da, Wikimedia Fundazioak kudeatua. Wikidataren xedea da iturri bateratu bat eskaintzea zenbait datutarako (adibidez, pertsonen jaiotegunak eta jarduerak, edo Wikipediako artikulu bat nola den beste hizkuntzen Wikipedietan. Informazio hori Wikimediaren proiektuetan erabiltzen da gero, adibidez Wikipedian. Wikipediako artikulu askotan goian eskuinaldean hainbat daturekin agertzen den infotaula, kasu askotan automatikoki sortu izan da artikulu horri buruz Wikidatan dagoen informazioarekin.",
-  "wikipedia":"Wikipedia eduki askeko entziklopedia bat da, lankidetzaz editatua, eleanitza, Interneten argitaratua, Wikimedia Fundazioa irabazi asmorik gabeko erakundeak sustengatua. Wikipedia mundu osoko boluntarioek idazten dute. Internetera konektatutako edonork parte har dezake Wikipediako artikuluetan, aldatu lotura sakatuz. 2015ko azaroaren bostean, 291 hizkuntzatako edizioak zituen, eta horietatik 275 zeuden aktibo. Proiektuaren xedea da ahalik eta hizkuntza gehienetan idatzitako entziklopedia sortu eta hedatzea. Guztira 37 milioi artikulu ditu, horietatik 467.861 euskaraz eta bost milioitik gora ingelesez.",
+  "wikipedia":"Wikipedia eduki askeko entziklopedia bat da, lankidetzaz editatua, eleanitza, Interneten argitaratua, Wikimedia Fundazioa irabazi asmorik gabeko erakundeak sustengatua. Wikipedia mundu osoko boluntarioek idazten dute. Internetera konektatutako edonork parte har dezake Wikipediako artikuluetan, aldatu lotura sakatuz. 2015ko azaroaren bostean, 291 hizkuntzatako edizioak zituen, eta horietatik 275 zeuden aktibo. Proiektuaren xedea da ahalik eta hizkuntza gehienetan idatzitako entziklopedia sortu eta hedatzea. Guztira 37 milioi artikulu ditu, horietatik 469.237 euskaraz eta bost milioitik gora ingelesez.",
   "wikiquote":"Wikiesanak Wikimedia Fundazioaren aipu ezagunen bilduma da. Bertan pertsona entzutetsuen esanak, liburu ospetsuetako aipamenak eta herrialde ezberdinetako esaera zaharrak edo atsotitzak aurki daitezke. Wikipedia bezala, internet bidezko elkarlanean eta wiki softwarean oinarritzen den webgunea da. GFDL lizentziapean argitaratzen da. Hastapenetan ingelesez soilik bazen ere, 2004 urteaz geroztik 79 hizkuntza ezberdinetan dago. Ingelesezko bertsioa artikulu gehien duena izan da ordutik, 2010 urteko hasieran ia ehun mila orri eta hamazazpi mila bat aipuak biltzeko artikulu duela. 2010. urtearen hasieran euskarazko bertsioak mila orrialde baino gehiago zituen, eta horietako ehun baino gehiago, aipu-orrialdeak.",
   "wikisource":"Wikiteka wikian dagoen testu eduki askeko Interneteko liburutegi digitala da, Wikimedia Fundazioak kudeatutakoa. Wikiteka da proiektu osoaren izena, baita proiektu horretako ale bakoitzaren izena ere, non ale bakoitza hizkuntza desberdin bati dagokion. Beraz, hizkuntza askotako iturriek osatzen dute Wikiteka.",
   "wikispecies":"Wikiespezieak Wikimedia Fundazioaren proiektu bat da. Bertan, naturako izaki espezie ezberdinen informazioa aurki dezakegu; animaliak, landareak, onddoak, bakteriak, eta gainontzeko bizi-formak.",
@@ -3359,7 +3366,7 @@
    "https://www.bing.com/news"
   ],
   "bing videos":[
-   "جستجوی هوشمند Bing یافتن آنچه را که به دنبالش هستید آسان‌تر می‌کند و به شما پاداش می‌دهد.",
+   "با Microsoft Bing جستجو کنید و از قدرت هوش مصنوعی برای یافتن اطلاعات، کاوش در صفحات وب، تصاویر، ویدیوها، نقشه‌ها و موارد دیگر استفاده کنید. موتور جستجوی هوشمند برای افراد همیشه کنجکاو.",
    "https://www.bing.com/videos"
   ],
   "brave":"بریو یک مرورگر وب آزاد و متن‌باز است. با سیستم پرداخت به گشت‌وگذار و بر پایهٔ مرورگر کرومیوم و موتور چیدمان بلینک ساخته شده است. ساخت این مرورگر را یکی از بنیان‌گذاران پروژه موزیلا و خالق جاوااسکریپت یعنی برندان آیک اعلام کرد.",
@@ -3530,7 +3537,7 @@
   "wiktionary":"ویکی‌واژه ، یک فرهنگ لغت اینترنتی با محتوای آزاد برپایهٔ همکاری باز است که واژگان بسیاری از زبانهای جهان را دربردارد و معنا، ریشه‌شناسی و تلفظ (آوایِش) واژه‌ها گنجانده می‌شود. ویکی‌واژه بُن‌مایهٔ واژگانیِ دانشنامهٔ آزاد ویکی‌پدیا است.",
   "wolframalpha":"ولفرم آلفا یک موتور محاسباتی دانش است که توسط ولفرم ریسرچ ایجاد شده‌است. این موتور جستجو حاصل تلاش فیزیکدانی بنام استفان ولفرام و تیم تحقیقاتی او است. هستهٔ اصلی ولفرام‌آلفا نرم‌افزار محاسباتی متمتیکا است. برخلاف دیگر موتورهای جستجو که معمولاً گزیده‌ای از وب را در اختیار شما می‌گذارند، ولفرام‌آلفا، این اطلاعات را پردازش کرده و سپس در اختیار کاربر می‌گذارد. ولفرام آلفا قادر است به بسیاری از سؤالاتی که دیگر موتورهای جستجو قادر به جوابگویی به آن‌ها نیستند پاسخ دهد؛ برای نمونه سؤالی مثل: «ملکه الیزابت دوم در سال ۱۹۴۷ چند ساله بوده است؟» یا «پنجاه و چهارمین کشور کوچک از لحاظ سرانه تولید ناخالص ملی کدام کشور است؟» با این وجود نمی‌توان انتظار هر نوع محاسبه‌ای را از این وب‌گاه داشت.",
   "wttr.in":[
-   "not found اوه و بآ تیعضو شرازگ",
+   "Alès, France اوه و بآ تیعضو شرازگ",
    "https://wttr.in"
   ],
   "yacy":"YaCy یک موتور جستجو توزیع شده رایگان می‌باشد که از شبکه peer-to-peer (P2P).استفاده می‌کند هستهٔ اصلی توسط زبان برنامه‌نویسی جاوا نوشته شده است که یک برنامه کامپیوتری در چند صد کامپیوتر توزیع شده است. ‍‍‍‍‍ تا تاریخ سپتامبر ۲۰۰۶به اصطلاح YaCy-peers نامیده شد، هر YaCy به طور مستقل در اینترنت می‌خزد، و صفحات وب را جستجو، تجزیه و تحلیل می‌کند نتایج جستجو در یک پایگاه داده مشترک ذخیره می‌شود؛ که این صفحات با سایر YaCy-peers با استفاده از اصول شبکه‌های P2P در اشتراک قرار می‌گیرند. این یک موتور جستجورایگان است که هر کس می‌تواند از آن برای ساخت یک پورتال جستجو استفاده کند؛ و کمک کند تا جستجو در اینترنت به صورت واضح صورت گیرد.",
@@ -3577,7 +3584,7 @@
    "https://www.bing.com/news"
   ],
   "bing videos":[
-   "Bingin älykäs haku auttaa sinua löytämään etsimäsi nopeammin ja palkitsee sinut.",
+   "Hae Microsoft Bingillä ja hyödynnä tekoälyä tietojen etsimiseen, verkkosivujen, kuvien, videoiden, karttojen ja muiden toimintojen tutkimiseen. Älykäs hakukone, joka on aina utelias.",
    "https://www.bing.com/videos"
   ],
   "bitbucket":"Bitbucket on lähdekoodin hallinnointiin ja versiohallintaan tarkoitettu sivusto.",
@@ -3749,7 +3756,7 @@
   "wiktionary":"Wikisanakirja on Wikipedian sisarhanke, jonka tavoitteena on luoda wikipohjainen kaikkien kielten välinen vapaa sanakirja.",
   "wolframalpha":"Wolfram Alpha on Wolfram Researchin kehittelemä haku- ja vastauskone, joka julkaistiin 15.5.2009. Wolfram Alphan toiminta pohjautuu Wolfram Researchin kehittelemään Mathematica-laskentaohjelmaan tiedon etsimisessä ja käsittelyssä.",
   "wttr.in":[
-   "Säätiedotus: not found",
+   "Säätiedotus: Alès, France",
    "https://wttr.in"
   ],
   "youtube":"Youtube on Googlen omistama Internetissä toimiva videopalvelu, jonka perustivat helmikuussa 2005 kolme PayPalin työntekijää: Chad Hurley, Steve Chen ja Jawed Karim. Käyttäjät voivat lisätä sivustolle omia videoitaan ja katsoa sekä kommentoida muiden käyttäjien videoita."
@@ -3778,8 +3785,8 @@
    "https://www.bing.com/news"
   ],
   "bing videos":[
-   "Pinapadali ng matalinong paghahanap mula sa Bing na mabilis na mahanap ang iyong hinahanap at binibigyan ka ng reward.",
-   "https://www.bing.com/videos"
+   "bing:fil",
+   "ref"
   ],
   "gentoo":[
    "gentoo:en",
@@ -3822,6 +3829,10 @@
    "wikidata"
   ],
   "pinterest":"Ang Pinterest ay isang portal at websayt na nagsisilbing lagusan papunta at nagserbisyo sa websayt sa tahanang pahina (homepage), Dito ay may iba't ibang larawan na makikita, katulad sa Instagram akawnt na inilabas noong 2010. Ang Pinterest ay inilathala nina Ben Silbermann, Paul Sciarra at Evan Sharp noong Disyembre 2009 sa San Francisco, California, Estados Unidos na may higit na 1,600 na empleyado..",
+  "reddit":[
+   "Sa Reddit nagtitipon-tipon ang milyon-milyong tao para sa mga pag-uusap tungkol sa mga bagay na mahalaga sa kanila, sa mahigit 100,000 subreddit community.",
+   "https://www.reddit.com/"
+  ],
   "reuters":"Ang Reuters (/ROY-terz/) ay isang ahensiyang pampamahayag na pagmamay-ari ng Thomson Reuters. Ito ay may humigit-kumulang 2,500 mamamahayag at 600 potograpong mamamahayag na nakatalaga sa humigit-kumulang 200 lokasyon sa buong mundo, na nagsusulat sa 16 na wika. Ang Reuters ay isa sa pinakamalalaking ahensiya ng balita sa buong mundo.",
   "vimeo":"Ang Vimeo ay isang Amerikan portal na websayt na bidyo punong abala at namamahagi ang himpilan nito ay matatagpuan sa Lungsod ng Bagong York, Bagong York noong Nobyembre 2004 na inilathala nina Zach Klein, Jake Lodwick katuwang si Anjali Sud (Indian-American), ang (CEO) ng Vimeo.",
   "wikibooks":"Ang Wikibooks ay isang base ng wiki sa Wikimedia project na pag-aari ng Wikimedia Foundation, para sa lumikha ng malayang nilalaman na textbooks o aklat na pwedeng sa lahat na pagbabago.",
@@ -3855,6 +3866,18 @@
  "fr":{
   "1337x":"1337x est un site Web qui fournit un répertoire de fichiers torrent et de liens magnétiques utilisés pour le partage de fichiers peer-to-peer via le protocole BitTorrent. Selon le blog d'actualités TorrentFreak, 1337x est le troisième site Web torrent le plus populaire en 2021.",
   "9gag":"9gag est un site web communautaire humoristique, rédigé généralement en anglais. Il est basé sur le partage d'images et vidéos. Ce site met en ligne un grand nombre de mèmes Internet. C'est le 172e site le plus visité du web en novembre 2016, selon Alexa.",
+  "adobe stock":[
+   "Effectuez votre recherche parmi des millions d’images, photos, images vectorielles, séquences vidéo, illustrations, modèles, ressources 3D libres de droits et de fichiers Premium de grande qualité sur Adobe Stock. Essayez gratuitement dès aujourd’hui.",
+   "https://stock.adobe.com/"
+  ],
+  "adobe stock audio":[
+   "adobe stock:fr",
+   "ref"
+  ],
+  "adobe stock video":[
+   "adobe stock:fr",
+   "ref"
+  ],
   "alpine linux packages":"Alpine Linux est une distribution Linux ultra-légère, orientée sécurité et basée sur Musl (en) et BusyBox, principalement conçue pour un « utilisateur intensif qui apprécie la sécurité, la simplicité et l'efficacité des ressources ». Elle utilise les patches PaX et Grsecurity du noyau par défaut et compile tous les binaires de l'espace utilisateur et exécutables indépendants de la position avec protection de destruction de la pile (en).",
   "annas archive":"L'Archive d'Anna est un moteur de recherche de bibliothèques clandestines créé par le pseudonyme Anna. Elle a été fondée en réponse directe aux efforts des autorités pour fermer la Z-Library en 2022. Elle se décrit comme un projet visant à « cataloguer tous les livres existants » et à « suivre les progrès de l'humanité pour rendre tous les livres facilement disponibles sous forme numérique ».",
   "ansa":"L'Agenzia Nazionale Stampa Associata, plus connue sous le sigle ANSA, est la principale agence de presse italienne et la cinquième dans le monde, fondée à Rome en 1945 pour succéder à l'agence Stefani.",
@@ -3888,7 +3911,7 @@
    "https://www.bing.com/news"
   ],
   "bing videos":[
-   "La recherche intelligente de Bing facilite la recherche rapide et vous récompense.",
+   "Effectuez des recherches avec Microsoft Bing et utilisez la puissance de l’IA pour rechercher des informations, explorer des pages web, des images, des vidéos, des cartes, etc. Un moteur de recherche intelligent pour les éternels curieux.",
    "https://www.bing.com/videos"
   ],
   "bitbucket":"Bitbucket est un service web d'hébergement et de gestion de développement logiciel utilisant le logiciel de gestion de versions Git.",
@@ -3919,6 +3942,10 @@
   ],
   "deezer":"Deezer est une plateforme française de distribution numérique dédiée à l'écoute de musique en streaming, lancée en août 2007. Ce service permet l'écoute de musiques et podcasts, issus d'un catalogue négocié avec les labels regroupant plus de 120 millions de titres en 2024. Deezer éditorialise son contenu par l'établissement de playlists ainsi que son algorithme Flow, qui recommande de nouveaux morceaux selon les goûts musicaux de l’utilisateur.",
   "deviantart":"DeviantArt est un site web dédiée à la création artistique d'œuvres et de dessins sous format numérique. Les internautes inscrits forment une communauté artistique en ligne, où chacun peut s'inscrire et exposer ses propres créations, graphiques ou littéraires. Le jour de son 15e anniversaire, le site comptait plus de 36,4 millions d'inscrits et plus de 200 millions de deviations.",
+  "dictzone":[
+   "Dictionnaires en ligne : anglais, espagnol, allemand, français, italien, hongrois...",
+   "https://dictzone.com/"
+  ],
   "discuss.python":"Discourse est un logiciel libre pour forum de discussions qui intègre un système de liste de diffusion.",
   "duckduckgo":[
    "currency:fr",
@@ -4088,7 +4115,7 @@
   ],
   "reddit":"Reddit est un site web communautaire américain de discussion et d’actualités sociales.",
   "reuters":"Reuters est une agence de presse fondée en 1851 à Londres. Elle fait partie des agences de presse mondiales et généralistes, activité historique qui représente une partie de son chiffre d'affaires, majoritairement consacré à l'information financière. Il s'agit d'une des plus grandes agences de presse au monde.",
-  "rottentomatoes":"Rotten Tomatoes est un site Web, créé en 1998, dévolu aux critiques et aux informations sur les films. Même si le nom provient du cliché datant de l'époque du music-hall, où jeter des tomates pourries sur les acteurs était une façon pour le public de souligner la médiocrité d'une représentation, l'inspiration originale provient d'une scène du film canadien Léolo tourné en 1992 dans laquelle une actrice tombe dans un bac de tomates.",
+  "rottentomatoes":"Rotten Tomatoes est un site Web, créé en 1998, dévolu aux critiques et aux informations sur les films. Il recense et analyse différentes critiques professionnelles de films et séries télévisées afin de fournir une note moyenne pour chaque œuvre. Il affiche également un score donné par le grand public.",
   "rubygems":"RubyGems est un gestionnaire de paquets pour le langage de programmation Ruby qui fournit un format standard pour la distribution de programmes et de bibliothèques Ruby. Il permet de gérer facilement l'installation de gemmes et d'un serveur pour les distribuer. Il a été créé par Chad Fowler, Jim Weirich, David Alan Black, Paul Brannan et Richard Kilmer lors de la RubyConf 2004.",
   "rumble":"Rumble est une entreprise de plateforme de vidéo en ligne, d’hébergement web et de services cloud. Elle a été fondée en octobre 2013 par Chris Pavlovski, un entrepreneur technologique. La plate-forme vidéo est populaire parmi les auteurs de théories du complot et de l’extrême droite américaine.",
   "semantic scholar":"Semantic Scholar est un projet développé à l'Institut Allen pour l'Intelligence Artificielle, un des instituts de recherche créés par Paul Allen. Lancé en novembre 2015, il est conçu pour être un moteur de recherche d'articles de revues scientifiques sur l'IA.",
@@ -4153,13 +4180,17 @@
   "wiktionary":"Le Wiktionnaire est un projet lexicographique de la Wikimedia Foundation dont l’objectif est de définir tous les mots de toutes les langues, dans toutes les langues. En 2024, il existe plus de 170 langues de rédaction. Au sens strict, le terme « Wiktionnaire » désigne souvent la version en français de ce projet, Wiktionary étant le nom officiel en anglais. Il est géré en wiki dans le site web wiktionary.org et son contenu est librement réutilisable.",
   "wolframalpha":"WolframAlpha est un moteur de réponse développé par Wolfram Research. Il répond aux questions factuelles en calculant les réponses à partir de données externes.",
   "wttr.in":[
-   "Prévisions météo pour: not found",
+   "Weather report: Alès, France",
    "https://wttr.in"
   ],
   "yacy":"YaCy est un moteur de recherche libre fonctionnant selon le principe d'un réseau pair à pair. Ce logiciel est développé en Java et était installé, fin 2006, sur des centaines d'ordinateurs appelés YaCy-peers ou postes-YaCy. YaCy est par exemple utilisé par l'Université Johannes Gutenberg de Mayence.",
   "yacy images":[
    "yacy:fr",
    "ref"
+  ],
+  "yahoo":[
+   "Yahoo fait partie de la famille de marques Yahoo.",
+   "https://search.yahoo.com/"
   ],
   "yahoo news":"Yahoo! Actualités est un service en ligne gratuit de Yahoo! qui présente des articles d'information en provenance de nombreuses sources et, notamment, d'agences de presse.",
   "youtube":"YouTube est un site web d'hébergement de vidéos et média social sur lequel les utilisateurs peuvent envoyer, regarder, commenter, évaluer et partager des vidéos en streaming.",
@@ -4187,8 +4218,8 @@
    "https://www.bing.com/news"
   ],
   "bing videos":[
-   "Déanann cuardach cliste ó Bing an próiseas chun an méid atá uait agus na duaiseanna atá uait níos éasca le haimsiú go tapa.",
-   "https://www.bing.com/videos"
+   "bing:ga",
+   "ref"
   ],
   "duden":[
    "ciclipéid ar líne",
@@ -4202,6 +4233,10 @@
   "google images":[
    "Íomhánna Google. An cuardach íomhánna is cuimsithí ar an ngréasán.",
    "https://images.google.com"
+  ],
+  "google news":[
+   "Sula leanfaidh tú ar aghaidh",
+   "https://news.google.com"
   ],
   "hoogle":[
    "teanga ríomhchlárúcháin feidhme",
@@ -4256,6 +4291,7 @@
   "youtube":"Is suíomh gréasáin comhroinnte físeán é YouTube. Is féidir le húsáideoirí físeáin a uaslódáil agus a chomhroinnt, chomh maith le féachaint ar na físeáin chéanna."
  },
  "gl":{
+  "annas archive":"Anna's Archive é un motor de procura de código aberto para bibliotecas na sombra. Foi creado por alguén que utiliza o Pseudónimo Anna #, pouco despois dos intentos de pechar a biblioteca Z-Library en 2022, aplicando a lei. O sitio web recolle rexistros de Z-Library, Sci-Hub, e a Biblioteca Genesis (LibGen), entre outras fontes. Faise chamar \"a biblioteca verdadeiramente aberta máis grande na historia da humanidade\", e ten dito que seu obxectivo é \"catalogar todos os libros existentes\" e \"rexistrar o progreso da humanidade cara a facer todos estes libros facilmente dispoñíbeis en formato dixital\". Afirma non ser responsábel das descargas de traballos con dereito de autoría, xa que a páxina índexa metadatos, mais non almacena directamente ningún ficheiro; o que fai é ligar con descargas de terceiros. Con todo, afrontou bloqueos dalgúns gobernos, e accións legais, por infraccións de dereitos de autoría a grande escala.",
   "apple app store":"A App Store é un servizo para o iPhone, iPod Touch, e o iPad, creado por Apple Inc, que permite aos usuarios buscar e descargar aplicacións, desenvolvidas co iOS SDK e publicadas por Apple. Estas aplicacións están dispoñibles para ser compradas ou gratuítas, dependendo de cada unha. As aplicacións poden ser descargadas directamente ao iPhone o ao iPod Touch por medio dunha aplicación do mesmo nome.",
   "artic":"O Art Institute of Chicago é un museo e escola de arte situado en Grant Park, ao redor da costa do lago Michigan en Chicago. É un dos museos de arte máis importantes do mundo.",
   "arxiv":"O arXiv é un repositorio de prepublicacións electrónicas, coñecidas como e-prints, de literatura científica nos campos das matemáticas, física, astronomía, ciencias da computación, bioloxía cuantitativa, estatística e finanzas, que poden ser consultadas en liña. En moitos campos das matemáticas e da física, a maioría das publicacións científicas son auto-arquivadas no repositorio de arXiv. Comezou o 14 de agosto de 1991, e arXiv.org superou o medio millón de artigos o 3 de outubro de 2008, e acadou o millón a finais de 2014. No 2014, a media de entradas novas medrou a máis de 8 000 ó mes.",
@@ -4263,7 +4299,7 @@
    "stackoverflow:gl",
    "ref"
   ],
-  "baidu":"Baidu, Inc. (百度公司) é unha empresa chinesa establecida o 18 de xaneiro de 2000 como unha compañía de servizos web con sede en Pequín. Ofrece múltiples servizos, o máis recoñecible é o motor de busca en lingua chinesa para sitios web, ficheiros de son e imaxes, pero en total son 57 os servizos que ofrece, entre eles Baidu Baike, unha enciclopedia colaborativa en liña e en chinés. Os seus fundadores foron Robin Li e Eric Xu que lograron convertela nun dos principais referentes de Internet, situando a Baidu na quinta posición mundial no índice Alexa. Consonte a política de censura de Internet na China, Baidu filtra o material controvertido nos seus resultados, cunha longa lista de sitios webs bloqueados e temas censurados nas buscas de Baidu. Baidu Japan non aplica a censura pero o sitio está bloqueado na China.",
+  "baidu":"Baidu, Inc. é unha empresa chinesa establecida o 18 de xaneiro de 2000 como unha compañía de servizos web con sede en Pequín. Ofrece múltiples servizos, o máis recoñecible é o motor de busca en lingua chinesa para sitios web, ficheiros de son e imaxes, pero en total son 57 os servizos que ofrece, entre eles Baidu Baike, unha enciclopedia colaborativa en liña e en chinés. Os seus fundadores foron Robin Li e Eric Xu que lograron convertela nun dos principais referentes de Internet, situando a Baidu na quinta posición mundial no índice Alexa. Consonte a política de censura de Internet na China, Baidu filtra o material controvertido nos seus resultados, cunha longa lista de sitios webs bloqueados e temas censurados nas buscas de Baidu. Baidu Japan non aplica a censura pero o sitio está bloqueado na China.",
   "baidu images":[
    "baidu:gl",
    "ref"
@@ -4283,7 +4319,7 @@
    "https://www.bing.com/news"
   ],
   "bing videos":[
-   "A busca intelixente de Bing fai que sexa máis rápido e sinxelo atopar o que estás a buscar e concédeche premios.",
+   "Busca con Microsoft Bing e usa o poder da IA para atopar información, explorar páxinas web, imaxes, vídeos, mapas e moito máis. Un motor de busca intelixente para os máis curiosos.",
    "https://www.bing.com/videos"
   ],
   "brave":[
@@ -4453,7 +4489,7 @@
    "https://www.bing.com/news"
   ],
   "bing videos":[
-   "עם החיפוש החכם של Bing תוכל למצוא את מה שאתה מחפש ביתר קלות ומהירות ולקבל פרסים.",
+   "חפש באמצעות Microsoft Bing והשתמש בעוצמה של בינה מלאכותית כדי למצוא מידע, לחקור דפי אינטרנט, תמונות, סרטוני וידאו, מפות ועוד. מנוע חיפוש חכם לסקרנים שלא מפסיקים לחקור.",
    "https://www.bing.com/videos"
   ],
   "bitbucket":"Bitbucket הוא שירות ניהול גרסאות של מאגר קוד מקור מבוסס git בבעלות אטלסיאן.",
@@ -4535,7 +4571,7 @@
    "huggingface:he",
    "ref"
   ],
-  "imdb":"Internet Movie Database הוא אתר אינטרנט המכיל מסד נתונים מקוון של מידע על סרטים, שחקני קולנוע, תוכניות טלוויזיה, צוות הפקה ומשחקי וידאו. האתר נמצא בבעלות חברת אמזון.",
+  "imdb":"Internet Movie Database הוא אתר אינטרנט המכיל מסד נתונים מקוון של מידע על סרטים, שחקני קולנוע, תוכניות טלוויזיה, צוות הפקה ומשחקי וידאו. האתר נמצא בבעלות חברת אמזון. נכון ל18 באוגוסט 2025 בIMDb יש סרטים וסדרות מ9 בדצמבר 1874 עד 17 באוגוסט 2025.",
   "imgur":"Imgur (אימג'ר) הוא אתר אינטרנט חינמי לאירוח קובצי תמונות שהושק ב-23 בפברואר 2009. ניתן להעלות תמונות לאתר ולשתף אותן במגוון של רשתות חברתיות, לערוך את קובצי התמונות, להגיב על תמונות שמשתמשים אחרים העלו, וליצור בקלות יתרה תמונות Image macro (ממים).",
   "library genesis":"ספריית ג'נסיס היא ספריית צללים המאפשרת שיתוף קבצים עבור מאמרים בכתבי עת, ספרים, תמונות, קומיקס ומגזינים. האתר מאפשר גישה פתוחה לתכנים שאחרת הם בתשלום או שלא עברו דיגיטציה. האתר מגדיר את עצמו כמצבור קישורים המספק גישה לחיפוש פריטים שנאספו ממשאבי אינטרנט ציבוריים זמינים לציבור וכאלה שהועלו על ידי המשתמשים.",
   "library of congress":"ספריית הקונגרס היא ספריית המחקר של הקונגרס של ארצות הברית, אשר משמשת בפועל כספרייה הלאומית של ארצות הברית, ואחת מהספריות החשובות והגדולות ביותר בעולם. רק הספרייה הבריטית גדולה ממנה.",
@@ -4591,11 +4627,10 @@
   "wiktionary":"ויקימילון הוא מיזם מקוון רב־לשוני ובין־לאומי המנוהל על ידי קרן ויקימדיה. מטרתו היא יצירת מילון חופשי, שיתופי, מהימן ופתוח אשר יכיל את כל המילים מכל שפות העולם. כיום, הוא זמין בכ־183 שפות ומכיל מילים מכ־3,800 שפות שונות. המהדורה הראשונה של המילון החלה את דרכה ב-12 בדצמבר 2002, ואילו המהדורה העברית הושקה ב-29 ביוני 2004.",
   "wolframalpha":"וולפרַם אַלפַא הוא מנוע חיפוש חישובי, שפותח על ידי מעבדות וולפרם והושק במאי 2009. ייחודו הוא בביצוע שאילתות בשפה טבעית, בשילוב עם חישובים והחזיית מידע (ויזואליזציה) נרחבת.",
   "wttr.in":[
-   "not found :ריוואה גזמ תיזחת",
+   "Alès, France :ריוואה גזמ תיזחת",
    "https://wttr.in"
   ],
   "youtube":"יוּטְיוּבּ הוא אתר אינטרנט לאחסון ושיתוף סרטוני וידאו שהוקם על ידי חברה אמריקאית באותו שם. יוטיוב הוקמה בפברואר 2005, על ידי צ'אד הארלי, סטיב צ'ן וג'אווד כרים, שלושתם עובדים לשעבר של חברת PayPal. בנובמבר 2006, רכשה גוגל את החברה תמורת 1.65 מיליארד דולר, ויוטיוב הפכה לחברת בת של גוגל.",
-  "yummly":"יאמלי, הוא אתר ואפליקציית מובייל לחיפוש מתכונים וניהול רשימת קניות.",
   "z-library":"ספריית Z היא ספריית צללים מקוונת המאפשרת גישה למאמרים מדעיים, טקסטים וספרים. היא החלה כמראה של ספריית ג'נסיס, אך גדלה מאז דרמטית. במדד התעבורה של אלקסה, האתר דורג במקום ה-8,182 במדד האתרים הפעילים ביותר באוקטובר 2021. הארגון ללא מטרת רווח, ומתבסס על תרומות. מלבד שיתוף ספרים אלקטרוניים, הפרויקט הרחיב את פעילותו ומפעיל מספר מוקדים אותם הוא מכנה בשם \"Z-Points\" ברחבי העולם, בהם ניתן לשתף ספרים פיזיים."
  },
  "hr":{
@@ -4619,7 +4654,7 @@
    "https://www.bing.com/news"
   ],
   "bing videos":[
-   "Pametno pretraživanje u tražilici Bing olakšava brzo pretraživanje onog što tražite i nagrađuje vas.",
+   "Pretražujte uz Microsoft Bing i koristite moć umjetne inteligencije kako biste pronašli informacije, istražili web-stranice, slike, videozapise, karte i još mnogo toga. Pametna tražilica za vječno znatiželjne.",
    "https://www.bing.com/videos"
   ],
   "bitchute":"BitChute je mrežni poslužitelj za objavljivanje i dijeljenje videozapisa putem izravnog umrežavanja računala, poznat po smještanju krajnje desničarskih pojedinaca i teoretičara zavjere te po posluživanju sadržaja koji širi mržnju. Osnovan je kao alternativa YouTubeu, s izostankom njegove stroge politike i pravila o objavljivanju sadržaja, a pogonjen je tehnologijom »Torrenta«. Pokrenut je u siječnju 2017., kada pomoću programa JavaScript postaje dostupan preglednicima. Za razliku od YouTubea i sličnih pružatelja BitChute se ne uzdržava oglašavanjem, nego skupnim financiranjem i dobrovoljnim prilozima korisnika.",
@@ -4675,6 +4710,10 @@
   "google images":[
    "Google Slike. Najpotpunije pretraživanja slika na webu.",
    "https://images.google.com"
+  ],
+  "google news":[
+   "Prije nego što nastavite",
+   "https://news.google.com"
   ],
   "google play apps":"Google Play Googleova je mrežna trgovina aplikacija, glazbe, filmova i ostalih digitalnih sadržaja. Predstavljen je u kolovozu 2008. godine, a njegovo korištenje počinje od listopada 2008. godine. Pojava prvih komercijalnih aplikacija započinje od strane britanskih i američkih programera od veljače 2009.",
   "google play movies":[
@@ -4757,7 +4796,7 @@
    "https://www.bing.com/news"
   ],
   "bing videos":[
-   "A Bing intelligens keresésével gyorsan megtalálhat bármit, amit keres, és még jutalmakban is részesülhet.",
+   "Keressen a Microsoft Binggel, és használja az AI erejét információk kereséséhez, weblapok, képek, videók, térképek és egyebek felfedezéséhez. Intelligens keresőmotor az örökre kíváncsiak számára.",
    "https://www.bing.com/videos"
   ],
   "brave":[
@@ -4872,6 +4911,22 @@
   "openstreetmap":"Az OpenStreetMap (OSM) csoportmunkán alapuló térképfejlesztés, melynek célja egy szabadon szerkeszthető és felhasználható térkép készítése az egész világról.",
   "pinterest":"A Pinterest egy amerikai közösségi képmegosztó weboldal. A szolgáltatás lehetővé teszi, hogy a regisztrált felhasználók témák szerint rendezetten fényképeket osszanak meg egymással. Az oldal önmeghatározása szerint arra való, hogy összekösse a világot azon képek által, melyeket a felhasználók fontosnak tartanak. A Pinterestet a Cold Brew Labs, egy Palo Altóban lévő 16 fős csapat üzemelteti.",
   "piratebay":"A svéd The Pirate Bay (TPB) a világ egyik legnagyobb torrentoldala. Az Alexa Internet statisztikái Archiválva 2011. december 13-i dátummal a Wayback Machine-ben szerint a TPB látogatottság alapján a 89. helyen áll. A portál nem tartalmaz illegális tartalmakat, csak a fájlcserét segítő információt (metaadatokat).",
+  "qwant":[
+   "európai keresőmotor",
+   "wikidata"
+  ],
+  "qwant images":[
+   "qwant:hu",
+   "ref"
+  ],
+  "qwant news":[
+   "qwant:hu",
+   "ref"
+  ],
+  "qwant videos":[
+   "qwant:hu",
+   "ref"
+  ],
   "reddit":"A Reddit egy közösségi weboldal, amelyen a felhasználók megoszthatják híreiket, képeiket és cikkeiket az ún. \"subredditeken\" (alredditeken). Kizárólag a regisztrált felhasználók adhatnak hozzá tartalmat, illetve értékelhetik a már meglévőket a \"fel\" és \"le\" nyilak segítségével. Több nyelven, köztük magyarul is elérhető.",
   "reuters":"Ez a cikk elsősorban a 2008 előtti Reutersszel foglalkozik – ebben az évben egyesült a Thomson céggel. Az egyesült cégről szóló cikket lásd: Thomson Reuters.",
   "rottentomatoes":"A Rotten Tomatoes (magyarul: rothadt paradicsomok) egy olyan angol nyelvű, amerikai alapítású weboldal, amely filmekkel kapcsolatos kritikákat, információkat, híreket gyűjt össze. Neve a régi szokásból ered, amikor paradicsommal és más zöldségekkel dobálták meg a színházi előadókat, ha előadásuk rossz volt. Az oldal tulajdonosa 2010 januárja óta a Flixster, egy filmekkel foglalkozó másik közösségi oldal, főszerkesztője Matt Atchity.",
@@ -4906,10 +4961,6 @@
   "wikiversity":"A Wikiegyetem egy Wikimédia Alapítvány projekt, amely tanuló közösségeket és a tananyagaikat támogatja.",
   "wikivoyage":"A Wikivoyage a Wikimédia Alapítvány ingyenes internetes útikönyve. A neve a Wiki és a francia voyage szóból áll. Az új wikiprojekt 2013. január 15-én, a Wikipédia alapításának 12. évfordulója évében, napra a születésnapján startolt. 24 nyelven érhető el: angolul, németül, hollandul, oroszul, svédül, olaszul, portugálul, franciául, spanyolul, kínaiul, finnül, görögül, héberül, perzsául, lengyelül, románul, ukránul, vietnámiul, törökül, japánul, hindiül, pastuul, bengáliul és eszperantóul.",
   "wiktionary":"A Wikiszótár a Wikipédia testvéroldala, melynek célja szabad szótár készítése minden nyelvre. Ötletgazdája Daniel Alston. 2002. december 12-én indult. A Wikiszótár magyar változata, a magyar Wikiszótár 2004. május 2-án indult.",
-  "wttr.in":[
-   "Időjárás előrejelzés: not found",
-   "https://wttr.in"
-  ],
   "youtube":"A YouTube nyilvános videómegosztó webhely, ahol a felhasználók videókat tölthetnek fel és nézhetnek meg. Székhelye a kaliforniai San Brunóban található. A Time magazin a 2006-os év találmányának választotta a honlapot."
  },
  "ia":{
@@ -4997,7 +5048,7 @@
    "https://www.bing.com/news"
   ],
   "bing videos":[
-   "Pencarian cerdas dari Bing mempermudah Anda menemukan apa yang Anda cari dengan cepat dan memberikan hadiah.",
+   "Cari dengan Microsoft Bing dan gunakan kemampuan AI untuk menemukan informasi, menjelajahi halaman web, gambar, video, peta, dan banyak lagi. Mesin pencarian cerdas bagi yang penuh rasa ingin tahu.",
    "https://www.bing.com/videos"
   ],
   "bitbucket":"Bitbucket adalah sebuah layanan hosting yang berbasis web untuk kode sumber dan pembangunan proyek yang menggunakan Mercurial ataupun sistem kendali versi Git yang dimiliki oleh Atlassian. Bitbucket menawarkan paket akun komersial dan gratis. Akun gratis tersebut menawarkan sebuah layanan repositori dengan jumlah yang tidak terbatas sejak bulan September 2010. Bitbucket terintegrasi dengan perangkat lunak Atlassian lain seperti Jira, HipChat, Confluence dan Bamboo.",
@@ -5130,7 +5181,7 @@
   "pypi":"Python Package Index, disingkat PyPI dan juga dikenal sebagai Cheese Shop, adalah repositori perangkat lunak pihak ketiga resmi untuk Python. PyPI dapat disamakan dengan CPAN, repositori untuk Perl. Beberapa manajer paket, termasuk pip, menggunakan PyPI sebagai sumber standar untuk paket dan dependensinya. Lebih dari 113.000 paket Python yang dapat diakses melalui PyPI.",
   "reddit":"Reddit adalah sebuah situs web agregasi berita sosial, pemeringkatan konten, dan diskusi asal Amerika Serikat. Pengguna terdaftar mengirimkan konten ke situs tersebut seperti tautan, posting teks, gambar, dan video, yang kemudian di \"upvote\" atau \"downvote\" oleh setiap anggota lainnya. Kiriman tersebut kemudian diatur berdasarkan subjek ke dalam sebuah papan grup yang dibuat oleh pengguna yang disebut \"communities\" atau \"subreddits\". Kiriman dengan lebih banyak upvote muncul di bagian atas subreddit mereka dan, jika mereka masih mendapatkan lebih banyak upvote lagi secara signifikan, maka pada akhirnya kiriman tersebut akan muncul di halaman utama depan situs. Administrator Reddit memoderasi subreddits. Moderasi juga dilakukan oleh moderator khusus dari setiap komunitas, dan bukan karyawan Reddit. Situs ini dioperasikan oleh Reddit Inc., yang berbasis di San Francisco.",
   "reuters":"Reuters adalah sebuah organisasi berita internasional yang dimiliki oleh Thomson Reuters. Reuters mempekerjakan sekitar 2.500 jurnalis dan 600 jurnalis foto di sekitar 200 lokasi di seluruh dunia. Reuters merupakan salah satu kantor berita terbesar di dunia.",
-  "rottentomatoes":"Rotten Tomatoes adalah situs web yang menyediakan informasi tentang film dari seluruh dunia, termasuk orang-orang yang terlibat di dalamnya mulai dari aktor/aktris, sutradara, penulis sampai penata rias dan musikus. Situs web ini didirikan oleh Senh Duong.",
+  "rottentomatoes":"Rotten Tomatoes adalah situs web ulasan-agregasi Amerika untuk film dan televisi. Perusahaan ini diluncurkan pada bulan Agustus 1998 oleh tiga mahasiswa sarjana di University of California, Berkeley: Senh Duong, Patrick Y. Lee, dan Stephen Wang. Meskipun nama \"Rotten Tomatoes\" terhubung dengan praktik penonton yang melempar tomat busuk sebagai bentuk ketidaksetujuan terhadap pertunjukan panggung yang buruk, inspirasi langsung untuk nama Duong, Lee, dan Wang berasal dari adegan yang sama di film Kanada tahun 1992 Léolo.",
   "rumble":"Rumble adalah platform video online, hosting web, dan bisnis layanan cloud yang berkantor pusat di Toronto, Ontario, dengan kantor pusatnya di AS di Longboat Key, Florida. Perusahaan ini didirikan pada bulan Oktober 2013 oleh Chris Pavlovski, seorang pengusaha teknologi asal Kanada. Bisnis layanan cloud ini menaungi Truth Social, dan platform video ini populer di kalangan sayap kanan Amerika dan pengguna sayap kanan. Platform ini digambarkan sebagai bagian dari \"alt-tech\".",
   "semantic scholar":"Semantic Scholar adalah sebuah perkakas penelitian untuk literatur ilmiah. Perkakas ini dikembangkan di Allen Institute for AI dan dirilis secara publik pada November 2015. Semantic Scholar menggunakan teknik-teknik modern dalam pengolahan bahasa alami untuk mendukung proses ilmiah. Contohnya adalah dengan menyediakan ringkasan-ringkasan makalah-makalah ilmiah yang dihasilkan secara otomatis, yang juga dibantu oleh kecerdasan buatan, penglihatan mesin serta analisis semantik sebagai pemutakhiran analisis sitiran. Tim Semantic Scholar secara aktif menelaah penggunaan kecerdasan buatan dalam pengolahan bahasa alami, pembelajaran mesin, interaksi manusia–komputer, dan temu balik informasi.",
   "senscritique":[
@@ -5277,7 +5328,7 @@
    "gentoo:en",
    "ref"
   ],
-  "github":"GitHub è un servizio di hosting per progetti software, di proprietà della società GitHub Inc., con sede legale a San Francisco in California.",
+  "github":"GitHub è un servizio di hosting per progetti software, di proprietà della società GitHub Inc., con sede legale a San Francisco in California, controllata da Microsoft.",
   "gitlab":"GitLab è una piattaforma web open source pubblicata nel 2011 che permette la gestione di repository Git e di funzioni trouble ticket di proprietà della società GitLab Inc.. Originariamente il codice venne scritto in Ruby, ma successivamente alcune parti furono riscritte in Go. GitLab mette a disposizione diverse funzionalità a seconda del tipo di sottoscrizione e del prezzo pagato. È comunque possibile utilizzarlo gratuitamente, seppur con delle limitazioni.",
   "goo":"goo è un portale web e motore di ricerca internet con sede in Giappone, che esegue la scansione e l'indicizzazione principalmente siti web in lingua giapponese. goo è gestito dalla giapponese NTT Resonant, controllata dalla NTT Communications.",
   "goodreads":"Goodreads è un social network dedicato ai libri creato nel gennaio 2007 dallo sviluppatore di software e imprenditore statunitense Otis Chandler.",
@@ -5506,7 +5557,7 @@
    "https://www.bing.com/news"
   ],
   "bing videos":[
-   "Bing のインテリジェント検索機能により、探しているものをより簡単にすばやく見つけられるようになり、リワードも得られます。",
+   "Microsoft Bing を使用して検索し、AI の機能を使用して情報を検索したり、Web ページ、画像、ビデオ、マップなどを探索したりすることができます。いつまでも好奇心旺盛な人のためのスマート検索エンジンです。",
    "https://www.bing.com/videos"
   ],
   "bitbucket":"Bitbucket は、Mercurial（2020年6月1日までのリリース）またはGit（2011年10月以降）リビジョン管理システムを使用するソースコードおよび開発プロジェクト向けに、アトラシアンが運営するWeb ベースのバージョン管理リポジトリホスティングサービスである。商用プランと無料アカウントの両方を提供している。2019年2月現在、プライベートリポジトリを無制限に持てる無料アカウントを提供している。ユーザーがプライベートリポジトリしか持っていない場合でも、プライベートリポジトリはプロファイルページに表示されず、ウェブサイト上には\"このユーザーはリポジトリを持っていません\"と表示される。このサービスはDjangoフレームワークを用いてPythonで書かれている。",
@@ -5710,7 +5761,7 @@
    "https://www.bing.com/news"
   ],
   "bing videos":[
-   "Bing은 지능적인 검색 기능은 사용자가 원하는 정보를 빠르게 검색하고 보상을 제공합니다.",
+   "Microsoft Bing으로 검색하고 AI의 강력한 기능을 사용하여 정보를 찾고, 웹 페이지, 이미지, 동영상, 지도 등을 탐색할 수 있습니다. 호기심 많은 사람들을 위한 스마트한 검색 엔진입니다.",
    "https://www.bing.com/videos"
   ],
   "bitbucket":"빗버킷(Bitbucket)은 아틀라시안 소유의 웹 기반 버전 관리 저장소 호스팅 서비스로서, 깃(2011년 10월 이후) 버전 관리 시스템을 사용하는 소스 코드 및 개발 프로젝트를 대상으로 한다. 빗버킷은 상용 플랜과 무료 계정을 동시에 제공한다. 2010년 9월 기준으로 무료 계정의 경우 무제한 수의 개인 저장소(무료 계정의 경우 최대 5명의 사용자 보유 가능)를 제공한다. 빗버킷은 지라, 힙챗, 컨플루언스, 밤부 등의 기타 아틀라시안 소프트웨어와 연동된다.",
@@ -5924,7 +5975,7 @@
   ],
   "wikidata":"위키데이터(영어: Wikidata)는 위키미디어 재단에서 운영하는, 협력적으로 편집 가능한 지식 베이스이다. 위키백과 등 위키미디어 프로젝트에서 공통으로 사용할 정보(예를 들어 생일 등)을 제공하는 것을 목적으로 한다. 위키미디어 프로젝트에서 사용하는 미디어 파일의 저장소를 제공하는 위키미디어 공용과 비슷하다.",
   "wikinews":"위키뉴스(영어: Wikinews)는 위키미디어 재단의 뉴스 소스이다. 위키뉴스는 GNU 자유 문서 사용 허가서 1.2 이상에 따라 배포되는 위키미디어 재단의 다른 프로젝트와는 달리 크리에이티브 커먼즈의 저작자표시 사용 허가서 2.5 이상의 라이선스를 가진다. 위키뉴스에서 지지하는 중립적 시각 정책은 오마이뉴스와 같은 시민 언론의 노력과는 구별된다. 위키미디어 재단의 대부분의 프로젝트와 달리 위키뉴스는 독자적인 리포트와 인터뷰 형태의 독자적인 기사를 허용한다.",
-  "wikipedia":"위키백과(위키百科, IPA: [ɥikçibɛ̝k̚k͈wa̠], [ykçibɛ̝k̚k͈wa̠] ) 또는 위키피디아(영어: Wikipedia, IPA: [ˌwɪkɪˈpiːdɪə] )는 누구나 자유롭게 쓰는 다언어판 온라인 백과사전이다. 협업을 개방한 위키 기반 편집 시스템을 사용하여 자발적인 위키백과 사용자 공동체가 작성하고 관리한다. 위키백과는 대표적인 집단 지성의 사례로 평가받으며 역사상 최대로 가장 많이 읽는 참고서이기도 하다. 시밀러웹과 (과거) 알렉사 인터넷에서 가장 인기있는 웹사이트 10곳 중 하나로 꾸준히 순위를 올린다. 2024년 1월 기준으로 위키백과는 세계에서 7번째로 인기있는 사이트로 순위를 올렸다. 위키백과는 자유 저작물을 보유하고 상업적인 광고가 없다. 주로 기부금으로 지원을 받는 비영리 단체인 위키미디어 재단이 소유하고 지원한다.",
+  "wikipedia":"위키백과(위키百科, IPA: [ɥikçibɛ̝k̚k͈wa̠], [ykçibɛ̝k̚k͈wa̠] ) 또는 위키피디아(영어: Wikipedia, IPA: [ˌwɪkɪˈpiːdɪə] )는 누구나 자유롭게 쓰는 다언어판 온라인 백과사전이다. 협업을 개방한 위키 기반 편집 시스템을 사용하여 자발적인 위키백과 사용자 공동체가 작성하고 관리한다. 위키백과는 대표적인 집단 지성의 사례로 평가받으며 역사상 최대로 가장 많이 읽는 참고서이기도 하다. 시밀러웹과 (과거) 알렉사 인터넷에서 가장 인기있는 웹사이트 10곳 중 하나로 꾸준히 순위를 올린다. 2024년 1월 기준으로 위키백과는 세계에서 7번째로 인기 있는 사이트로 순위를 올렸다. 위키백과는 자유 저작물을 보유하고 상업적인 광고가 없다. 주로 기부금으로 지원을 받는 비영리 단체인 위키미디어 재단이 소유하고 지원한다.",
   "wikiquote":"위키인용집(Wikiquote)은 위키백과의 자매 프로젝트로, 2004년 7월부터 영어판 위키인용집을 시작으로 여러 언어로 프로젝트가 번역되었다. 이 프로젝트의 목표는 유명한 인물이 한 말이나 책의 문장 등을 인용하고 해석하는 것이니 일종의 어록이라고 할 수 있다.",
   "wikisource":"위키문헌(-文獻, 영어: Wikisource)은 위키미디어 재단이 운영하는 자유 콘텐츠 문헌의 온라인 위키 기반 디지털 도서관이다. 위키문헌 프로젝트의 목표는 모든 사람들이 자유로이 쓸 수 있는 정보자료를 한 곳에 모으는 것이다. 자비 출판 문서나 서적을 올리는 것은 허용되지 않는다.",
   "wikispecies":"위키생물종(Wikispecies 위키스피시즈[*])은 위키미디어 재단의 지원을 받는 생물 분류 도감용 프로젝트이다.",
@@ -5932,10 +5983,6 @@
   "wikivoyage":"위키여행(Wikivoyage, 프랑스어 발음: //, 비키부아야주; 영어 발음: //, 위키보이지)은 자발적 참여자가 함께 만들어가는 여행 가이드북 웹사이트이다. 이름은 위키(wiki)와 여행을 뜻하는 프랑스어 부아야주(voyage)를 합쳐 만들었다.",
   "wiktionary":"위키낱말사전(영어: Wiktionary)은 위키백과의 자매 프로젝트로, 공개된 위키 형식으로 다언어 사전을 만드는 것을 목표로 한다. 최종 목표는 \"모든 언어의 모든 낱말을 정의하는 것\"이다.",
   "wolframalpha":"울프럼 알파(Wolfram Alpha)는 계산용 프로그램인 매스매티카의 개발자인 물리학자 스티븐 울프럼이 만든 검색엔진으로서 슈퍼컴퓨터를 통한 인공지능을 통해 웹 상의 지식을 재구성하여 사용자에게 제공하며 간단한 연산을 직접 수행하고 그 그래픽 결과도 시뮬레이팅한다.",
-  "wttr.in":[
-   "일기 예보： not found",
-   "https://wttr.in"
-  ],
   "yacy":"YaCy(\"야시\"로 발음)는 마이클 크리스틴(Michael Christen)이 2003년에 만든 P2P 네트워크 원칙을 기반으로 구축된 자유 분산 검색 엔진이다. 엔진은 자바로 작성되었으며 다음과 같이 수백 대의 컴퓨터에 배포된다. 2006년 9월 소위 YaCy-peers. 각 YaCy-peer는 인터넷을 통해 독립적으로 크롤링하고, 발견된 웹 페이지를 분석 및 색인화하며, P2P 원칙을 사용하여 다른 YaCy-Peer와 공유되는 공통 데이터베이스(소위 색인)에 색인 결과를 저장한다. 이는 모든 사람이 인트라넷용 검색 포털을 구축하고 공용 인터넷 검색을 돕는 데 사용할 수 있는 검색 엔진이다.",
   "yacy images":[
    "yacy:ko",
@@ -5970,7 +6017,7 @@
    "https://www.bing.com/news"
   ],
   "bing videos":[
-   "Intelektualioji „Bing“ ieška leidžia lengvai ir greitai rasti tai, ko ieškote, ir apdovanoja jus.",
+   "Ieškokite su „Microsoft Bing“ ir naudodamiesi dirbtinio intelekto galia raskite informaciją, naršykite tinklalapius, vaizdus, vaizdo įrašus, žemėlapius ir kt. Išmanus ieškos modulis amžinai smalsiems.",
    "https://www.bing.com/videos"
   ],
   "brave":[
@@ -6027,7 +6074,7 @@
    "https://images.google.com"
   ],
   "google news":[
-   "Išsamios naujausios žinios, kurias iš viso pasaulio naujienų šaltinių surinko „Google“ naujienos.",
+   "Prieš tęsdami",
    "https://news.google.com"
   ],
   "google play apps":"Google Play – „Android“ operacinės sistemos mobiliųjų programų, knygų, žaidimų, muzikos ir filmų parduotuvė. Prieinama beveik visose šalyse.",
@@ -6090,7 +6137,7 @@
   "wikivoyage":"Vikikelionės – internetinis projektas, kuriamas vikitechnologija bei pagrįstas MediaWiki programine įranga. Vikikelionės nuo 2013 m. sausio 15 d. yra oficialus Vikimedijos projektas.",
   "wiktionary":"Vikižodynas – universalaus internetinio žodyno kūrimo projektas, Vikipedijai bei kitiems Vikimedijos projektams giminingas projektas, besiremiantis mediawiki programine įranga ir yra laisvai prieinamas internete.",
   "wttr.in":[
-   "Orų prognozė: not found",
+   "Orų prognozė: Alès, France",
    "https://wttr.in"
   ],
   "youtube":"„YouTube“ – „Google“ bendrovės socialinis tinklas. Jame daugiausia peržiūrų sulaukia muzikiniai vaizdo klipai, pramoginiai ir mokomieji vaizdo įrašai, įvairūs vlogai, tinklalaidės, neilgi vaizdo įrašai, televizinis turinys ir kt."
@@ -6113,7 +6160,7 @@
    "https://www.bing.com/news"
   ],
   "bing videos":[
-   "Viedā Bing meklēšana palīdz ātri atrast nepieciešamo un atalgo jūs.",
+   "Meklējiet, izmantojot Microsoft Bing, un lietojiet AI iespējas, lai atrastu informāciju, pārlūkotu tīmekļa lapas, attēlus, videoklipus, kartes un daudz ko citu. Vieda meklētājprogramma vienmēr zinātkārajiem.",
    "https://www.bing.com/videos"
   ],
   "brave":[
@@ -6228,7 +6275,7 @@
   "wikivoyage":"Wikivoyage ir viens no Wikimedia Foundation projektiem, kas ir balstīts uz wiki programmatūru. Tas ir tiešsaistes brīva satura portāls ar tūrisma materiāliem. Dibināts 2006. gadā, Wikimedia Foundation to pārņēma 2012. gadā. Pašlaik šis projekts pieejams angliski un vēl vairāk nekā 10 citās valodās.",
   "wiktionary":"Vikivārdnīca ir brīva papildināma daudzvalodu vārdnīca, kura izveidota uz wiki bāzes. Tas ir viens no Wikimedia Foundation projektiem.",
   "wttr.in":[
-   "Laika ziņas: not found",
+   "Laika ziņas: Alès, France",
    "https://wttr.in"
   ],
   "youtube":"YouTube ir video koplietošanas tiešsaistes sociālā tīkla tīmekļa vietne, kurā tās apmeklētāji var ievietot, skatīties un izmantot dažādus video failus. Šos failus lietotāji var novērtēt, pie katra faila norādīts tā skatījumu skaits. Aktīvo lietotāju skaits 2023. gada beigās sasniedza vairāk nekā 2 miljardus."
@@ -6263,7 +6310,7 @@
    "https://www.bing.com/news"
   ],
   "bing videos":[
-   "Bing-ൽ നിന്നുള്ള ഇന്റലിജന്റ് തിരയൽ നിങ്ങൾ തിരയുന്നത് അതിവേഗം കണ്ടെത്തുന്നത് എളുപ്പമാക്കുന്നു, നിങ്ങൾക്ക് റിവാർഡ് നൽകുകയും ചെയ്യുന്നു.",
+   "Microsoft Bing ഉപയോഗിച്ച് തിരയുക, വിവരങ്ങൾ കണ്ടെത്തുന്നതിനും വെബ്‌പേജുകൾ, ചിത്രങ്ങൾ, വീഡിയോകൾ, മാപ്പുകൾ എന്നിവയും മറ്റും പര്യവേക്ഷണം ചെയ്യാനും ആർട്ടിഫിഷ്യൽ ഇന്റലിജൻസിന്റെ ശക്തി ഉപയോഗിക്കുക. എക്കാലവും ജിജ്ഞാസയുള്ളവർക്കായി ഒരു മികച്ച സെർച്ച് എഞ്ചിൻ.",
    "https://www.bing.com/videos"
   ],
   "brave":"ക്രോമിയം വെബ് ബ്രൗസറിനെ അടിസ്ഥാനമാക്കി ബ്രേവ് സോഫ്റ്റ്‍വെയർ.inc വികസിപ്പിച്ചെടുത്ത സൗജന്യവും ഓപ്പൺ സോഴ്‌സുമായ വെബ് ബ്രൗസറുമാണ് ബ്രേവ്. സ്വകാര്യത കേന്ദ്രീകരിച്ച ബ്രൗസറാണിത്. ഇത് സ്ഥിരസ്ഥിതി ക്രമീകരണങ്ങളിൽ ഓൺലൈൻ പരസ്യങ്ങളെയും വെബ്‌സൈറ്റ് ട്രാക്കറുകളെയും യാന്ത്രികമായി തടയുന്നതിലൂടെ മറ്റ് ബ്രൗസറുകളിൽ നിന്ന് വ്യത്യസ്ഥമാണ്. ബേസിക് അറ്റൻഷൻ ടോക്കണുകൾ (BAT) ക്രിപ്‌റ്റോകറൻസി രൂപത്തിൽ ഉപയോക്താക്കളുടെ ശ്രദ്ധയ്ക്ക് പണം നൽകുന്ന ഓപ്‌ഷണൽ പരസ്യങ്ങൾ ഓണാക്കാനുള്ള കഴിവ് ഇത് ഉപയോക്താക്കൾക്ക് നൽകുന്നു. ഉപയോക്താക്കൾക്ക് വെബ്‌സൈറ്റുകളിലേക്കും ഉള്ളടക്ക സ്രഷ്‌ടാക്കൾക്കും അവർ സമ്പാദിച്ച ക്രിപ്‌റ്റോകറൻസി നിലനിർത്താനുള്ള കഴിവിനൊപ്പം സംഭാവനകൾ അയയ്‌ക്കാൻ കഴിയും. ബ്രേവ് സോഫ്റ്റ്‍വെയറിന്റെ ആസ്ഥാനം സാൻ ഫ്രാൻസിസ്കോയിലാണ്.",
@@ -6377,7 +6424,7 @@
   "wikivoyage":"ഒരു വിക്കിമീഡിയ സംരംഭമാണ് വിക്കിപര്യടനം(en:wikivoyage). സ്വതന്ത്ര യാത്രാപുസ്തകമാണിത്. ലോകത്തെമ്പാടുമുള്ള പ്രധാന ടൂറിസ്റ്റ് കേന്ദ്രങ്ങളിൽ എത്തിപ്പെടുന്ന ഒരാൾക്ക് ആവശ്യമായ എല്ലാ സംഗതികളും ഉൾക്കൊള്ളിച്ചുകൊണ്ട് വെബ് അടിസ്ഥാനത്തിൽ സേവനം ലഭ്യമാക്കുക എന്നതാണ് ഇതിന്റെ ലക്ഷ്യം.",
   "wiktionary":"സ്വതന്ത്ര ഉള്ളടക്കമുള്ള ഒരു നിഘണ്ടു നിർമ്മിക്കുന്നതിനുള്ള ഒരു വെബ് അധിഷ്ഠിത ബഹുഭാഷാ പദ്ധതിയാണ് വിക്ഷണറി. 150-ലധികം ഭാഷകളിൽ ഇത് ലഭ്യമാണ്. സാധാരണ നിഘണ്ടുക്കളിൽ നിന്ന് വ്യത്യസ്തമായി വോളണ്ടിയർമാരുടെ ഒരു സമൂഹമാണ് വിക്ഷണറിക്ക് പിന്നിൽ പ്രവർത്തിക്കുന്നത്. വിക്കി സോഫ്റ്റ്‌വെയർ ഉപയോഗിക്കുന്ന ഇതിലെ ലേഖനങ്ങൾ വെബ്സൈറ്റിലേക്ക് പ്രവേശിക്കുവാൻ സൗകര്യമുള്ള മിക്കവാറും എല്ലാവർക്കും തിരുത്താവുന്നതാണ്.",
   "wttr.in":[
-   "കാലാവസ്ഥ റിപ്പോർട്ട്: not found",
+   "കാലാവസ്ഥ റിപ്പോർട്ട്: Alès, France",
    "https://wttr.in"
   ],
   "youtube":"ഗൂഗിൾ ഉടമസ്ഥതയിലുള്ള ഇന്റർനെറ്റ് വീഡിയോ ഷെയറിംഗ് വെബ്‌സൈറ്റാണ്‌ യൂട്യൂബ്. ഈ സംവിധാനത്തിലൂടെ ലോകത്തെവിടെനിന്നും ഉപഭോക്താക്കൾക്ക് വീഡിയോ ഖണ്ഡങ്ങൾ മറ്റുള്ളവരുമായി പങ്കുവയ്ക്കുവാൻ കഴിയുന്നു. 2005 ഫെബ്രുവരിയിൽ പേയ്പാൽ എന്ന ഇ-വ്യാപാര കമ്പനിയിൽ ജോലി ചെയ്തിരുന്ന സ്റ്റീവ് ചെൻ, ചാഡ് ഹർലി, ജാവേദ് കരീം എന്നിവരാണ് യൂട്യൂബ് സ്ഥാപിച്ചത്. കാലിഫോർണിയയിലെ സാൻ ബ്രൂണൊ അസ്ഥാനമാക്കി പ്രവർത്തനമാരംഭിച്ച ഈ വെബ് സേവന കമ്പനി അഡോബ് ഫ്ലാഷ് സാങ്കേതിക വിദ്യ അടിസ്ഥാനമാക്കിയാണു പ്രവർത്തിക്കുന്നത്. വീഡിയോ ഖണ്ഡങ്ങൾ, സംഗീതം, ടെലിവിഷൻ പരിപാടികൾ തുടങ്ങിയവയെല്ലാം ഈ വെബ് സൈറ്റ് വഴി പങ്കുവയ്ക്കപ്പെടുന്നുണ്ട്. യുട്യൂബിൽ അംഗമായാൽ ആർക്കും വീഡിയോകൾ അപ്‌ലോഡ് ചെയ്യാവുന്നതാണ്. ശ്ലീലമായ വീഡിയോകൾ മാത്രമാണ് അനുവദിക്കുക. പുതിയ ഉപഭോക്താക്കൾക്ക് 10 മിനുട്ടിൽ കൂടുതൽ വീഡിയോ കയറ്റാൻ അനുമതി നൽകുന്നില്ല. ഓർക്കുട്ട് പോലെ തന്നെ എല്ലാ രാജ്യങ്ങളിലും യുട്യൂബിനു അനുമതി നൽകിയിട്ടില്ല. ഉപഭോക്താക്കൾക്ക് യൂട്യൂബിൽ നിന്ന് വീഡിയോ ഖണ്ഡങ്ങൾ ഡൗൺലോഡ് ചെയ്യാനും സാധിക്കും.വെബ്‌സൈറ്റ്, മൊബൈൽ അപ്ലിക്കേഷനുകൾ എന്നിവ ഉൾപ്പെടെ വീഡിയോകൾ കാണാനും മറ്റ് വെബ്‌സൈറ്റുകൾ കൂട്ടിച്ചേർക്കാനായി യൂട്യൂബ് നിരവധി മാർഗങ്ങൾ നൽകുന്നു. ലഭ്യമായ ഉള്ളടക്കത്തിൽ സംഗീത വീഡിയോകൾ, വീഡിയോ ക്ലിപ്പുകൾ, ഹ്രസ്വ, ഡോക്യുമെന്ററി ഫിലിമുകൾ, ഓഡിയോ റെക്കോർഡിംഗുകൾ, മൂവി ട്രെയിലറുകൾ, തത്സമയ സ്ട്രീമുകൾ, വീഡിയോ ബ്ലോഗുകൾ എന്നിവ ഉൾപ്പെടുന്നു. മിക്ക ഉള്ളടക്കവും സൃഷ്ടിക്കുന്നത് വ്യക്തികളാണ്, പക്ഷേ മീഡിയ കോർപ്പറേഷനുകളും വീഡിയോകൾ പ്രസിദ്ധീകരിക്കുന്നു. കാണുന്നതിനും അപ്‌ലോഡുചെയ്യുന്നതിനും പുറമെ, രജിസ്റ്റർ ചെയ്ത ഉപയോക്താക്കൾക്ക് വീഡിയോകളിൽ അഭിപ്രായമിടാനും റേറ്റുചെയ്യാനും പ്ലേലിസ്റ്റുകൾ സൃഷ്ടിക്കാനും മറ്റ് ഉപയോക്താക്കൾക്ക് സബ്സ്ക്രൈബ് ചെയ്യാനും കഴിയും. 2005 ൽ സ്ഥാപിതമായ യുട്യൂബ് തൊട്ടടുത്ത വർഷം ഗൂഗിൾ 1.65 ബില്യൺ യുഎസ് ഡോളറിന് സ്വന്തമാക്കി. 2020 ൽ 19.8 ബില്യൺ ഡോളർ സമ്പാദിച്ച യൂട്യൂബ് ഗൂഗിളിന്റെ ഏറ്റവും ലാഭകരമായ അനുബന്ധ സ്ഥാപനങ്ങളിലൊന്നായി ഇത് മാറി. ഗൂഗിളിന്റെ ആഡ്സെൻസ്(AdSense) പ്രോഗ്രാമിൽ നിന്ന് യൂട്യൂബും തിരഞ്ഞെടുത്ത സ്രഷ്‌ടാക്കളും പരസ്യ വരുമാനം നേടുന്നു. ഭൂരിഭാഗം വീഡിയോകളും കാണാൻ സൗജന്യമാണ്, പക്ഷേ ചിലതിന് സംഗീതമോ പ്രീമിയം സബ്സ്ക്രിപ്ഷനോ ആവശ്യമാണ്."
@@ -6474,7 +6521,7 @@
   ],
   "google scholar":"Google Scholar ialah enjin carian web yang boleh diakses secara bebas yang mengindeks teks penuh atau metadata kesusasteraan ilmiah dalam pelbagai format dan disiplin penerbitan. Dikeluarkan pada beta pada November 2004, indeks Google Scholar termasuk kebanyakan jurnal dan buku akademik dalam talian yang dikaji semula, kertas persidangan, tesis dan disertasi, pracetak, abstrak, laporan teknikal dan kesusasteraan ilmiah lain, termasuk pendapat mahkamah dan paten. Walaupun Google tidak menerbitkan pangkalan data Google Scholar, para penyelidik sintometris menganggarkan ia mengandungi kira-kira 389 juta dokumen termasuk artikel, kutipan dan paten menjadikan enjin carian akademik terbesar di dunia pada Januari 2018. Sebelum ini saiznya dianggarkan sebanyak 160 juta dokumen pada Mei 2014. Anggaran statistik terdahulu yang diterbitkan dalam PLOS ONE menggunakan kaedah Mark dan menangkap semula dianggarkan kira-kira 80-90% liputan semua artikel yang diterbitkan dalam bahasa Inggeris dengan anggaran 100 juta. Anggaran ini juga menentukan berapa banyak dokumen yang tersedia secara bebas di web.",
   "hoogle":"Haskell ialah sebuah bahasa pengaturcaraan kefungsian yang tulen. Bahasa ini mendapat nama daripada Haskell Curry, seorang tokoh matematik yang banyak menyumbang dalam ilmu logik kombinator.",
-  "imdb":"Internet Movie Database ialah pangkalan data dalam talian, dimiliki oleh Amazon, mengenai maklumat berkaitan filem, rancangan televisyen, video rumah, permainan video, dan kandungan penstriman dalam talian – termasuk pelakon, kru penerbitan dan biografi peribadi, ringkasan plot, trivia, penarafan, dan ulasan kritikan dan peminat. Ciri-ciri peminat, papan mesej, dimansuhkan pada Februari 2017. Pada asalnya ialah laman web kendalian peminat, pangkalan data ini dimiliki dan dikendalikan oleh IMDb.com, Inc., anak syarikat Amazon.",
+  "imdb":"Internet Movie Database (",
   "imgur":[
    "tapak web pengehosan imej",
    "wikidata"
@@ -6556,8 +6603,8 @@
    "https://www.bing.com/news"
   ],
   "bing videos":[
-   "Intelligente søk fra Bing gjør det enklere å finne det du søker etter raskt, og belønner deg.",
-   "https://www.bing.com/videos"
+   "bing:nb-NO",
+   "ref"
   ],
   "brave":[
    "Søk på internett – privat. Genuint nyttige resultater, KI-baserte svar med mer – fra en uavhengig indeks. Ingen profilering, ingen biaser, ingen Big Tech.",
@@ -6611,10 +6658,6 @@
    "Google Foto. Det mest omfattende bildesøket på Internett.",
    "https://images.google.com"
   ],
-  "google news":[
-   "google news:da",
-   "ref"
-  ],
   "google play apps":[
    "Få tilgang til millioner av det nyeste innen Android-apper og -spill, musikk, filmer, TV-serier, bøker, blader og mye annet. Når som helst, hvor som helst og på alle enhetene dine.",
    "https://play.google.com/"
@@ -6646,6 +6689,10 @@
   "pinterest":[
    "Oppdag oppskrifter, innredningstips, stilinspirasjon og andre ideer du kan prøve ut.",
    "https://www.pinterest.com/"
+  ],
+  "reddit":[
+   "Reddit er et sted der millioner av mennesker samles for å snakke om ting de bryr seg om, i over 100 000 subreddit-fellesskap.",
+   "https://www.reddit.com/"
   ],
   "youtube":[
    "Med YouTube kan du se populære videoer, kose deg med favorittmusikken din og laste opp ditt eget innhold – og dele det med familie, venner og resten av verden.",
@@ -6685,7 +6732,7 @@
    "https://www.bing.com/news"
   ],
   "bing videos":[
-   "Met de intelligente zoekmachine van Bing kunt u gemakkelijker snel vinden waar u naar op zoek bent en wordt u beloond.",
+   "Zoek met Microsoft Bing en gebruik de kracht van AI om informatie te zoeken, webpagina's, afbeeldingen, video's, kaarten en meer te verkennen. Een slimme zoekmachine voor altijd nieuwsgierige mensen.",
    "https://www.bing.com/videos"
   ],
   "bitbucket":"Bitbucket is een softwareontwikkelingsplatform waar gezamenlijk aan programmeerprojecten gewerkt kan worden. In 2010 werd Bitbucket opgekocht door Atlassian. Code wordt sindsdien met Git of Mercurial opgeslagen, en Bitbucket werkt via het ticketvolgsysteem ook nauw samen met de projectbeheersoftware Jira.",
@@ -6745,7 +6792,7 @@
    "gentoo:en",
    "ref"
   ],
-  "github":"GitHub is een online platform voor softwareontwikkeling en versiebeheer. GitHub is gebouwd rond het versiebeheersysteem Git, en biedt daardoor alle mogelijkheden van Git voor het beheren van versies en broncode. Het beschikt onder ander over toegangscontrole en verschillende samenwerkingsfuncties, zoals een issue tracker, een forum voor het aanvragen van functies, takenlijsten en wiki's voor ieder project. Het hoofdkantoor is gevestigd in Californië en is sinds 2018 een dochteronderneming van Microsoft.",
+  "github":"GitHub is een online platform voor softwareontwikkeling en versiebeheer. GitHub is gebouwd rond het versiebeheersysteem Git, en biedt daardoor alle mogelijkheden van Git voor het beheren van versies en broncode. Het beschikt onder andere over toegangscontrole en verschillende samenwerkingsfuncties, zoals een issue tracker, een forum voor het aanvragen van functies, takenlijsten en wiki's voor ieder project. Het hoofdkantoor is gevestigd in Californië en is sinds 2018 een dochteronderneming van Microsoft.",
   "gitlab":"GitLab is een online DevOps-tool. Het wordt door diverse grote technologiebedrijven gebruikt, waaronder NASA, Alibaba, CERN, GNOME en SpaceX. De software is geschreven door Dmitriy Zaporozhets en Valery Sizov, oorspronkelijk in Ruby. Het bevat onder andere een git-repository, wiki, ticketvolgsysteem en softwareontwikkelstraat.",
   "goodreads":"Goodreads is een sociaalnetwerksite voor boekenliefhebbers en auteurs waarmee individuen de database met boeken, annotaties, citaten en recensies kunnen doorzoeken. Gebruikers kunnen zich aanmelden en boeken registreren om bibliotheekcatalogi en leeslijsten te genereren. Ze kunnen ook hun eigen groepen boeksuggesties, enquêtes, opiniepeilingen, blogs en discussies maken.",
   "google":"Google Zoeken, ook wel Google Search of gewoon Google genoemd, is een zoekmachine van Google LLC voor documenten op het wereldwijde web, opgericht in 1997 door twee promovendi aan de Stanford-universiteit, Larry Page en Sergey Brin. Page en Brin hadden twee jaar gewerkt aan een geavanceerde methode voor het vinden van informatie op het internet. Al snel verdrong Google AltaVista en werd het 's werelds populairste zoekmachine.",
@@ -6883,7 +6930,7 @@
   "wiktionary":"Wiktionary is een project van de Wikimedia Foundation om een gratis meertalig woordenboek van alle woorden in alle talen te maken.",
   "wolframalpha":"Wolfram|Alpha is een antwoordmachine op het web, die niet zoekt naar pagina's zoals een zoekmachine doet, maar naar antwoorden op vragen, dat doet hij door te zoeken in een database van informatie. Om de antwoorden te berekenen maakt het gebruik van de software Mathematica. In maart 2009 is de antwoordmachine aangekondigd door de Britse natuurkundige Stephen Wolfram. De website is voor het publiek geopend op 15 mei 2009 en is officieel geopend op 18 mei 2009.",
   "wttr.in":[
-   "Weerbericht voor: not found",
+   "Weerbericht voor: Alès, France",
    "https://wttr.in"
   ],
   "youtube":"YouTube is een website van YouTube LLC, een dochteronderneming van Google LLC. Het is een website waar gebruikers kosteloos en soms tegen betaling video's kunnen publiceren en kunnen bekijken. De video's om gratis te bekijken worden door advertenties onderbroken."
@@ -7389,8 +7436,8 @@
    "https://www.bing.com/images"
   ],
   "bing videos":[
-   "Bing ਦੀ ਹੁਸ਼ਿਆਰ ਖੋਜ ਉਸ ਚੀਜ਼ ਨੂੰ ਤੇਜ਼ੀ ਨਾਲ ਲੱਭਣਾ ਸੌਖਾ ਬਣਾਉਂਦੀ ਹੈ ਜਿਸ ਨੂੰ ਤੁਸੀਂ ਤਲਾਸ਼ ਰਹੇ ਹੋ ਅਤੇ ਤੁਹਾਨੂੰ ਇਨਾਮ ਦਿੰਦੀ ਹੈ।",
-   "https://www.bing.com/videos"
+   "bing:pa",
+   "ref"
   ],
   "gentoo":[
    "gentoo:en",
@@ -7400,6 +7447,10 @@
   "google images":[
    "Google Images. ਵੈੱਬ 'ਤੇ ਸਭ ਤੋਂ ਵਿਆਪਕ ਚਿੱਤਰ ਖੋਜ।",
    "https://images.google.com"
+  ],
+  "google news":[
+   "ਤੁਹਾਡੇ ਵੱਲੋਂ ਜਾਰੀ ਰੱਖਣ ਤੋਂ ਪਹਿਲਾਂ",
+   "https://news.google.com"
   ],
   "google play apps":"ਗੂਗਲ ਪਲੇ ਇੱਕ ਡਿਜੀਟਲ ਵਿਤਰਣ ਸੇਵਾ ਹੈ ਜੋ ਗੂਗਲ ਦੁਆਰਾ ਚਲਾਇਆ ਅਤੇ ਵਿਕਸਤ ਕੀਤਾ ਗਿਆ ਹੈ। ਇਹ ਐਂਡਰੋਇਡ ਓਪਰੇਟਿੰਗ ਸਿਸਟਮ ਲਈ ਅਧਿਕਾਰਕ ਐਪ ਸਟੋਰ ਦੇ ਤੌਰ ਤੇ ਕੰਮ ਕਰਦਾ ਹੈ, ਜਿਸ ਨਾਲ ਯੂਜ਼ਰਸ ਐਂਡਰਾਇਡ ਸਾਫਟਵੇਅਰ ਡਿਵੈਲਪਮੈਂਟ ਕਿੱਟ (ਐਸ.ਡੀ.ਕੇ.) ਨਾਲ ਵਿਕਸਿਤ ਕੀਤੇ ਐਪਲੀਕੇਸ਼ਨਾਂ ਨੂੰ ਬ੍ਰਾਊਜ਼ ਅਤੇ ਡਾਊਨਲੋਡ ਕਰ ਸਕਦੇ ਹਨ ਅਤੇ ਗੂਗਲ ਰਾਹੀਂ ਪ੍ਰਕਾਸ਼ਿਤ ਹੋ ਸਕਦੇ ਹਨ। ਗੂਗਲ ਪਲੇ ਡਿਜ਼ੀਟਲ ਮੀਡੀਆ ਸਟੋਰ ਦੇ ਤੌਰ ਤੇ ਵੀ ਕੰਮ ਕਰਦਾ ਹੈ, ਸੰਗੀਤ, ਰਸਾਲੇ, ਕਿਤਾਬਾਂ, ਫਿਲਮਾਂ ਅਤੇ ਟੀਵੀ ਪ੍ਰੋਗਰਾਮਾਂ ਦੀ ਪੇਸ਼ਕਸ਼ ਕਰਦਾ ਹੈ। ਇਸ ਨੇ ਪਹਿਲਾਂ 11 ਮਾਰਚ, 2015 ਨੂੰ ਇੱਕ ਵੱਖਰੀ ਔਨਲਾਈਨ ਹਾਰਡਵੇਅਰ ਰਿਟੇਲਰ, ਗੂਗਲ ਸਟੋਰ ਦੀ ਸ਼ੁਰੂਆਤ ਤਕ ਖਰੀਦਣ ਲਈ ਗੂਗਲ ਹਾਰਡਵੇਅਰ ਡਵਇਸ ਨੂੰ ਖਰੀਦਿਆ ਸੀ।",
   "google play movies":[
@@ -7536,7 +7587,7 @@
    "https://www.bing.com/news"
   ],
   "bing videos":[
-   "Inteligentne wyszukiwanie Bing ułatwia szybkie znalezienie tego, czego szukasz, i nagradza Cię.",
+   "Wyszukuj za pomocą usługi Microsoft Bing i wykorzystuj moc sztucznej inteligencji do znajdowania informacji, przeglądania stron internetowych, obrazów, wideo, map i nie tylko. Inteligentna wyszukiwarka dla zawsze ciekawych osób.",
    "https://www.bing.com/videos"
   ],
   "bitbucket":"Bitbucket – hostingowy serwis internetowy przeznaczony dla projektów programistycznych wykorzystujących system kontroli wersji Git oraz Mercurial, którego obecnym właścicielem jest firma Atlassian. Serwis umożliwia bezpłatne wykorzystanie usługi wraz z dodatkowymi płatnymi planami. Jest obecnie jednym z najpopularniejszych tego typu serwisów, z którego korzystają m.in. firmy Ford, PayPal, czy Starbucks. W kwietniu 2019 r. Atlassian ogłosił, że Bitbucket dotarł do 10 milionów zarejestrowanych użytkowników i ponad 28 milionów repozytoriów.",
@@ -7611,7 +7662,7 @@
    "wikidata"
   ],
   "hoogle":"Haskell – czysto funkcyjny język programowania nazwany na cześć amerykańskiego matematyka, Haskella Curry’ego.",
-  "huggingface":"Hugging Face, Inc. – francusko-amerykańska firma z siedzibą w Nowym Jorku, która udostępnia platformę do tworzenia aplikacji wykorzystujących uczenie maszynowe. Firma jest szczególnie znana ze swojej biblioteki transformatorów do przetwarzania języka naturalnego oraz platformy umożliwiającej użytkownikom udostępnianie modeli uczenia maszynowego i zestawów danych oraz prezentowanie swojej pracy.",
+  "huggingface":"Hugging Face – francusko-amerykańskie przedsiębiorstwo z siedzibą w Nowym Jorku, które udostępniło platformę do tworzenia aplikacji wykorzystujących uczenie maszynowe. Firma jest szczególnie znana ze swojej biblioteki transformerów do przetwarzania języka naturalnego oraz platformy umożliwiającej użytkownikom udostępnianie modeli uczenia maszynowego i zestawów danych oraz prezentowanie swojej pracy.",
   "huggingface datasets":[
    "huggingface:pl",
    "ref"
@@ -7749,10 +7800,6 @@
   "wikivoyage":"Wikipodróże – portal internetowy Wikimedia Foundation poświęcony tematyce turystycznej, oparty na technologii wiki i tworzony na wolnej licencji przez zaangażowanych w ten projekt wolontariuszy.",
   "wiktionary":"Wiktionary – projekt Wikimedia Foundation, którego założeniem jest stworzenie wolnego słownika w każdym języku opartego na mechanizmie wiki. Wiktionary jest jednym z siostrzanych projektów Wikipedii. Polska wersja Wiktionary nosi nazwę Wikisłownik. Serwis był notowany w rankingu Alexa na miejscu 641.",
   "wolframalpha":"Wolfram|Alpha, Wolfram Alpha – strona internetowa, stworzona przez amerykańskie przedsiębiorstwo Wolfram Alpha LLC. Formułuje ona odpowiedź na pytanie zadane w języku naturalnym, wykonuje obliczenia, przedstawia dane statystyczne, rozwiązuje równania itp.",
-  "wttr.in":[
-   "Pogoda w: not found",
-   "https://wttr.in"
-  ],
   "yacy":"YaCy – rozproszona wyszukiwarka zbudowana na zasadzie sieci peer-to-peer (P2P). Podstawą jest program napisany w Javie, funkcjonujący na kilku tysiącach komputerów, tak zwanych YaCy-peers. Każde YaCy-peer niezależnie przeszukuje internet, analizuje oraz indeksuje znalezione strony i gromadzi rezultaty indeksowania we wspólnej bazie danych, który jest współdzielony z innymi użytkownikami YaCy tak, jak w sieciach P2P.",
   "yacy images":[
    "yacy:pl",
@@ -7819,6 +7866,10 @@
   ],
   "deezer":"Deezer é um serviço de streaming de áudio lançado em 2007. Disponível para usuários de mais de 180 países, a plataforma possui atualmente mais de 90 milhões de músicas, mais de 100 milhões de playlists e mais de 4 milhões de programas de áudio, como podcasts, em seu acervo. É uma empresa de capital fechado, com sede em Paris, e escritórios em Londres, Berlim, Miami, São Paulo e em outros lugares do mundo. Criada em Paris, França, a Deezer possui 16 milhões de usuários ativos mensais, permitindo que os usuários ouçam conteúdo de música de gravadoras incluindo EMI, Sony, Universal Music Group e Warner Music Group.",
   "deviantart":"DeviantArt, Inc é uma empresa virtual, criada nos Estados Unidos, na forma de um website direcionado para artistas. Ele permite que iniciantes ou profissionais compartilhem, promovam e interajam por meio de obras de arte digitalizadas, incorporando tanto a fotografia, videografia, literatura, foto-manipulação, arte tradicional, arte clássica e arte contemporânea.",
+  "dictzone":[
+   "Dicionários online: Inglês, Espanhol, Alemão, Francês, Italiano, Húngaro... Selecione seu dicionário favorito!",
+   "https://dictzone.com/"
+  ],
   "duckduckgo":[
    "currency:pt",
    "ref"
@@ -7984,6 +8035,10 @@
   ],
   "steam":"Steam é um serviço de distribuição digital de jogos eletrônicos e loja gerenciada pela Valve Corporation de plataformas digitais como jogos e aplicativos de programação, e fornece serviços facilitados como atualização automática de jogos, e preços acessíveis aos usuários. As funções do cliente Steam incluem automação de atualização de jogos, armazenamento em nuvem para o progresso do jogo e recursos da comunidade, como mensagens diretas, funções de sobreposição no jogo e um mercado virtual colecionável.",
   "tineye":"TinEye é um mecanismo de busca de imagens reversas desenvolvido e oferecido pela Idée, Inc., uma empresa sediada em Toronto, Ontário no Canadá. É o primeiro mecanismo de pesquisa de imagens na Web a usar a tecnologia de identificação de imagens em vez de palavras-chave, metadados ou marcas d'água. TinEye permite aos usuários pesquisar não usando palavras-chave, mas com imagens. Ao enviar uma imagem, o TinEye cria uma \"assinatura digital única e compacta ou impressão digital\" da imagem e a combina com outras imagens indexadas.",
+  "unsplash":[
+   "Imagens e fotos incríveis e gratuitas que você pode baixar e usar para qualquer projeto. Melhor que quaisquer fotos de stock ou royalty-free.",
+   "https://unsplash.com"
+  ],
   "vimeo":"Vimeo é um site de compartilhamento de vídeo, no qual os usuários podem fazer upload, partilhar e ver vídeos. Foi fundada por Zach Klein e Jakob Lodwick em dezembro de 2004. O nome \"Vimeo\" foi criado pelo cofundador Jakob Lodwick e é um jogo das palavras \"video\", e \"me\" como uma referência a dedicação exclusiva do site para vídeos feitos por usuários, e também é um anagrama de \"movie\" (filme).",
   "voidlinux":"Void Linux é uma distribuição Linux independente que usa o gerenciador de pacotes XBPS, que foi desenvolvido e implementado sem utilização de outros gerenciadores como base, e o init runit. Com exceção de binary blobs no kernel, a instalação base é composta inteiramente de software livre, apesar de os usuários poderem acessar o repositório oficial pago para instalação de software proprietário.",
   "wikibooks":"Wikilivros é um projeto de código wiki da Fundação Wikimedia, tal como a Wikipédia, dedicado ao desenvolvimento colaborativo de textos didáticos de conteúdo livre.",
@@ -8011,7 +8066,7 @@
   "wiktionary":"Wikcionário é um projeto web multílingue pertencente à Fundação Wikimedia com a finalidade de criar um dicionário eletrônico de conteúdo livre, disponível em mais de 172 línguas diferentes. Ao contrário do padrão normal de dicionários, este é escrito colaborativamente por voluntários que usam o software wiki, permitindo que os artigos possam ser alterados e modificados por quase todas as pessoas de acesso ao site.",
   "wolframalpha":"Wolfram|Alpha é um mecanismo de conhecimento computacional desenvolvido pela Wolfram Research. É um serviço on-line que responde às perguntas diretamente, mediante o processamento da resposta extraída de base de dados estruturados, em vez de proporcionar uma lista dos documentos ou páginas web que poderiam conter a resposta, tal como faziam os mecanismos de busca.",
   "wttr.in":[
-   "Previsão do tempo para: not found",
+   "Previsão do tempo para: Alès, France",
    "https://wttr.in"
   ],
   "yahoo news":"O Yahoo! News é um site de notícias que se originou como um agregador de notícias baseado na internet pelo Yahoo!. O site foi criado pelo engenheiro de software do Yahoo! Brad Clawsie em agosto de 1996. Os artigos vieram originalmente de serviços de notícias como Associated Press, Reuters, Fox News, Al Jazeera, ABC News, USA Today, CNN e BBC News.",
@@ -8569,7 +8624,7 @@
    "https://www.bing.com/news"
   ],
   "bing videos":[
-   "Căutarea inteligentă de la Bing facilitează găsirea rapidă a lucrurilor pe care le căutați și vă premiază.",
+   "Căutați cu Microsoft Bing și utilizați puterea inteligenței artificiale pentru a găsi informații, a explora pagini web, imagini, videoclipuri, hărți și altele. Un motor de căutare inteligent pentru cei mereu curioși.",
    "https://www.bing.com/videos"
   ],
   "bitbucket":"Bitbucket este un serviciu de găzduire a unui depozit de control al versiunilor web, deținut de Atlassian, pentru proiecte de cod sursă și dezvoltare care utilizează sisteme de control de revizuire Mercurial sau Git. Bitbucket oferă atât planuri comerciale, cât și conturi gratuite.",
@@ -8735,7 +8790,7 @@
    "https://www.bing.com/news"
   ],
   "bing videos":[
-   "Интеллектуальный поиск Bing позволяет быстро найти нужную информацию, получая при этом вознаграждение.",
+   "Выполняйте поиск с помощью Microsoft Bing и используйте мощь ИИ для обнаружения информации, просмотра веб-страниц, изображений, видео, карт и т. д. Интеллектуальная поисковая система для вечно любознательных.",
    "https://www.bing.com/videos"
   ],
   "bitbucket":"Bitbucket — веб-сервис для хостинга проектов и их совместной разработки, основанный на системе контроля версий Git. По назначению и основным предлагаемым функциям аналогичен GitHub, от которого отличается с одной стороны меньшей пользовательской базой, а с другой, имеет определённые преимущества в плане размещения непубличных репозиториев — возможностью их бесплатного хостинга с ограничением на размер команды не более пяти человек и меньшей арендной платой при большем размере команды, а также управление правами доступа на уровне отдельных ветвей проекта. Если основные преимущества GitHub лежат в области социализации программирования, Bitbucket больше ориентирован на небольшие закрытые команды разработчиков. Слоган сервиса — «Bitbucket is the Git solution for professional teams».",
@@ -8765,6 +8820,10 @@
   ],
   "deezer":"Deezer — французский интернет-сервис потоковой передачи музыки. Позволяет прослушивать музыкальные композиции разных лейблов звукозаписи, включая Universal Music Group, Sony Music и Warner Music Group, на различных устройствах в режиме онлайн или офлайн. В настоящее время в базе сервиса находятся более 90 миллионов музыкальных композиций и 34 000 радиостанций. Сервис насчитывает свыше 14 миллионов активных пользователей в месяц и 7 миллионов платных подписчиков.",
   "deviantart":"DeviantArt — коммерческая онлайн-галерея и сообщество художников общего типа. DeviantART — популярный портал для фотографов, иллюстраторов и писателей, а также социальная сеть художников.",
+  "dictzone":[
+   "Онлайн-словари: английский, испанский, немецкий, французский, итальянский, венгерский... Выберите свой любимый словарь!",
+   "https://dictzone.com/"
+  ],
   "discuss.python":"Discourse - это интернет-форум с открытым исходным кодом и программное обеспечение для управления списком рассылки, созданное в 2013 году Jeff Atwood, Robin Ward, and Sam Saffron. Discourse получил финансирование от First Round Capital и Greylock Partners. Приложение написано на JavaScript и Ruby on Rails и использует Ember.js фреймворк. PostgreSQL служит в качестве базы данных.",
   "duckduckgo":[
    "currency:ru",
@@ -8972,10 +9031,6 @@
   "wiktionary":"Викислова́рь — свободно пополняемый многофункциональный многоязычный словарь и тезаурус, основанный на вики-движке. Один из проектов фонда «Викимедиа». Изначально появился на английском языке 12 декабря 2002 года.",
   "wolframalpha":"Wolfram|Alpha — база знаний и набор вычислительных алгоритмов, вопросно-ответная система. Запущена 15 мая 2009 года.",
   "wordnik":"Wordnik (wordnik.com) — интернет-сайт, разрабатываемый одноименной некоммерческой организацией, представляющий собой онлайн-словарь английского языка и языковой ресурс для словарей и тезауруса. Часть контента, представленного Wordnik, основывается на известных печатных словарях английского языка, таких как Century Dictionary, American Heritage Dictionary, WordNet и GCIDE. Wordnik собрал корпус из миллиардов слов, которые используются на сайте для отображения примеров предложений, что позволяет ему предоставлять информацию о гораздо большем наборе слов, чем в обычном словаре. Wordnik использует как можно больше реальных примеров при определении слова.",
-  "wttr.in":[
-   "Прогноз погоды: not found",
-   "https://wttr.in"
-  ],
   "yacy":"YaCy — свободно распространяемая децентрализованная поисковая система, построенная по принципу одноранговой сети (P2P). Есть версии для Windows, Linux, MacOSX. Основной программный модуль, написанный на Java, функционирует на нескольких тысячах компьютеров участников сети YaCy. Каждый участник проекта независимо исследует Интернет, анализируя и индексируя найденные страницы, и складывает результаты индексирования в общую базу данных, который совместно используется всеми пользователями YaCy по принципу P2P.",
   "yacy images":[
    "yacy:ru",
@@ -8983,7 +9038,6 @@
   ],
   "yahoo news":"Yahoo! News — новостной веб-сайт, созданный Yahoo! как интернет-агрегатор новостей. Сайт был создан инженером-программистом Yahoo! по имени Брэд Клоси в августе 1996 года. Первоначально статьи поступали из новостных служб, таких как Associated Press, Reuters, Fox News, Al Jazeera, ABC News, USA Today, CNN и BBC News.",
   "youtube":"YouTube — интернет-видеоплатформа и социальная сеть. Основан в 2005 году. С октября 2006 года принадлежит компании Google. YouTube стал популярнейшим видеохостингом и вторым сайтом в мире по количеству посетителей. На 2020 год у него более 2,5 млрд ежемесячных пользователей, которые ежедневно просматривают более 1 млрд часов видео. На 2021 год на сервисе насчитывалось, в общей сложности, около 14 млрд видеороликов.",
-  "yummly":"Yummly — американское мобильное приложение и веб-сайт, которые предоставляют рекомендации по рецептам, адаптированные к индивидуальным вкусам, семантический поиск рецептов, цифровую коробку рецептов, список покупок и часовую доставку продуктов. Приложение Yummly доступно для iOS, Android и веб-браузеров. Приложение Yummly было названо «Лучшим за 2014 год» в Apple App Store.",
   "z-library":"Z-library — теневая библиотека научной, технической и научно-популярной литературы, предположительно одна из крупнейших. Согласно данным, предоставленным сайтом, на февраль 2021 года коллекция портала состояла из более чем 6,5 млн книг и более 80 млн статей. Только за июнь 2020 года сайт посетили 2,84 млн человек, из которых 14,76 % составили пользователи из США."
  },
  "si":{
@@ -9102,7 +9156,7 @@
    "https://www.bing.com/news"
   ],
   "bing videos":[
-   "Inteligentné vyhľadávanie v službe Bing umožňuje rýchle nájdenie toho, čo hľadáte, a odmeňuje vás.",
+   "Vyhľadávajte pomocou Microsoft Bingu a využite silu umelej inteligencie na vyhľadanie informácií, preskúmanie webových lokalít, obrázkov, videí, máp a ďalších informácií. Inteligentný vyhľadávací nástroj pre večne zvedavých.",
    "https://www.bing.com/videos"
   ],
   "brave":[
@@ -9155,7 +9209,7 @@
   "github":"GitHub, Inc. je poskytovateľom internetového hostingu na vývoj softvéru a správu verzií s použitím verziovacieho nástroja Git. Ponúka distribuované verziovanie a správu zdrojového kódu systémom Git, ale aj ďalšie vlastné funkcie. Umožňuje regulovať prístup a má niekoľko funkcií zameraných na spoluprácu, ako napríklad sledovanie hlásených chýb, požiadavky na nové funkcie, správa úloh, priebežná integrácia a wiki stránka pre každý projekt.",
   "google images":"Google Image Search je vyhľadávacia služba, pomocou ktorej Google umožňuje užívateľom vyhľadávať na internete obrázky. Bola zverejnená v roku 2001 a existuje vo všetkých jazykových verziách, v ktorých je samotný vyhľadávač. Kľúčové slová pri hľadaní obrázkov sú založené na názve súboru, slovami, ktoré na daný obrázok odkazujú a textom, ktorý je na danej stránke pri obrázku. Pri vyhľadávaní sú zobrazené miniatúry obrázkov. Keď na niektorú kliknete, obrázok je zobrazený hore a nižšie je obsah stránky na ktorej sa obrázok nachádza. Je to jednoduchšie pretože takto môžete ľahšie zistiť z akej stránky daný obrázok pochádza.",
   "google news":[
-   "Vyčerpávajúce a aktuálne spravodajstvo zozbierané službou Google News zo zdrojov správ z celého sveta.",
+   "Skôr ako budete pokračovať",
    "https://news.google.com"
   ],
   "google play apps":"Google Play je digitálna distribučná platforma od spoločnosti Google, ktorá vznikla 6. marca 2012. Slúži tiež ako oficiálny app store pre operačný systém Android, ktorý umožňuje používateľom prehliadať a sťahovať aplikácie vytvorené pomocou Android SDK.",
@@ -9262,8 +9316,8 @@
    "https://www.bing.com/news"
   ],
   "bing videos":[
-   "Pametno iskanje v Bingu vam omogoča, da hitro najdete, kar iščete, in vas nagradi.",
-   "https://www.bing.com/videos"
+   "bing:sl",
+   "ref"
   ],
   "bitbucket":[
    "spletna gostiteljska storitev za projekte razvoja programske opreme",
@@ -9518,7 +9572,7 @@
    "https://www.bing.com/news"
   ],
   "bing videos":[
-   "Паметна претрага услуге Bing помаже вам да брже пронађете оно што тражите и награђује вас.",
+   "Претражујте уз Microsoft Bing и користите моћ вештачке интелигенције за проналажење информација, истраживање веб страница, слика, видео записа, мапа и још много тога. Паметан претраживач за вечно радознале.",
    "https://www.bing.com/videos"
   ],
   "brave":"Брејв је бесплатан веб прегледач отвореног кода, који је заснован на Хромијум веб прегледачу. Брејв веб прегледач онемогућава приказивање реклама и омогућава да корисници доприносе раду креатора садржаја на интернету у виду криптовалуте БАТ.",
@@ -9551,7 +9605,7 @@
    "https://images.google.com"
   ],
   "google news":[
-   "Свеобухватно, ажурно извештавање о вестима које Google вести прикупља из извора широм света.",
+   "Пре него што наставите",
    "https://news.google.com"
   ],
   "google play apps":", првобитно, је дигитална дистрибутивна платформа за Андроид апликације и онлајн продавница за мултимедијални садржај у власништву Гугла. Сервис дозвољава проналажење и преузимање Андроид апликација направљених уз помоћ Андроид СДК-а, као и куповину музике, часописа, књига, филмова и телевизијског програма. Корисници могу да купују и уређаје, као што су Гугл Нексус мобилни телефони и таблети.",
@@ -9658,7 +9712,7 @@
    "https://www.bing.com/news"
   ],
   "bing videos":[
-   "Med intelligent sökning från Bing hittar du snabbt och enkelt det du söker, och du får belöningar.",
+   "Sök med Microsoft Bing och använd kraften i AI för att hitta information, utforska webbsidor, bilder, videor, kartor med mera. En smart sökmotor för den som alltid är nyfiken.",
    "https://www.bing.com/videos"
   ],
   "bitbucket":"Bitbucket är en webbaserad lagringstjänst för kodprojekt som använder Mercurial eller Git. Tjänsten startades 2008 av Jesper Nøhr och köptes upp av det australiensiska företaget Atlassian i september 2010.",
@@ -9812,10 +9866,6 @@
   "wikivoyage":"Wikivoyage är en fri reseguide på flera språk, utvecklad av en användargemenskap. Reseguiden skrivs över Internet med wiki-teknik. Wikivoyage startades i september 2006 som en fork av Wikitravels tyskspråkiga version och fungerar sedan november 2012 som ett av Wikimedia Foundations projekt. Wikivoyage finns 2016 på 18 språk, bland annat svenska. Varje språkversion är självständig vad gäller innehåll och administration.",
   "wiktionary":"Wiktionary är ett flerspråkigt webbaserat projekt vars syfte är att skapa en fri ordbok. Projektet finns på över 170 olika språk. Till skillnad från traditionella ordböcker är Wiktionary kollektivt skriven av volontärer. Ordboken använder sig av wikiprogramvara, som tillåter besökare och användare att redigera nästan alla artiklar. Projektets slogan är den fria ordboken. Wiktionary använder även samma wikimotor, MediaWiki, som alla andra Wikimediaprojekt.",
   "wolframalpha":"Wolfram Alpha är ett sökmotorliknande internetverktyg som utvecklats av Wolfram Research.",
-  "wttr.in":[
-   "Väderleksprognos för: not found",
-   "https://wttr.in"
-  ],
   "youtube":"Youtube är en videogemenskap, det vill säga en webbplats med videoklipp som laddas upp av dess användare, med tillhörande diskussioner och sociala medier-funktioner. Webbplatsen öppnades den 14 februari 2005."
  },
  "szl":{
@@ -9836,7 +9886,7 @@
    "ref"
   ],
   "bing videos":[
-   "Bing-இன் அறிவார்ந்த தேடலானது, நீங்கள் தேடுவதை விரைவாக கண்டறிவதை எளிதாக்கி உங்களுக்கு வெகுமதிகளையும் வழங்குகிறது.",
+   "தகவல்களைக் கண்டறிய, வலைப்பக்கங்கள், படங்கள், வீடியோக்கள், வரைபடங்கள் மற்றும் பலவற்றை ஆராய, Microsoft Bing மூலம் தேடுங்கள் மற்றும் AI இன் சக்தியைப் பயன்படுத்துங்கள். எப்போதும் ஆர்வமுள்ளவர்களுக்கான ஒரு ஸ்மார்ட் தேடு பொறி.",
    "https://www.bing.com/videos"
   ],
   "brave":"பிரேவ் (Brave) என்பது கட்டற்ற, திறமூல உலாவிகளில் ஒன்றாகும். இதனை பிரேவ் மென்பொருளகம் தயாரித்துள்ளது. இந்த உலாவிக்கு அடிப்படையாக குரோமியம் உலாவி திகழ்கிறது. தனிநபர் உரிமையை மிக அதிகமாகக் காக்கும் உலாவிகளில் தலையானது. அதாவது விளம்பரங்களை அனுமதிக்காத, நீங்கள் உலாவும் வலைப்பக்கங்களை மறைமுகாமாகக் கூட குறிப்பெடுக்காத உலாவியாகும். மேலும், உலாவும் இணையப்பக்கப் பங்களிப்பாளர்களுக்கு, ஆல்ட்காயின்களை அனுப்பும் திறன் கொண்டது. 2019 ஆம் ஆண்டு, மைக்ரோசாப்ட் விண்டோசு, மேக் இயக்குதளம், லினக்சு, ஆண்ட்ராய்டு இயங்குதளம், ஐஓஎஸ் ஆகியவைகளுக்கு இதன் பதிப்பு வெளியிடப்பட்டுள்ளது. தற்போதுள்ள பதிப்பின் சிறப்பியல்பாக இயல்புநிலை வலை தேடு பொறி, டக்டக்கோ (தேடுபொறி) என்பதைக் கூறலாம். லினக்சு வகை இயக்குதளங்களில் நிறுவிக் கொள்ளவும் விரிவானக் குறிப்புகள் தரப்பட்டுள்ளன.",
@@ -9927,7 +9977,7 @@
   ],
   "wikidata":"விக்கித்தரவு (Wikidata) என்பது விக்கிமீடியா நிறுவனத்தால் இயக்கப்படும் பன்மொழி விக்கி அறிவுத் தளம் ஆகும். விக்கிப்பீடியா போன்ற விக்கிமீடியத் திட்டங்களில் பயன்படுத்துவதற்கான தரவுகளை வழங்கும் பொதுமூலமாக இது தொழிற்படுகின்றது. விக்கிபேசு என்ற மென்பொருளில் இது கட்டமைக்கப்பட்டுள்ளது.",
   "wikinews":"விக்கிசெய்தி, விக்கிமீடியா நிறுவனத்திரால் நடத்தப்படும் கட்டற்ற செய்திக் களமாகும். இது உலகளாவிய தன்னார்வலர்கள் தாமாகவே செய்திகளை உடனுக்குடன் மேலேற்றம் செய்யும் முறையாகும்.",
-  "wikipedia":"விக்கிப்பீடியா என்பது, வணிக நோக்கற்ற விக்கிமீடியா நிறுவனத்தின் உதவியுடன் நடத்தப்படும், கூட்டாகத் தொகுக்கப்படும், பன்மொழி, கட்டற்ற இணையக் கலைக்களஞ்சியமாகும். தமிழ் விக்கிப்பீடியாவின் 1,75,151 கட்டுரைகளுடன் சேர்த்து இதன் மொத்தக் கட்டுரைகளான 24 மில்லியன் கட்டுரைகளும் உலகெங்கிலுமுள்ள தன்னார்வலர்களால் கூட்டாக எழுதப்படுகின்றன. பெரும்பாலும் இதன் எல்லாக் கட்டுரைகளும், இதனைப் பயன்படுத்தும் எவராலும், தொகுக்கப்படக் கூடுவன. மேலும் இது கிட்டத்தட்ட 100,000 முனைப்பான பங்களிப்பாளர்களையும் கொண்டுள்ளது. சூலை 2025 வரையில், விக்கிப்பீடியா 285 மொழிகளில் செயற்படுகிறது. இது இணையத்தளத்தில் இயங்கும் உசாத்துணைப் பகுதிகளிலேயே மிகவும் பெரியதும், அதிகப் புகழ்பெற்றதுமாகும். மேலும், இது அலெக்சா இணையத்தளத்தில் காணப்படும் இணையத்தளங்களின் தரவரிசையில் ஆறாவது இடத்தில் உள்ளதோடு, உலகளவில் அண்ணளவாக 365 மில்லியன் வாசகர்களையும் கொண்டுள்ளது.",
+  "wikipedia":"விக்கிப்பீடியா என்பது, வணிக நோக்கற்ற விக்கிமீடியா நிறுவனத்தின் உதவியுடன் நடத்தப்படும், கூட்டாகத் தொகுக்கப்படும், பன்மொழி, கட்டற்ற இணையக் கலைக்களஞ்சியமாகும். தமிழ் விக்கிப்பீடியாவின் 1,75,690 கட்டுரைகளுடன் சேர்த்து இதன் மொத்தக் கட்டுரைகளான 24 மில்லியன் கட்டுரைகளும் உலகெங்கிலுமுள்ள தன்னார்வலர்களால் கூட்டாக எழுதப்படுகின்றன. பெரும்பாலும் இதன் எல்லாக் கட்டுரைகளும், இதனைப் பயன்படுத்தும் எவராலும், தொகுக்கப்படக் கூடுவன. மேலும் இது கிட்டத்தட்ட 100,000 முனைப்பான பங்களிப்பாளர்களையும் கொண்டுள்ளது. ஆகத்து 2025 வரையில், விக்கிப்பீடியா 285 மொழிகளில் செயற்படுகிறது. இது இணையத்தளத்தில் இயங்கும் உசாத்துணைப் பகுதிகளிலேயே மிகவும் பெரியதும், அதிகப் புகழ்பெற்றதுமாகும். மேலும், இது அலெக்சா இணையத்தளத்தில் காணப்படும் இணையத்தளங்களின் தரவரிசையில் ஆறாவது இடத்தில் உள்ளதோடு, உலகளவில் அண்ணளவாக 365 மில்லியன் வாசகர்களையும் கொண்டுள்ளது.",
   "wikiquote":"விக்கி மேற்கோள் (Wikiquote), விக்கிப்பீடியாவை நடத்தும் விக்கிமீடியா நிறுவனத்தின் இன்னொரு திட்டமாகும். இத்திட்டமும் விக்கி மென்பொருளை பயன்படுத்துகிறது. அனைத்து மொழிகளில் உள்ள மேற்கோள்களின் கட்டற்ற இணையத் தொகுப்பை உருவாக்குவது இத்திட்டத்தின் நோக்கமாகும். மேலும் இது புகழ்பெற்ற மக்கள், திரைப்படங்கள், புத்தகங்கள் மற்றும் பழமொழி ஆகியவற்றின் மேற்கோள்களை உள்ளடக்கிய ஒரு மேற்கோள் களஞ்சியமாகும்.",
   "wikisource":"விக்கிமூலம் (Wikisource) ஓர் இலவச இணைய நூலகம் ஆகும். விக்கிமீடியா அறக்கட்டளை நடத்தும் விக்கித் திட்டங்களுள் இதுவும் ஒன்று. இது கட்டற்ற உள்ளடக்கம் (பகிர்வுரிமம்) கொண்ட மூல நூல்களின் இணையத் தொகுப்பாகும்.",
   "wikispecies":"விக்கியினங்கள் விக்கி‎யை அடிப்படையாகக் கொண்ட விக்கிமீடியா நிறுவனத்தின் ஒரு இணையத் திட்டமாகும். இத்திட்டம் உலகிலுள்ள உயிரினங்களின் பெயர் அட்டவணையை தயாரிப்பதற்காக ஆகத்து 2004ம் வருடம் உருவாக்கப்பட்ட திட்டம் ஆகும்.",
@@ -9935,10 +9985,6 @@
   "wikivoyage":"விக்கிப்பயணம் (Wikivoyage) என்பது சுற்றுலா செல்வோருக்கு ஒரு நல்ல வழிகாட்டியானதும் பயண இலக்குகளுக்கு வழிகாட்டுவதுமான இணையத்தில் உள்ள ஒரு இலவசப் பயண வழிகாட்டி ஆகும். இங்குள்ள பயணத்தலைப்புக்கள் தன்னார்வ ஆசிரியர்களால் எழுதப்பட்டது ஆகும்.",
   "wiktionary":"விக்சனரி (Wiktionary) என்பது சொற்களுக்கான பொருள், அவற்றின் மூலம், உச்சரிப்பு முதலியவற்றை உள்ளடக்கிய, கட்டற்ற பன்மொழி அகரமுதலி ஒன்றைக் கூட்டு முயற்சியில் உருவாக்கும் ஒரு திட்டமாகும். இத்திட்டம் விக்கிமீடியா நிறுவனத்தினால் வழிநடத்தப்படுகிறது. வணிக நோக்கற்ற இந்த அகரமுதலியை இலவசமாக எவரும் பயன்படுத்திக் கொள்ள முடியும்; பங்கேற்கவும் முடியும்.",
   "wolframalpha":"வொல்பிராம் அல்பா (Wolfram|Alpha) என்பது ஒரு கேள்விகளுக்குப் பதிலளிக்கும் இயந்திரம். இது மதமட்டிக்கா மென்பொருளை உருவாக்கிய வொல்பிராம் ஆய்வு நிறுவனத்தால் உருவாக்கப்பட்டது. கேள்விகள் இலக்கணப் பகுப்பாய்வு செய்யப்பட்டு, கணிக்கூடியவாறு ஒழுங்கமைக்கப்பட்ட தரவுகளைக் கொண்டு விடைகள் தருவிக்கப்படுகின்றன. துறைசார் கேள்விகளுக்கு இது துல்லியமான பதில்களைத் தரக்கூடியது.",
-  "wttr.in":[
-   "வானிலை அறிக்கை not found",
-   "https://wttr.in"
-  ],
   "yahoo news":"யாஹூ! செய்திகள் யாஹூ! இன் செய்திச் சேவையாகும். இதன் ஆங்கிலச் செய்திகள் CNN, USA Today போன்றவற்றில் இருந்து வருவதாகும். தமிழ்ச் செய்திகள் பெரும்பாலும் வெப்தூனியாவில் இருந்து வருவதாகும்.",
   "youtube":"யூடியூப் அல்லது வலையொளி (YouTube) என்பது ஓர் அமெரிக்க நாட்டு நிகழ்நிலைக் காணொளிப் பகிர்வு மற்றும் சமூக ஊடகத் தளமாகும். இது சாட் ஹர்லி, ஸ்டீவ் சென் மற்றும் ஜவேத் கரீம் ஆகியோரால் பிப்ரவரி 2005 இல் தொடங்கப்பட்டது. உலகம் முழுவதும் வலையொளிப் பயனர்கள் ஒவ்வொரு நாளும் ஒரு பில்லியன் மணிநேரக் காணொளிகளைக் காணுகிறார்கள். யூடியூபர்கள் எனப் பிரபலமாகக் குறிப்பிடப்படும் யூடியூப் உள்ளடக்கப் படைப்பாளர்கள் நிமிடத்திற்கு 100 மணி நேர உள்ளடக்கத்தைப் பதிவேற்றுகிறார்கள்."
  },
@@ -9953,8 +9999,8 @@
    "https://www.bing.com/images"
   ],
   "bing videos":[
-   "Bingలోని మేధావి శోధన ద్వారా మీరు వెతుకుతున్నది క్షణాల్లో కనుగొనగలరు మరియు రివార్డ్‌లను పొందగలరు.",
-   "https://www.bing.com/videos"
+   "bing:te",
+   "ref"
   ],
   "currency":"డక్‌డక్‌గో అనేది ఒక అంతర్జాల శోధనా యంత్రం, ఇది ఫలితాలను పొందడానికి సమూహమూలాలతో కూడిన వికీపీడియా వంటి జాళగూళ్ళ నుండి సమాచారాన్ని సేకరిస్తుంది. వినియోగదారుల సమాచారాన్ని నమోదుచేసుకోకుండా, గోప్యతను కల్పిస్తుందని విధివిధానాలు తెలుపుతున్నాయి.ఈ సెర్చ్ ఇంజిన్ ఇంటర్నెట్‌లో వెతుకుతున్న దాని గురించి ఎటువంటి జాడను తీసుకోదు, ఒకరి వ్యక్తిగత సమాచారం గురించి ట్రాక్‌లను అనుసరించదు.ఈ సెర్చ్ ఇంజిన్ యొక్క నిర్వాహకులు వారు వినియోగదారుని (ట్రాకింగ్) అనుసరించరని లేదా శోధన చరిత్రను ఇతరులతో పంచుకోరని పేర్కొన్నారు. శోధన ఫలితాల్లో 'మరింత ఆధారపడే మూలాల' కంటే 'మంచి మూలం నుండి సమాచారాన్ని' అందించడానికి డక్‌డక్‌గో ప్రయత్నిస్తుంది. యాండెక్స్, యాహూ, బింగ్, యమ్లీవికీపీడియా వంటి సెర్చ్ ఇంజన్లతో సహకరించడం ద్వారా, వికీపీడియా వంటి సోషల్ నెట్‌వర్కింగ్ సైట్ల నుండి సమాచారాన్ని సేకరించడం ద్వారా వారు దీన్ని చేస్తారు.కంపెనీ నమోదు చేసిన డొమైన్ పేరులో గూగుల్-ట్రాన్స్‌ఫరబుల్ చేత DDG .gg, ddg.co, duck.com కూడా ఉన్నాయి, అవన్నీ డక్‌డక్‌గో యొక్క చిన్న URL. ఇది క్రౌడ్ సోర్స్ వెబ్‌సైట్ల నుండి డేటాను ఉపయోగిస్తుంది, సంక్షిప్త పరిచయాలు, ఇతర సంబంధిత అంశాల ప్రదర్శన కోసం పేజీ ఎగువన ఉన్న సమాచార పెట్టెలో వాటిని నింపుతుంది.",
   "ddg definitions":[
@@ -9988,7 +10034,7 @@
   "google":"గూగుల్ శోధన, ఇది గూగుల్ అందించిన సెర్చ్ ఇంజిన్.2021లో రోజుకు 2 ట్రిలియన్ల కంటే ఎక్కువ అంతర్జాల శోధనలు దీని ద్వారా జరుగుతాయి, ఇది ప్రపంచ శోధన ఇంజిన్ మార్కెట్లో 92% వాటాను కలిగి ఉంది. ఇది ప్రపంచంలో అత్యధికంగా సందర్శించే వెబ్ సైట్ కూడా. ఇందులో వెతికిన విషయానికి గూగుల్ ద్వారా తిరిగి ఇవ్వబడ్డ శోధన ఫలితాల క్రమం, పాక్షికంగా, \"పేజ్ ర్యాంక్\"అని పిలువబడే ప్రాధాన్యతా ర్యాంక్ వ్యవస్థపై ఆధారపడి ఉంటుంది, అంతర్జాలంలో బహిరంగంగా అందుబాటులో ఉన్న పత్రాలలో వచనం (టెక్స్ట్) మాత్రమే కాక అనేక ప్రత్యేక సేవలు అందిస్తుంది. వీటిలో పర్యాయపదాలు, వాతావరణ అంచనాలు, సమయ మండలాలు, స్టాక్ కోట్స్, మ్యాప్ లు, భూకంప డేటా, మూవీ షోటైమ్స్, విమానాశ్రయాలు, గృహ జాబితాలు,, క్రీడా ఫలితాలు ఉన్నాయి. దీనిని మొదట 1997లో లారీ పేజ్, సెర్జీ బ్రిన్,, స్కాట్ హసన్ అభివృద్ధి చేశారు. దీనిపేరు అసలు ప్రణాళికాబద్ధమైన పేరు గూగోల్ googol తప్పుగా వ్రాయడం నుండి తీసుకోబడింది. 1999 మధ్యనాటికి, గూగుల్ $25 మిలియన్ రౌండ్ వెంచర్ క్యాపిటల్ ఫండింగ్ అందుకున్నప్పుడు, ఇది రోజుకు 500,000 శోధనలను ప్రాసెస్ చేస్తోంది",
   "google images":"గూగుల్ ఇమేజెస్ అనేది జి-సూట్ యాజమాన్యంలోని శోధన ఇంజిన్, ఇది వినియోగదారులు వరల్డ్ వైడ్ వెబ్లో చిత్రాల కోసం శోధించడానికి అనుమతిస్తుంది. ఫిబ్రవరి 2000లో ధరించిన జెన్నిఫర్ లోపెజ్ ఆకుపచ్చ వెర్సేస్ దుస్తుల చిత్రాలకు డిమాండ్ కారణంగా ఇది జూలై 12, 2001న ప్రవేశపెట్టబడింది. 2011లో, గ్సూట్ ఇమేజ్ సెర్చ్ కార్యాచరణ జోడించబడింది.",
   "google news":[
-   "Google News ద్వారా సమగ్ర తాజా వార్తల కవరేజ్, ప్రపంచవ్యాప్తంగా అన్ని వార్తల వనరుల నుండి సేకరించబడుతుంది.",
+   "మీరు కొనసాగబోయే ముందు",
    "https://news.google.com"
   ],
   "google play apps":"గూగుల్ ప్లే అనునది గూగుల్ చే అభివృద్ధి చేయబడి నిర్వహింపబడుతున్న ఒక సాఫ్ట్‌వేర్ వేదిక. ఇక్కడ ముఖ్యంగా ఆండ్రాయిడ్, గూగుల్ క్రోమ్ ఆధారిత సాఫ్ట్‌వేర్లు ఉచితముగానూ, వ్యాపారాత్మకంగానూ లభిస్తాయి. 2014 నాటికి గూగుల్ ప్లేలో దాదాపు 7 లక్షలకు పైగా సాఫ్ట్‌వేర్ ఆప్స్ లభిస్తున్నట్లు మాషబుల్ ప్రకటించింది.",
@@ -10036,10 +10082,6 @@
   "wikiquote":"వికీకోట్ అనగా వికీవ్యాఖ్య వికీమీడియా ఫౌండేషను ఆధ్వర్యములో మీడియావికీ సాఫ్టువేరుతో నడిచే వికీ ఆధారిత ప్రాజెక్టు కుటుంబములో ఒక ప్రాజెక్టు. డేనియల్ ఆల్స్టన్ ఆలోచనను బ్రయన్ విబ్బర్ కార్యాచరణలో పెట్టగా రూపొందిన ఈ ప్రాజెక్టు లక్ష్యం సమిష్టి సమన్వయ కృషితో వివిధ ప్రముఖ వ్యక్తులు, పుస్తకాలు, సామెతలనుండి సేకరించిన వ్యాఖ్యలకు విస్తృత వనరును తయారుచేసి వాటికి సంబంధించిన వివరాలు పొందుపరచడం. అంతర్జాలంలో అనేక అన్లైన్ వ్యాఖ్యల సేకరణలు ఉన్నప్పటికీ సందర్శకులకు సేకరణ ప్రక్రియలో పాలుపంచుకొనే అవకాశము ఇస్తున్న అతికొద్ది వాటిల్లో వికీవ్యాఖ్య ఒకటిగా విశిష్ఠత సంపాదించుకొన్నది.",
   "wikisource":"వికీసోర్స్ స్వేచ్ఛా నకలు హక్కుల రచనలను ప్రచురించుటకు సముదాయసభ్యులు సేకరించి, నిర్వహించుచున్న ఒక స్వేచ్ఛాయుత గ్రంథాలయము. ఇది 2005 ఆగస్టు 19 న ప్రారంభమైంది. ప్రారంభంలో విశేషంగా కృషిచేసిన వాడుకరులు అన్వేషి, రాజ్, రాజశేఖర్ (Rajasekhar1961), మల్లిన నరసింహారావు, తాడేపల్లి (Tadepally), వైఙాసత్య, రాకేశ్వర, సురేష్ (Sureshkvolam), సుజాత. అన్వేషి 2007 ఏప్రిల్ నుండి డిసెంబరు మధ్య శతకాలు, భగవద్గీత, వాల్మీకి రామాయణం మొదలగునవి వికీసోర్స్ లో చేర్చాడు. తరువాత వికీసోర్స్ కి కావలసిన మూసలు తెలుగుసేత, డాక్యుమెంటేషన్ పేజీలు తయారుచేయడం, రచనలు చేర్చడం మొదలగు మెరుగులుచేశాడు. ఫ్రూఫ్ రీడ్ ఎక్స్టెన్షన్ వాడుటకు చేసిన ప్రయత్నం మధ్యలో ఆగిపోయింది. 2012 లో అది పూర్తి కావించబడింది. వైఙాసత్య దీనిలో తెలుగు నేరుగా టైపు చేసేసౌకర్యం కలిగించాడు, మొల్ల రామాయణం చేర్చటానికి కృషి చేసాడు.",
   "wiktionary":"విక్షనరీ, వికీపీడియా సోదర వెబ్ సైట్. ఈ పదం వికి, డిక్షనరి పదాలను కలుపగా తయారయింది. ఇది తెలుగు పదాలను వివిధమైన వ్యాకరణ, వాడుక, నానార్ధ, వ్యతిరేఖార్థ లాంటి వివరణలతో నిక్షిప్తం చేసే మాధ్యమం (నిఘంటువు). అయితే పుస్తక రూపంలో వుండే నిఘంటువులు మహా అయితే మూడు భాషలలో వుంటాయి. దీనిలో తెలుగు-తెలుగు, ఇంగ్లీషు-తెలుగుతో పాటు ఇతర విక్షనరీలోని సమాన అర్థం గల పదాలకు లింకులుండటంవలన, మీకు ప్రపంచంలోని వికీ భాషలన్నిటిలో సమాన అర్థంగల పదాలను తెలుసుకునే వీలుండటంతో, దీనిని బహుభాష నిఘంటువుగా పేర్కొనవచ్చు. తెలుగు వికీపీడియాలో లాగా, ఇందులో ఎవరైనా తెలుగు పదాలకు పేజీలను సృష్టించవచ్చు లేక మార్పులు చేయవచ్చు.",
-  "wttr.in":[
-   "వాతావరణ సమాచారము: not found",
-   "https://wttr.in"
-  ],
   "youtube":"యూట్యూబ్ అనేది అంతర్జాలంలో వీడియోలను ఇతరులతో పంచుకోవడాని వీలుకల్పించే ఒక అంతర్జాతీయ సేవ. దీని ప్రధాన కార్యాలయం అమెరికాలోని, కాలిఫోర్నియా రాష్ట్రం, శాన్ బ్రూనో అనే నగరంలో ఉంది."
  },
  "th":{
@@ -10068,7 +10110,7 @@
    "https://www.bing.com/news"
   ],
   "bing videos":[
-   "การค้นหาอัจฉริยะของ Bing ช่วยให้การค้นหาสิ่งที่คุณต้องการอย่างรวดเร็วทำได้ง่ายขึ้น และคุณยังได้รับรางวัลอีกด้วย",
+   "ค้นหาด้วย Microsoft Bing และใช้พลังของ AI เพื่อค้นหาข้อมูล สํารวจเว็บเพจ รูปภาพ วิดีโอ แผนที่ และอื่นๆ โปรแกรมค้นหาอัจฉริยะสําหรับความอยากรู้อยากเห็นตลอดไป",
    "https://www.bing.com/videos"
   ],
   "brave":"เบรฟ เป็นเว็บเบราว์เซอร์ ฟรีและโอเพนซอร์สที่พัฒนาโดย Brave Software, Inc. โดยมีพืนฐานมาจากเว็บเบราว์เซอร์โครเมียม ตัวเบราว์เซอร์มีการปิดกั้นโฆษณาและเครื่องมือติดตามเว็บไซต์ และมีช่องทางให้ผู้ใช้สนับสนุนโดยการส่งคริปโทเคอร์เรนซีในรูปแบบ Basic Attention Tokens ไปยังเว็บไซต์และผู้สร้างเนื้อหา",
@@ -10120,10 +10162,6 @@
   "google images":[
    "Google Photos การค้นหารูปภาพที่ครอบคลุมที่สุดบนเว็บ",
    "https://images.google.com"
-  ],
-  "google news":[
-   "รายงานข่าวครอบคลุมทันเหตุการณ์ รวบรวมจากแหล่งข่าวทั่วโลกโดย Google News",
-   "https://news.google.com"
   ],
   "google play apps":"กูเกิล เพลย์ เป็นบริการซื้อขายสื่อดิจิทัลจากกูเกิล รวมไปถึงร้านค้าออนไลน์ที่มีเพลง ภาพยนตร์ หนังสือ เกม และแอนดรอยด์แอปพลิเคชัน ซึ่งในมือถือที่ใช้ระบบปฏิบัติการแอนดรอยด์จะมีชื่อแอปพลิเคชันว่า Play สโตร์ โดยการซื้อ-ขายก็เปิดบริการทางมือถือด้วยเช่นกัน",
   "google play movies":[
@@ -10186,17 +10224,13 @@
   "wikiversity":"วิกิวิทยาลัย เป็นโครงการหนึ่งของมูลนิธิวิกิมีเดีย โดยมีเป้าหมายรวบรวมความรู้ต่าง ๆ คล้ายมหาวิทยาลัย โดยวิกิวิทยาลัยยังไม่มีแบบภาษาไทย วิกิวิทยาลัยใช้ซอฟต์แวร์มีเดียวิกิซึ่งเป็นซอฟต์แวร์เดียวกันกับวิกิพีเดีย และเผยแพร่ภายใต้ GFDL และ CC-BY-SA",
   "wikivoyage":"วิกิท่องเที่ยว เป็นคู่มือท่องเที่ยวออนไลน์สำหรับแหล่งท่องเที่ยวและหัวข้อท่องเที่ยวที่เขียนโดยอาสาสมัคร ชื่อของโครงการนี้ในภาษาอังกฤษประกอบด้วย \"Wiki\" และ \"Voyage\" คำภาษาฝรังเศสที่หมายถึงการท่องเที่ยว การเดินทาง",
   "wiktionary":"วิกิพจนานุกรม เป็นโครงการหนึ่งของมูลนิธิวิกิมีเดียที่มีเป้าหมายรวบรวมคำศัพท์ วลี หรือประโยค พร้อมคำอ่าน ความหมาย คำที่เกี่ยวข้อง และคำแปลในภาษาอื่น เปรียบเสมือนพจนานุกรมทุกภาษาในที่เดียวกัน โดยมีให้ใช้งานถึง 182 ภาษา การทำงานของเว็บไซต์คล้ายกับวิกิพีเดียที่เปิดให้ใครก็ได้สามารถเพิ่มและแก้ไขเนื้อหา โดยรับรองตัวอักษรของทุกภาษาที่รหัสยูนิโคดรองรับ วิกิพจนานุกรมใช้ซอฟต์แวร์มีเดียวิกิเช่นเดียวกับวิกิพีเดีย",
-  "wttr.in":[
-   "รายงานสภาพอากาศ: not found",
-   "https://wttr.in"
-  ],
   "youtube":"ยูทูบ ตามสำเนียงอเมริกัน หรือ ยูทิวบ์ ตามสำเนียงบริเตน เป็นเว็บไซต์เผยแพร่วิดีโอโดยมีสำนักงานอยู่ที่แซนบรูโน แคลิฟอร์เนีย สหรัฐอเมริกา ผู้สร้างเว็บไซต์ดังกล่าว คือ อดีตพนักงาน 3 คนในบริษัทเพย์แพล อันประกอบด้วยแชด เฮอร์ลีย์ สตีฟ เชน และยาวีด คาริม โดยสร้างในเดือนกุมภาพันธ์ พ.ศ. 2548 ในเดือนพฤศจิกายน พ.ศ. 2549 กูเกิลซื้อยูทูบซื้อไปในราคา 1.65 พันล้านดอลลาร์สหรัฐ ยูทูบเป็นหนึ่งในบริษัทย่อยของกูเกิล เว็บไซต์ยังสามารถให้ผู้ใช้งานสามารถอัปโหลด ดู หรือแบ่งปันวิดีโอได้เลย"
  },
  "tr":{
   "1337x":"1337x, BitTorrent protokolü ile peer-to-peer dosya paylaşımı için kullanılan torrent dosyalarının ve magnet bağlantılarının dizinini sağlayan bir web sitesidir. TorrentFreak haber bloguna göre; 1337x, 2018 itibarıyla üçüncü en popüler torrent sitesidir.",
   "9gag":"9GAG, Inc. kendi platformunu yöneten online bir sosyal medya sitesidir. Kullanıcılar kendi yaptıkları içeriği veya başka sitelerden buldukları içerikleri paylaşırlar. 9GAG'in ana merkezi Mountain View, Kaliforniya'da kurulmuştur. 23 Nisan 2008'deki kuruluşundan beri popülaritesi bir hayli yükselmiştir. Facebook'ta 26 milyon kez \"like\" edilmiştir ve Twitter'da eylül 2015 raporlarına göre 5 milyon takipçisi vardır.",
   "alpine linux packages":"Alpine Linux, küçük, basit ve güvenli olacak şekilde tasarlanmış bir Linux dağıtımıdır. Diğer Linux dağıtımlarının çoğundan farklı olarak, Alpine daha yaygın olarak kullanılan glibc, GNU Core Utilities ve systemd yerine musl, BusyBox ve OpenRC kullanır.",
-  "annas archive":"Anna'nın Arşivi , anonim arşivcilerden oluşan bir ekip tarafından oluşturulmuş, çeşitli kitap kaynaklarına çeşitli sunucular üzerinden erişim sağlayan, kar amacı gütmeyen ücretsiz bir çevrimiçi gölge kitaplık meta arama motorudur. Anna'nın Arşivi, Kasım 2022'de Z-Library'yi kapatmak için The Publishers Association ve Authors Guild tarafından resmî olarak desteklenmiş kolluk kuvvetlerinin çabalarına karşılık başlatıldı.",
+  "annas archive":"Anna's Archive , anonim arşivcilerden oluşan bir ekip tarafından oluşturulmuş, çeşitli kitap kaynaklarına çeşitli sunucular üzerinden erişim sağlayan, kar amacı gütmeyen ücretsiz bir çevrimiçi gölge kitaplık meta arama motorudur. Anna'nın Arşivi, Kasım 2022'de Z-Library'yi kapatmak için The Publishers Association ve Authors Guild tarafından resmî olarak desteklenmiş kolluk kuvvetlerinin çabalarına karşılık başlatıldı.",
   "apple app store":"App Store, iOS'teki mobil uygulamalar için Apple tarafından işletilen online mağaza. İlk defa 10 Temmuz 2008 tarihinde iPhone 3G'de devreye giren App Store, iTunes Store üzerinden çalışmaktadır. Mağaza, kullanıcılara iOS SDK ile geliştirilen uygulamaları taramasına ve indirmelerine olanak tanır. iPhone, iPod Touch, Apple Watch, 4.nesil Apple TV ve iPad kullanıcıları bu mağazadan ücretsiz veya ücretli uygulamalar indirebilmektedir. App Store üzerinden yapılan alışverişlerde uzun süre gelirin %30'u Apple'ye aktarılmakta, geri kalan %70'lik dilim ise uygulamanın üreticisine gitmekteydi, daha sonradan bu satış geliri belli bir limitin altındaki üreticiler için %15-%85 olarak değiştirilmiştir. Bazı uygulamaların ücretsiz deneme sürümü ve paralı sürümü bulunmaktadır. Bazı ücretli uygulamalarda ise uygulama içi satın alma özelliği bulunmaktadır.",
   "apple maps":"Apple Haritalar Apple Inc. tarafından geliştirilen bir web haritalama servisidir. Bu, iOS, macOS ve watchOS'un varsayılan harita sistemidir. Otomobil, yaya ve toplu taşıma navigasyonu için yol tarifi ve tahmini varış saatlerini sağlar. Apple Haritalar ayrıca, kullanıcının binaların ve yapıların modellerinden oluşan 3D bir manzara içinde yoğun nüfuslu şehir merkezlerini keşfetmesini sağlayan benzersiz Flyovers modunu da içeriyor.",
   "artic":"Art Institute of Chicago veya AIC, Chicago'nun Illinois Grant Park'ından yer alan bir güzel sanatlar müzesidir.",
@@ -10250,6 +10284,10 @@
   ],
   "deezer":"Deezer web tabanlı bir müzik yayını servisidir. Kullanıcıların çevrimiçi veya çevrimdışı olarak çeşitli cihazlarda müzik dinlemelerini sağlar. Paris, Fransa'da oluşturulmuştur. Deezer 56 milyondan fazla lisanslı müzik parçası, 30.000'den fazla radyo kanalı ve 12 milyon aylık aktif kullanıcıya sahiptir.",
   "deviantart":"DeviantART,, İsrailli Wix.com şirketinin sanat eseri, videografi ve fotoğraf yan kuruluşu olan Amerikan çevrimiçi sanat topluluğudur. Ağustos 2000'de Scott Jarkoff ve Matthew Stephens tarafından kurulmuştur. DeviantART'ın şimdiki CEO'su Angelo Sotira'dır. 23 Şubat 2017'de şirket, Wix.com tarafından 36 milyon dolarlık bir anlaşmayla satın alındığını duyurdu.",
+  "dictzone":[
+   "Çevrimiçi sözlükler: İngilizce, Almanca, Macarca... Favori sözlüğünüzü seçin!",
+   "https://dictzone.com/"
+  ],
   "discuss.python":"Discourse açık kaynak kodlu, Ruby ve JavaScript dilleri ile yazılmış İnternet forumu yazılımı. GNU Genel Kamu Lisansı ile dağıtılan Discourse, Ruby on Rails ile Ember.js çatıları kullanılarak geliştirilmektedir.",
   "duckduckgo":[
    "currency:tr",
@@ -10426,10 +10464,6 @@
   "wikivoyage":"Wikivoyage, gezi yerleri ve seyahat konularının gönüllüler tarafından yazıldığı ücretsiz web tabanlı seyahat rehberidir.",
   "wiktionary":"Vikisözlük (Wiktionary), Wikimedia Vakfı'nın projelerinden olup her dilde özgür birer sözlük oluşturma amacıyla 12 Aralık 2002 tarihinde başlatılmıştır. Vikipedi'nin kardeş projelerindendir. Türkçe Vikisözlük ise 2 Mayıs 2004 tarihinde başlatılmıştır.",
   "wolframalpha":"Wolfram Alpha, Matematiksel hesaplar yapan bilim insanlarının tercihlerinden biri olan Mathematica yazılımının geliştiricisi Stephen Wolfram'ın sahibi olduğu Wolfram Research tarafından geliştirilen bir bilgi motorudur.",
-  "wttr.in":[
-   "Hava beklentisi: not found",
-   "https://wttr.in"
-  ],
   "yahoo news":"Yahoo! News, Yahoo!'ya bağlı olarak İnternet tabanlı bir RSS okuyucu olarak faaliyet gösteren bir web sitesidir. Ağustos 1996'da kurulan sitedeki haberler Associated Press, Reuters, Fox News, Al Jazeera, ABC News, USA Today, CNN ve BBC News gibi haber kaynaklarından gelir. 19 Aralık 2006'ya kadar haberlerde yorum yapılmasına izin veren site, 2 Mart 2010'da bu özelliği geri getirmiştir.",
   "youtube":"YouTube, Google'a ait bir Amerikan çevrimiçi video paylaşım ve sosyal medya platformudur. Merkezi San Bruno, Kaliforniya'da olan platform; 15 Şubat 2005'te üç eski PayPal çalışanı tarafından kuruldu. Platform; kullanıcılarına video yükleme, izleme ve paylaşma imkânı sunmakta olup medya şirketleri ve kullanıcı üretimi videoların gösterimi için WebM, H.264 ve Adobe Flash Video teknolojilerini kullanır. Genel olarak video klipler, televizyon klipleri, müzik videoları, video bloglar, kısa özgün videolar ve eğitim videoları gibi içerikler yayınlanmaktadır."
  },
@@ -10451,8 +10485,8 @@
    "https://www.bing.com/news"
   ],
   "bing videos":[
-   "Bing’тан акыллы эзләү сез эзләгән әйберләрнең тиз табуны җиңеләйтә һәм сезне бүләкли.",
-   "https://www.bing.com/videos"
+   "bing:tt",
+   "ref"
   ],
   "gentoo":[
    "gentoo:en",
@@ -10536,7 +10570,7 @@
    "https://www.bing.com/news"
   ],
   "bing videos":[
-   "Інтелектуальний пошук у Bing дає змогу швидко знаходити потрібне й отримувати винагороди.",
+   "Виконуйте пошук за допомогою Microsoft Bing і використовуйте можливості ШІ, щоб знаходити інформацію, переглядати веб-сторінки, зображення, відео, карти тощо. Інтелектуальний засіб пошуку для тих, кому завжди цікаво.",
    "https://www.bing.com/videos"
   ],
   "bitbucket":"Bitbucket — вебсервіс для хостингу проєктів на базі систем керування версіями: Mercurial та Git. Bitbucket надає як безкоштовні так і платні послуги. Є аналогом GitHub, однак, на відміну від GitHub, який до січня 2019 року зберігав файли безкоштовних профілів лише у відкритому доступі, Bitbucket від самого початку дозволяв безкоштовно створювати приватні репозиторії з можливістю спільної роботи з файлами до 5-ти користувачів. Bitbucket інтегрований з іншими програмними продуктами Atlassian, такими як, JIRA, Confluence, Bamboo та HipChat.",
@@ -10748,10 +10782,6 @@
   "wikivoyage":"Вікімандри — інтернет-портал, присвячений туризму. Використовує вікі-технології і вільні ліцензії. Створюється добровольцями, зацікавленими в цій темі.",
   "wiktionary":"Вікісловни́к — багатомовний онлайн-словник довільного наповнення — україномовний розділ проєкту Wiktionary. Тут зібрали й повсякчас поповнюють тлумачення й переклади українських слів, а ще переклади слів і висловів з інших мов.",
   "wolframalpha":"Wolfram|Alpha — база знань і набір обчислювальних алгоритмів. Не є пошуковою системою. Запущено 15 травня 2009.",
-  "wttr.in":[
-   "Прогноз погоди для: not found",
-   "https://wttr.in"
-  ],
   "yacy":"YaCy вільна пошукова машина та пошукова система, побудована на принципах однорангової (P2P) мережі. Пошукова система складається з окремих вузлів — примірників програмного забезпечення, написаного на Java, яке користувачі встановлюють на свої комп'ютери з доступом до Інтернет. Кожен вузол самостійно збирає, аналізує та індексує сторінки Інтернет та обмінюється результатами індексації в мережі, формуючи загальну базу даних, яка зберігається розподілено та використовується разом з іншими вузлами. За допомогою YaCY також можна створити пошуковий портал для внутрішньої мережі або пошуковий портал для власних вебсторінок.",
   "yacy images":[
    "yacy:uk",
@@ -10791,7 +10821,7 @@
    "https://www.bing.com/news"
   ],
   "bing videos":[
-   "Tìm kiếm thông minh từ Bing giúp bạn dễ dàng tìm thấy những gì bạn đang tìm kiếm hơn và trao thưởng cho bạn.",
+   "Tìm kiếm bằng Microsoft Bing và sử dụng sức mạnh của AI để tìm thông tin, khám phá các trang web, hình ảnh, video, bản đồ, v.v. Một công cụ tìm kiếm thông minh dành cho những người luôn tò mò.",
    "https://www.bing.com/videos"
   ],
   "brave":"Brave là một trình duyệt web tự do nguồn mở được phát triển bởi Brave Software Inc. dựa trên trình duyệt web Chromium. Trình duyệt này có tính năng chặn quảng cáo và theo dõi trang web. Trong phiên bản tương lai của trình duyệt, công ty dự định sẽ áp dụng một mô hình kinh doanh pay-to-surf.",
@@ -10807,7 +10837,7 @@
    "brave:vi",
    "ref"
   ],
-  "currency":"DuckDuckGo là một công cụ truy vấn dữ liệu Internet đặt trọng tâm vào việc bảo vệ sự riêng tư người tìm kiếm và không cung cấp thông tin người dùng. DuckDuckGo cũng phân biệt nó với các công cụ tìm kiếm khác bằng cách không lập hồ sơ kết quả tìm kiếm. DuckDuckGo nhấn mạnh lấy thông tin từ các nguồn tốt nhất chứ không phải từ đa số các nguồn, tạo ra kết quả tìm kiếm của mình từ chính các trang web được quần chúng đóng góp như Wikipedia và từ quan hệ đối tác với các công cụ tìm kiếm khác như Yandex, Yahoo, Bing, và Yummly.",
+  "currency":"DuckDuckGo là một công ty phần mềm Mỹ tập trung vào quyền riêng tư trực tuyến, với sản phẩm chủ lực của công ty là công cụ truy vấn dữ liệu cùng tên. Công ty được Gabriel Weinberg thành lập vào năm 2008, với các sản phẩm và dịch vụ bao gồm tiện ích mở rộng trình duyệt và trình duyệt web DuckDuckGo. Đây là một công ty tư nhân có trụ sở chính tại Paoli, Pennsylvania, với khoảng 200 nhân viên.",
   "dailymotion":"Dailymotion là một trang web dịch vụ chia sẻ video của Pháp được sở hữu và quản lý bởi Vivendi; có trụ sở tại Quận 18, Paris, Pháp. Theo comScore, Dailymotion là trang web video lớn thứ hai thế giới, sau YouTube. Hiện Dailymotion đã có phiên bản của hơn 183 ngôn ngữ và 43 phiên bản bản địa phương khác nhau với các trang chủ và nội dung riêng trên toàn thế giới. Trang web hiện giờ đã có hơn 300 triệu người dùng hàng tháng.",
   "ddg definitions":[
    "currency:vi",
@@ -10950,7 +10980,7 @@
   "wiktionary":"Wiktionary là một trong những dự án trực thuộc Quỹ Hỗ trợ Wikimedia, cùng với Wikipedia, để biên soạn một bộ từ điển nội dung mở dùng hệ thống wiki, bao gồm nhiều ngôn ngữ. Dựa vào ý tưởng của ông Daniel Alston, nó được thành lập vào ngày 12 tháng 12 năm 2002. Vào ngày 29 tháng 3 năm 2004, hai phiên bản ngôn ngữ đầu tiên của Wiktionary được mở cửa, tiếng Pháp và tiếng Ba Lan. Sau đó, nhiều phiên bản ngôn ngữ khác được bắt đầu và đang được phát triển. Wiktionary đã ở một địa chỉ tạm đến ngày 1 tháng 5 năm 2004, khi nó được di chuyển đến địa chỉ chính của nó. Wiktionary tiếng Anh đã có hơn 896.000 mục từ và Wiktionary tiếng Việt là phiên bản ngôn ngữ lớn thứ năm có hơn 228.000 mục từ.",
   "wolframalpha":"WolframAlpha là một máy trả lời do Wolfram Research phát triển. Đây là một dịch vụ trực tuyến có nhiệm vụ trả lời các câu hỏi nhập vào trực tiếp bằng cách tính toán câu trả lời từ các dữ liệu có cấu trúc, chứ không chỉ cung cấp một danh sách các tài liệu hoặc trang có web có thể chứa câu trả lời như cách máy tìm kiếm thường làm. Website này được Stephen Wolfram công bố vào tháng 3 năm 2009, và được phát hành cho công chúng ngày 15 tháng 5 năm 2009.",
   "wttr.in":[
-   "Báo cáo thời tiết: not found",
+   "Báo cáo thời tiết: Alès, France",
    "https://wttr.in"
   ],
   "youtube":"YouTube là một nền tảng chia sẻ video trực tuyến của Mỹ có trụ sở chính tại San Bruno, California. Nền tảng này được tạo ra vào tháng 2 năm 2005 bởi ba nhân viên cũ của PayPal — Chad Hurley, Steve Chen và Jawed Karim — đã được Google mua lại vào tháng 11 năm 2006 với giá 1,65 tỷ đô la Mỹ và hiện hoạt động như một trong những công ty con của Google. YouTube là trang web được truy cập nhiều thứ hai sau Google Tìm kiếm, theo xếp hạng của Alexa Internet."
@@ -10958,8 +10988,10 @@
  "zh-HK":{
   "acfun":"AcFun 实际运营主体为北京弹幕网络科技有限公司，是中国大陆的弹幕式视频分享网站之一，开设于2007年6月6日，最初为动画连载的网站。AcFun取意于“Anime Comic Fun”，2008年3月模仿日本视频分享站NICONICO动画推出了带类似字幕的弹幕播放器，称为弹幕式播放器。口号为“天下漫友是一家”，网站文化为“认真你就输了”。网站的虚拟形象为AC娘，同时其附属站点也有与AC娘类似的形象。",
   "alpine linux packages":"Alpine Linux是一个由社区开发的基于musl和BusyBox的Linux操作系统，该操作系统以安全为理念，面向x86路由器、防火墙、虚拟专用网、IP电话盒及服务器而设计。",
+  "annas archive":"安娜的檔案 是一家自由、非營利的影子圖書館元搜索引擎，由匿名的檔案員團隊所創（即安娜和/或盜版圖書館鏡像團隊）。2022年11月，他們在得知美國當局查封Z-Library後，決定創立安娜的檔案。",
   "apple app store":"App Store是蘋果公司為其iPhone、iPad以及iPod Touch等產品建立和維護的数字化移动應用程序發行平台，允許使用者從iTunes Store瀏覽和下載一些由iOS SDK或者Mac SDK開發的應用程序。根據應用程序發行的不同情況，使用者可以付費或者免費下載。應用程序可以直接下載到iOS裝置，至iTunes版本12.7以前也可以透過macOS或者Windows平台下的iTunes下載到電腦中再同步至iOS裝置。其中包含遊戲、日程管理、詞典、圖庫及許多實用的軟件。透過蘋果公司全球軟件開發者年會2012发布的iOS 6第一次改变了商店的用户界面及购物体验，更新程序不需要密码，购买程序无须回到主畫面，新下载的應用程式皆附有“New”标签。2017年发布iOS11时苹果第二次改变了商店的用户界面。",
-  "artic":"芝加哥藝術博物館（英語：），是一座位於美國伊利諾州芝加哥的美術館，於1879年成立，是世界上最古老、規模最大的藝術博物館之一。該博物館因其策展與展示大量藝術家的作品而受到歡迎，每年共有約150萬人參觀。該博物館的收藏由11個策展部門管理，並保存了喬治·秀拉的《大碗岛的星期天下午》、巴勃羅·畢卡索的《老吉他手》 、愛德華·霍普的《夜遊者》和格兰特·伍德的《美国哥特式》等名作，博物館永久收藏近300,000件藝術品，每年舉辦30多個特展。",
+  "apple maps":"蘋果地圖 是一套由苹果公司研发，macOS、iOS、iPadOS、visionOS以及watchOS系統中預設的網路地圖服務。",
+  "artic":"芝加哥藝術博物館，是一座位於美國伊利諾州芝加哥的美術館，於1879年成立，是世界上最古老、規模最大的藝術博物館之一。該博物館因其策展與展示大量藝術家的作品而受到歡迎，每年共有約150萬人參觀。該博物館的收藏由11個策展部門管理，並保存了喬治·秀拉的《大碗岛的星期天下午》、巴勃羅·畢卡索的《老吉他手》 、愛德華·霍普的《夜遊者》和格兰特·伍德的《美国哥特式》等名作，博物館永久收藏近300,000件藝術品，每年舉辦30多個特展。",
   "arxiv":"arXiv 是一个面向全球科学家和研究人员的开放获取预印本网站，主要收录物理学、数学、计算机科学、生物学、定量金融学、统计学等多个学科领域的论文预印本。该平台自1991年8月创立以来，逐步发展成为公认最成功的开放获取数字系统之一。截至2025年2月，arXiv.org已收集超過260萬篇預印本。",
   "askubuntu":[
    "stackoverflow:zh-HK",
@@ -10975,7 +11007,8 @@
    "ref"
   ],
   "bandcamp":"Bandcamp是一家美国線上音乐公司， 由前Oddpost联合创始人Ethan Diamond与程序员Shawn Grunberger、Joe Holt和Neal Tucker于2008年创立，总部位于加利福尼亚。",
-  "bing":"（）是一款由微软公司推出的網路搜尋引擎，起源于微软的MSN Search。",
+  "bilibili":"哔哩哔哩 是一个以ACG相关內容起家的弹幕视频分享网站，通称B站。bilibili的前身为徐逸于2009年6月26日创建的视频分享网站Mikufans，后于2010年1月24日更名“bilibili”。",
+  "bing":"微软必应 是一款由微软公司推出的網路搜尋引擎，起源于微软的MSN Search。",
   "bing images":[
    "bing:zh-HK",
    "ref"
@@ -10988,19 +11021,21 @@
   "dailymotion":"Dailymotion 是一家視訊分享網站，總部位於法國巴黎十七區。它的域名在YouTube之後一個月注冊。Dailymotion最广为人知的特点之一就是其提供支援开放格式ogg的視訊。和同類型的其他Flash視訊分享網站相比，Dailymotion以其短片具有高清晰畫質而聞名。到2008年1月，每天上傳到該站的短片大約是16,000，網頁瀏覽次數平均一天超過2600萬次。2008年1月，Dailymotion的Alexa全球網站排名為38。母公司為威望迪。",
   "deezer":"Deezer是一家法国在线音乐流媒体服务提供商。它允许用户在各种设备上在线或离线收听来自包括环球音乐集团、索尼音乐和华纳音乐集团在內的各家唱片公司的音乐。2007年，Deezer创建于法国巴黎，截至2019年1月，Deezer拥有5600万首授权曲目，拥有超过3万个电台频道，月活跃用户達1400万，付费用户為700万。该服务适用于Web、Android、IOS、BlackBerry OS、Microsoft Windows和MacOS。",
   "discuss.python":"Discourse是一个自由及开放源代码的网络论坛軟件。該軟件於2014年8月26日推出，创始人為杰夫·阿特伍德 、Robin Ward 和 Sam Saffron。",
-  "etymonline":"在线词源词典（英語：）是一部免费的在线词典，由道格拉斯·哈珀 编写，描述了英语单词的词源。",
-  "fdroid":"是一个Android应用程序的软件资源库（或应用商店）；其功能类似于Google Play商店，但只包含自由及开放源代码（FOSS）软件。应用可从F-Droid网站或直接从F-Droid客户端应用浏览及安装，F-Droid客户端应用会自动更新其应用。F-Droid不要求用户注册账号。如果应用包含广告、用户分析器，追踪器或倚赖非自由软件，会被标记存在「负面特征」（antifeatures）。运行F-Droid的服务器也均使用FOSS软件，从而允许任何人创建自己的软件库。",
+  "emojipedia":"表情圖標百科 是一个表情圖標参考网站，记载了Unicode标准中各个表情图标的编码、含义、演变等信息。",
+  "etymonline":"在线词源词典 是一部免费的在线词典，由道格拉斯·哈珀 编写，描述了英语单词的词源。",
+  "fdroid":"F-Droid是一个Android应用程序的软件资源库（或应用商店）；其功能类似于Google Play商店，但只包含自由及开放源代码（FOSS）软件。应用可从F-Droid网站或直接从F-Droid客户端应用浏览及安装，F-Droid客户端应用会自动更新其应用。F-Droid不要求用户注册账号。如果应用包含广告、用户分析器，追踪器或倚赖非自由软件，会被标记存在「负面特征」（antifeatures）。运行F-Droid的服务器也均使用FOSS软件，从而允许任何人创建自己的软件库。",
   "free software directory":"自由软件目录是一个由自由软件基金会（FSF）和联合国教育、科学及文化组织（ UNESCO ）联合发起的项目。自由软件目录包含自由操作系统下运行的有用自由软件。",
   "genius":"Genius 是一家北美数字媒体公司，於2009年8月由湯姆·雷曼、伊兰·泽科里和马胡德·莫哈代姆建立。該網站允許使用者對歌曲歌词、新闻故事、诗歌和文件等提供注釋和解释。",
   "github":"GitHub是一个在线软件源代码托管服务平台，用于公开程序或软件的代码。使用Git作为版本控制软件，由开发者克里斯·汪斯崔斯、P·J·海特和汤姆·普雷斯顿·沃纳使用Ruby on Rails编写而成。在2018年，GitHub被微软公司收购。",
   "goo":"goo是由日本NTT Communications的子公司NTT Resonant运营的网络搜索引擎（技術由Google搜索提供）和门户网站。該網站會抓取和索引其他日语网站並呈現給用戶。",
   "google images":"Google图片搜索是Google公司於2001年7月推出的图片搜索服務。Google Chrome及Firefox提供擴充功能搜索網絡圖像。",
-  "google news":"Google新闻（英語：）是Google开发的一款Web新闻聚合器，由Google首席工程師克里希纳·巴拉特 創造與領導開發。",
-  "google play apps":"又稱Play 商店，前身为Android Market。是由Google为Android作業系統所開發的流動應用程式數位發行平台，同时也是数字娱乐品牌。它作為Android作業系統的官方應用商店，允許用戶瀏覽和下載使用Android SDK開發並透過Google發布的應用程式。 Google Play也是數位媒體商店，提供音樂，雜誌，書籍，電影和電視節目。它之前提供了Google硬件裝置，直到2015年3月11日推出一個單獨的線上硬件零售商Google Store。",
+  "google news":"Google新闻 是Google开发的一款Web新闻聚合器，由Google首席工程師克里希纳·巴拉特 創造與領導開發。",
+  "google play apps":"Google Play又稱Play 商店，前身为Android Market。是由Google为Android作業系統所開發的流動應用程式數位發行平台，同时也是数字娱乐品牌。它作為Android作業系統的官方應用商店，允許用戶瀏覽和下載使用Android SDK開發並透過Google發布的應用程式。 Google Play也是數位媒體商店，提供音樂，雜誌，書籍，電影和電視節目。它之前提供了Google硬件裝置，直到2015年3月11日推出一個單獨的線上硬件零售商Google Store。",
   "google play movies":[
    "google play apps:zh-HK",
    "ref"
   ],
+  "google scholar":"Google学术搜索 是一个可以免费搜索学术文章的网络搜索引擎，由计算机专家阿努拉·阿查雅开发。2004年11月，Google第一次发布了Google学术搜索的试用版。该项索引包括了世界上绝大部分出版的学术期刊、书籍、会议纪要、专利报告、技术及实验报告等更多学术成果。",
   "google videos":"Google影片 是由Google提供的一项視訊共享和搜索服务。与YouTube类似，「Google影片」向用户提供必要的HTML代码，允许用户将选定的視訊嵌入到其它的网站的页面中。这种方法可以使用户在网站中嵌入大量的視訊而无需考虑頻寬和儲存容量限制的问题。在2006年10月9日，Google收购了前競争对手YouTube，并在2007年6月13日发表声明，「Google影片」的搜索结果将包含由网络蜘蛛在其它托管服务、YouTube和用户上传中抓取的内容。",
   "hackernews":"Hacker News 是一家关于计算机黑客和创业公司的社会化新闻网站，由保罗·格雷厄姆的创业孵化器 Y Combinator 创建。与其它社会化新闻网站不同的是 Hacker News 未登入訪客没有贊成或反对一条提交新闻的选项，不过还是可以被有足够 Karma 的用户投贊成或反对票。简而言之，Hacker News 允许提交任何可以被理解为“任何满足人们求知欲”的新闻。",
   "hoogle":"Haskell 是一种标准化的，通用的纯函數式編程語言，有惰性求值和强静态类型。它的命名源自美国逻辑学家哈斯凱爾·加里，他在数理逻辑方面上的工作使得函数式编程语言有了广泛的基础。在Haskell中，“函数是頭等物件”。作为一门函數程式語言，主要控制结构是函数。Haskell语言是1990年在编程语言Miranda语言的基础上标准化的，并且以λ演算为基础发展而来。这也是为什么Haskell语言以希腊字母「λ」（Lambda）作为自己的标志。Haskell具有“证明即程序、命题为类型”的特征。",
@@ -11014,12 +11049,13 @@
    "ref"
   ],
   "imdb":"網路電影資料庫 是一个关于电影演员、电影、电视节目、电视藝人、电子游戏和電影製作小組的在线数据库。IMDb開辦於1990年10月17日，從1998年開始成為亚马逊公司旗下的网站。",
+  "imgur":"Imgur 是一個网络相册網站，2009年創立，主要提供免費的图床服务，現今每日用戶達數百萬。",
   "ina":"国家视听研究院 是法国的一个公立工商业机构，总部位于马恩河畔布里，负责存档视听作品，并为所有观众、专业人士、公司或个人制作、编辑、出版、营销和分发视听内容和多媒体。",
   "iqiyi":"北京愛奇艺科技有限公司 是百度集團旗下的视频网站平台，並同時經營內容製作及分銷，截止2019年，主要服務地區為中國大陸、香港、澳門、 台灣、馬來西亞、新加坡、緬甸、泰國、柬埔寨、美國、菲律賓和印尼。爱奇艺为2021年中国市场份额最大的五个影音平台之一。",
   "library genesis":"創世紀圖書館 是一個影子圖書館，用戶可在此一網站上分享下載学术期刊文章、学术書籍、一般書籍、雜誌、漫畫。此一網站為用戶提供擋在付費牆背後，亦或官方沒釋出電子版本的資料。創世紀圖書館形容自身為「資訊整合連結」網站，為「互聯網上所收集及用戶上載的」資源提供可供查找的資料庫。",
   "mdn":"MDN Web Docs 是一個汇集众多Mozilla基金會產品和網路技術開發文档的免费網站。",
   "metacpan":"CPAN 中譯為“Perl綜合典藏網”，“Perl综合档案网”或者“Perl程序库”。它包含了極多用Perl寫成的軟體和其文件。",
-  "naver":"NAVER（韓語：）是韩国著名入口／搜索引擎网站，它使用獨有的搜尋引擎，並且在韓文搜尋服務中獨佔鰲頭。除了搜尋之外也提供入口網站的許多服務，例如新聞、電子信箱、電子地圖服務（含街景地圖）等。在Alexa排名上是韓國國內第一大的入口網站。 据ComScore统计，Naver在2007年8月收到二十亿次搜索，占70％以上的韩国搜索查询，它是世界上排名第十五的网民最常用的搜索引擎，超过25万韩国人选择Naver作为浏览器起始页。",
+  "naver":"NAVER 是韩国著名入口／搜索引擎网站，它使用獨有的搜尋引擎，並且在韓文搜尋服務中獨佔鰲頭。除了搜尋之外也提供入口網站的許多服務，例如新聞、電子信箱、電子地圖服務（含街景地圖）等。在Alexa排名上是韓國國內第一大的入口網站。 据ComScore统计，Naver在2007年8月收到二十亿次搜索，占70％以上的韩国搜索查询，它是世界上排名第十五的网民最常用的搜索引擎，超过25万韩国人选择Naver作为浏览器起始页。",
   "naver images":[
    "naver:zh-HK",
    "ref"
@@ -11032,20 +11068,22 @@
    "naver:zh-HK",
    "ref"
   ],
-  "niconico":"Niconico動畫 是日本多玩國公司營運的在线弹幕视频分享网站。其中「Niconico」（）意爲微笑，「動畫」（）意爲視頻。Niconico動畫與YouTube等视频共享网站相似，但Niconico動畫提供观看者可在视频画面上留言并以弹幕的形式出現在视频上的功能。",
+  "niconico":"Niconico動畫 是日本多玩國公司營運的在线弹幕视频分享网站。其中「Niconico」（ニコニコ）意爲微笑，「動畫」（動画）意爲視頻。Niconico動畫與YouTube等视频共享网站相似，但Niconico動畫提供观看者可在视频画面上留言并以弹幕的形式出現在视频上的功能。",
   "npm":"npm 是Node.js預設的、用JavaScript編寫的軟體套件管理系統。",
-  "openlibrary":"开放图书馆（英文：）是互联网档案馆旗下的非营利网站暨在线图书馆项目，收录了许多公有领域图书的在线版本，旨在为每一本已出版的图书创建一个网页。本网站由亚伦·斯沃茨、布魯斯特·卡利、Alexis Rossi、Anand Chitipothu和 Rebecca Malamud在2006年创建，其部分资金来自加州州立图书馆與 Kahle/Austin 基金会。",
+  "openlibrary":"开放图书馆 是互联网档案馆旗下的非营利网站暨在线图书馆项目，收录了许多公有领域图书的在线版本，旨在为每一本已出版的图书创建一个网页。本网站由亚伦·斯沃茨、布魯斯特·卡利、Alexis Rossi、Anand Chitipothu和 Rebecca Malamud在2006年创建，其部分资金来自加州州立图书馆與 Kahle/Austin 基金会。",
   "openstreetmap":"開放街圖 是一個建構自由內容之網上地圖協作計劃，目標是創造一個內容自由且能讓所有人編輯的世界地圖，並且讓一般的行動裝置有方便的導航方案。",
   "pi-hole.community":[
    "discuss.python:zh-HK",
    "ref"
   ],
   "piratebay":"海盜灣 是一個專門儲存、分類及搜尋Bittorrent种子文件及磁力連結的網站，由瑞典的民間反版權組織海盜署於2003年成立，支持35种语言。",
-  "pubmed":"MEDLINE、MEDLARS Online，全名線上醫學文獻分析和檢索系統（），是生命科學和生物醫學信息的書目數據庫。涵蓋醫學、護理、藥學、牙科、獸醫學、衛生保健。還涵蓋生物學和生物化學以及分子進化等領域的大部分文獻。",
+  "pubmed":"MEDLINE、MEDLARS Online，全名線上醫學文獻分析和檢索系統，是生命科學和生物醫學信息的書目數據庫。涵蓋醫學、護理、藥學、牙科、獸醫學、衛生保健。還涵蓋生物學和生物化學以及分子進化等領域的大部分文獻。",
   "pypi":"PyPI 是Python的正式第三方 軟體套件的軟件存儲庫，它类似于CPAN（Perl的存储库）。一些软件包管理器例如pip，就是默认從PyPI下載软件包。用戶通过PyPI可以下載超过627,000个Python软件包。",
-  "rottentomatoes":"爛番茄（英語：）是一個美国电影和电视评论線上彙整网站。该网站于1998年8月由杨生 、帕特里克·李 和史蒂芬·王 等加州大学伯克利分校三名大學生创办。虽然“烂番茄”这个名称与观众在反对糟糕的舞台表演时扔烂番茄的做法有关，但最初的灵感却来自1992年上映的加拿大电影《莱奥洛》（Léolo）中一个以番茄为主题的场景。",
+  "reddit":"Reddit 是一个娱乐、社交及新聞网站，注册用户可以将文字或連結在網站上發布，使它基本上成為了一個電子布告欄系統。注册用户可以对这些帖子进行投票，结果将被用来进行排名和决定它在首页或子页的位置。網站上的內容分類被稱為「subreddit」。subreddit的內容包括新聞、電子遊戲、電影、音樂、書籍、健身、食物和圖片分享等。",
+  "rottentomatoes":"爛番茄 是一個美国电影和电视评论線上彙整网站。该网站于1998年8月由杨生 、帕特里克·李 和史蒂芬·王 等加州大学伯克利分校三名大學生创办。虽然“烂番茄”这个名称与观众在反对糟糕的舞台表演时扔烂番茄的做法有关，但最初的灵感却来自1992年上映的加拿大电影《莱奥洛》（Léolo）中一个以番茄为主题的场景。",
   "rubygems":"RubyGems是Ruby的一个包管理器，提供了分发Ruby程序和函式庫的标准格式“gem”，旨在方便地管理gem安装的工具，以及用于分发gem的服务器。这类似于Python的pip。RubyGems大约创建于2003年11月，从Ruby 1.9版起成为Ruby标准库的一部分。",
-  "rumble":"Rumble是加拿大的，讓使用者投稿、觀看、分享及評論，由科技企業家克里斯·帕夫洛夫斯基 於2013年創立。自2020年7月以來，Rumble的月度用戶數經歷了快速增長，從160萬月度用戶增加到2021年第一季度末的3190萬。",
+  "rumble":"Rumble是加拿大的视频分享网站，讓使用者投稿、觀看、分享及評論视频，由科技企業家克里斯·帕夫洛夫斯基 於2013年創立。自2020年7月以來，Rumble的月度用戶數經歷了快速增長，從160萬月度用戶增加到2021年第一季度末的3190萬。",
+  "semantic scholar":"语义学者 是具有人工智能功能的学术出版网络搜索引擎，由艾伦AI研究所开发，并于2015年11月发布。它能利用自然语言处理技術为学术论文提供摘要。与Google学术搜索和PubMed相比，语义学者提供的結果盡量凸顯出论文中最重要和最有影响力的元素。",
   "sogou":"搜狗 原先是搜狐的旗下子公司，主要经营搜狐的搜索业务。同时，搜狗也推出输入法、邮箱、浏览器等业务。2021年，搜狗与腾讯合并成为腾讯的全资子公司。",
   "sogou images":[
    "sogou:zh-HK",
@@ -11065,9 +11103,11 @@
    "stackoverflow:zh-HK",
    "ref"
   ],
+  "tagesschau":"今日新聞 是德國的一檔電視新聞節目，1952年12月26日开播，由西北德广播公司创办，现由位于汉堡北德广播公司的“ARD时事”制作，是德國最长寿且收視率最高的新聞節目。节目的20:00档为主新闻时段，時長15分鐘。",
   "unsplash":"Unsplash是一个免费的照片共享网站。攝影師可以将照片上传到Unsplash，照片编辑者们会对用户上传的照片进行整理。Unsplash使用了较为自由的著作權许可条款，这让Unsplash成为了互联网上最大的摄影照片供应商之一，其网站上的照片经常在文章配图中出现。截止至2020年4月，该网站拥有超过18万名摄影师，图库中储存了超过160万张照片。Unsplash被《福布斯》、《企业家杂志》、CNET和The Next Web评为全球领先的摄影网站之一。",
+  "vimeo":"Vimeo 是一个以视频为中心的社会化网络站点，由IAC/InterActiveCorp拥有并于2004年11月创立。Vimeo支持嵌入，分享，储存视频，也允许用户对视频作出评论。用户必须注册才能上传内容，注册用户也可以创建一个资料页，上传头像，评论，以及“喜欢”一个视频。",
   "voidlinux":"Void Linux是一个独立的Linux发行版（即操作系统），以自有的XBPS作为软件包管理器，并以Runit作为init系统。除了Linux内核中的專有裝置驅動程式之外，其基本安装仅由自由软件组成，但也提供了官方的非自由软件仓库以便利专有软件的安装。",
-  "wikibooks":"維基教科書（英語：）是維基媒體的一項計劃，於2003年7月10日開放。 此計劃收集自由的教科書，並讓用戶自己編輯教科書——任何人都可以進入“編輯”頁面修改任何一本教科書。",
+  "wikibooks":"維基教科書 是維基媒體的一項計劃，於2003年7月10日開放。 此計劃收集自由的教科書，並讓用戶自己編輯教科書——任何人都可以進入“編輯”頁面修改任何一本教科書。",
   "wikicommons.audio":[
    "wikicommons.images:zh-HK",
    "ref"
@@ -11081,11 +11121,17 @@
    "wikicommons.images:zh-HK",
    "ref"
   ],
+  "wikidata":"維基數據 是一個可協同編輯的知識庫，是繼2006年的維基學院之後，第一個新的維基媒體基金會項目。這一項目與維基共享資源的工作方式類似，將為其他維基計劃及各語種維基百科中的信息框、列表及跨語言連結等提供統一存放的數據，該項目在2012年10月30日投入使用。维基數據藉由軟體Wikibase運行。",
   "wikinews":"維基新聞 是由一群志願者、即民間記者運營的網絡媒體。同時是一個自由內容的維基，屬維基媒體計劃項目，由維基媒體基金會負責運營。維基新聞通過協作新聞學的工作模式去運行，同時亦努力通過中性的觀點報導新聞，包括原創一手獨家報道和採訪。",
   "wikipedia":"維基百科 是维基媒体基金会运营的一个多语言的線上百科全書，并以创建和维护作为开放式协同合作项目，特点是自由內容、自由编辑、自由版权。目前是全球網絡上最大且最受大眾歡迎的参考工具书，名列全球二十大最受歡迎的網站，其在搜尋引擎中排名亦較為靠前。維基百科目前由非營利組織維基媒體基金會負責營運。Wikipedia是混成詞，分别取自於網站核心技術「Wiki」以及英文中百科全書之意的「encyclopedia」。截至2023年11月，所有語言的维基百科有超过6200万篇條目，每月超过1400万次编辑（平均每秒约5.2次编辑），每月有超過20億個獨立設備訪問各個語言的維基百科網站。大约26%的流量来自美国，其次是日本（5.9%）、英国（5.4%）、德国（5%）、俄罗斯（4.8%）。",
-  "wikivoyage":"维基导游（英語：），粤文版作維基遊，是基于Wiki系统，由志愿者撰写的免费互联网旅游指南。项目于2006年9月由德国的同名组织Wikivoyage e.V.发起，于2006年12月10日上线，2012年8月加入维基媒体基金会。项目内容使用知识共享署名-相同方式共享协议授权，因此可供其他用户自由地用作商业用途。同时访客可以免费访问任何内容，并可以自由下载离线版本。对此类计划有害的商业性影响，例如来自旅游业的影响，被排斥于计划之外。",
-  "wiktionary":"维基词典（英語：），粵文版作維基辞典，文言版作维基尔雅，是维基百科的姊妹工程，旨在创建基于所有语言的自由词典。该项目于2002年12月12日启动，发起人是维基人Daniel Alston。",
-  "wolframalpha":"，是由 Wolfram Research 公司推出的一款在线自动问答系统。其特色是可以直接向用户返回答案，而不是像传统搜索引擎一样提供一系列可能含有用户所需答案的相关网页。",
+  "wikiquote":"维基语录 是维基媒体基金会下属的一个维基計劃，属于维基百科的一个姊妹計劃，同样使用MediaWiki软件。维基语录旨在创建一个各种语言的名人名言以及谚语等内容的自由的在线语录。",
+  "wikisource":"维基文库 是维基媒体基金会旗下维基百科的姊妹计划，目的是创建一个自由的、基于Wiki的文献仓库，包括每一个语言版本的完整原始文献，并且把這些文献翻译成多种語言。維基文庫曾被稱為「Sourceberg」，後在2003年12月6日经过投票确定为现在的名称。",
+  "wikispecies":"维基物种 是维基媒体基金会建立的一个开放、自由的物种目录。它涵盖了动物、植物、真菌、细菌、古菌、原生生物、病毒以及所有地球上的各种生命。",
+  "wikiversity":"维基学院 是维基媒体基金会的一项计划。",
+  "wikivoyage":"维基导游，粤文版作維基遊埠，是基于Wiki系统，由志愿者撰写的免费互联网旅游指南。项目于2006年9月由德国的同名组织Wikivoyage e.V.发起，于2006年12月10日上线，2012年8月加入维基媒体基金会。项目内容使用知识共享署名-相同方式共享协议授权，因此可供其他用户自由地用作商业用途。同时访客可以免费访问任何内容，并可以自由下载离线版本。对此类计划有害的商业性影响，例如来自旅游业的影响，被排斥于计划之外。",
+  "wiktionary":"维基词典，粵文版作維基辞典，文言版作维基尔雅，是维基百科的姊妹工程，旨在创建基于所有语言的自由词典。该项目于2002年12月12日启动，发起人是维基人Daniel Alston。",
+  "wolframalpha":"Wolfram Alpha，是由 Wolfram Research 公司推出的一款在线自动问答系统。其特色是可以直接向用户返回答案，而不是像传统搜索引擎一样提供一系列可能含有用户所需答案的相关网页。",
+  "yahoo news":"雅虎新闻 是一个美国新闻网站，最初是基于雅虎的新闻聚合服务而建立。该站点最早由雅虎软件工程师布拉德·克劳斯易 于1996年8月开发完成，而最初的文章则来自其他新闻媒体的服务，例如：美联社、路透社、福斯新闻台、半岛电视台、ABC新闻、《今日美国》、有线电视新闻网和BBC新闻。",
   "z-library":"Z-Library 是一個影子圖書館和开放获取檔案分享計劃，用戶可在此一網站上下載期刊文章以及各種類型的書籍。根據Z-Library的說法，截至2022年6月12日，其共收錄了10,456,034本書和84,837,646篇文章。Z-Library在其電子書搜尋頁面上宣稱自己是「全球最大的數字圖書館」，並在文章搜尋頁面上稱自身是「全球最大的科學文章儲存庫」。它原是创世纪图书馆的镜像网站，並從該图书馆獲得大部分館藏。但它的一些館藏由用戶自行上載，並且不為创世纪图书馆所收藏。該平台公開網域曾於2022年11月3日遭到美國政府封鎖。2023年2月11日，用戶可以再次訪問Z-Library。"
  },
  "zh-Hans-CN":{
@@ -11101,8 +11147,16 @@
    "alpine linux packages:zh-HK",
    "ref"
   ],
+  "annas archive":[
+   "annas archive:zh-HK",
+   "ref"
+  ],
   "apple app store":[
    "apple app store:zh-HK",
+   "ref"
+  ],
+  "apple maps":[
+   "apple maps:zh-HK",
    "ref"
   ],
   "artic":[
@@ -11133,6 +11187,10 @@
    "bandcamp:zh-HK",
    "ref"
   ],
+  "bilibili":[
+   "bilibili:zh-HK",
+   "ref"
+  ],
   "bing":[
    "bing:zh-HK",
    "ref"
@@ -11142,7 +11200,7 @@
    "ref"
   ],
   "bing videos":[
-   "Bing 的智慧型搜尋可讓您更輕而易舉找到想找的資訊，同時還因此獲得獎勵。",
+   "使用 Microsoft Bing 搜尋，並使用 AI 的功能來尋找資訊、探索網頁、影像、影片、地圖等等。適合永遠感到好奇的人員的智慧型搜尋引擎。",
    "https://www.bing.com/videos"
   ],
   "caddy.community":[
@@ -11163,6 +11221,10 @@
   ],
   "discuss.python":[
    "discuss.python:zh-HK",
+   "ref"
+  ],
+  "emojipedia":[
+   "emojipedia:zh-HK",
    "ref"
   ],
   "etymonline":[
@@ -11210,8 +11272,8 @@
    "ref"
   ],
   "google scholar":[
-   "借助 Google 学术搜索，您可以轻松地大范围搜索学术文献。搜索范围囊括众多知识领域和来源：文章、论文、图书、摘要和法院判决意见书。",
-   "https://scholar.google.com"
+   "google scholar:zh-HK",
+   "ref"
   ],
   "google videos":[
    "google videos:zh-HK",
@@ -11239,6 +11301,10 @@
   ],
   "imdb":[
    "imdb:zh-HK",
+   "ref"
+  ],
+  "imgur":[
+   "imgur:zh-HK",
    "ref"
   ],
   "ina":[
@@ -11321,6 +11387,10 @@
    "pypi:zh-HK",
    "ref"
   ],
+  "reddit":[
+   "reddit:zh-HK",
+   "ref"
+  ],
   "rottentomatoes":[
    "rottentomatoes:zh-HK",
    "ref"
@@ -11331,6 +11401,10 @@
   ],
   "rumble":[
    "rumble:zh-HK",
+   "ref"
+  ],
+  "semantic scholar":[
+   "semantic scholar:zh-HK",
    "ref"
   ],
   "sogou":[
@@ -11361,8 +11435,16 @@
    "stackoverflow:zh-HK",
    "ref"
   ],
+  "tagesschau":[
+   "tagesschau:zh-HK",
+   "ref"
+  ],
   "unsplash":[
    "unsplash:zh-HK",
+   "ref"
+  ],
+  "vimeo":[
+   "vimeo:zh-HK",
    "ref"
   ],
   "voidlinux":[
@@ -11389,12 +11471,32 @@
    "wikicommons.images:zh-HK",
    "ref"
   ],
+  "wikidata":[
+   "wikidata:zh-HK",
+   "ref"
+  ],
   "wikinews":[
    "wikinews:zh-HK",
    "ref"
   ],
   "wikipedia":[
    "wikipedia:zh-HK",
+   "ref"
+  ],
+  "wikiquote":[
+   "wikiquote:zh-HK",
+   "ref"
+  ],
+  "wikisource":[
+   "wikisource:zh-HK",
+   "ref"
+  ],
+  "wikispecies":[
+   "wikispecies:zh-HK",
+   "ref"
+  ],
+  "wikiversity":[
+   "wikiversity:zh-HK",
    "ref"
   ],
   "wikivoyage":[
@@ -11410,8 +11512,12 @@
    "ref"
   ],
   "wttr.in":[
-   "天気予報： not found",
+   "天気予報： Alès, France",
    "https://wttr.in"
+  ],
+  "yahoo news":[
+   "yahoo news:zh-HK",
+   "ref"
   ],
   "youtube":[
    "YouTube 上盡享你喜愛的影片和音樂、上載原創內容，並與親友和世界各地的人分享。",
@@ -11431,8 +11537,16 @@
    "alpine linux packages:zh-HK",
    "ref"
   ],
+  "annas archive":[
+   "annas archive:zh-HK",
+   "ref"
+  ],
   "apple app store":[
    "apple app store:zh-HK",
+   "ref"
+  ],
+  "apple maps":[
+   "apple maps:zh-HK",
    "ref"
   ],
   "artic":[
@@ -11463,6 +11577,10 @@
    "bandcamp:zh-HK",
    "ref"
   ],
+  "bilibili":[
+   "bilibili:zh-HK",
+   "ref"
+  ],
   "bing":[
    "bing:zh-HK",
    "ref"
@@ -11489,6 +11607,10 @@
   ],
   "discuss.python":[
    "discuss.python:zh-HK",
+   "ref"
+  ],
+  "emojipedia":[
+   "emojipedia:zh-HK",
    "ref"
   ],
   "etymonline":[
@@ -11531,6 +11653,10 @@
    "google play apps:zh-HK",
    "ref"
   ],
+  "google scholar":[
+   "google scholar:zh-HK",
+   "ref"
+  ],
   "google videos":[
    "google videos:zh-HK",
    "ref"
@@ -11557,6 +11683,10 @@
   ],
   "imdb":[
    "imdb:zh-HK",
+   "ref"
+  ],
+  "imgur":[
+   "imgur:zh-HK",
    "ref"
   ],
   "ina":[
@@ -11627,6 +11757,10 @@
    "pypi:zh-HK",
    "ref"
   ],
+  "reddit":[
+   "reddit:zh-HK",
+   "ref"
+  ],
   "rottentomatoes":[
    "rottentomatoes:zh-HK",
    "ref"
@@ -11637,6 +11771,10 @@
   ],
   "rumble":[
    "rumble:zh-HK",
+   "ref"
+  ],
+  "semantic scholar":[
+   "semantic scholar:zh-HK",
    "ref"
   ],
   "sogou":[
@@ -11667,8 +11805,16 @@
    "stackoverflow:zh-HK",
    "ref"
   ],
+  "tagesschau":[
+   "tagesschau:zh-HK",
+   "ref"
+  ],
   "unsplash":[
    "unsplash:zh-HK",
+   "ref"
+  ],
+  "vimeo":[
+   "vimeo:zh-HK",
    "ref"
   ],
   "voidlinux":[
@@ -11695,12 +11841,32 @@
    "wikicommons.images:zh-HK",
    "ref"
   ],
+  "wikidata":[
+   "wikidata:zh-HK",
+   "ref"
+  ],
   "wikinews":[
    "wikinews:zh-HK",
    "ref"
   ],
   "wikipedia":[
    "wikipedia:zh-HK",
+   "ref"
+  ],
+  "wikiquote":[
+   "wikiquote:zh-HK",
+   "ref"
+  ],
+  "wikisource":[
+   "wikisource:zh-HK",
+   "ref"
+  ],
+  "wikispecies":[
+   "wikispecies:zh-HK",
+   "ref"
+  ],
+  "wikiversity":[
+   "wikiversity:zh-HK",
    "ref"
   ],
   "wikivoyage":[
@@ -11713,6 +11879,10 @@
   ],
   "wolframalpha":[
    "wolframalpha:zh-HK",
+   "ref"
+  ],
+  "yahoo news":[
+   "yahoo news:zh-HK",
    "ref"
   ],
   "z-library":[

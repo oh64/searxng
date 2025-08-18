@@ -6088,6 +6088,7 @@
                 "fi": "planetaario",
                 "fr": "planétarium",
                 "ga": "pláinéadlann",
+                "gl": "planetario",
                 "he": "פלנטריום",
                 "hi": "ताराघर",
                 "hr": "planetarij",
@@ -13569,6 +13570,17 @@
                 "vi": "lán",
                 "zh": "木棚"
             },
+            "show_house": {
+                "de": "musterhaus",
+                "en": "model home",
+                "fr": "maison témoin",
+                "ja": "住宅展示場",
+                "ko": "견본 주택",
+                "nl": "modelwoning",
+                "zh": "示範單位",
+                "zh-cn": "样板房",
+                "zh-tw": "樣品屋"
+            },
             "shrine": {
                 "ar": "ضريح مقدس",
                 "be": "свяцілішча",
@@ -20588,6 +20600,7 @@
                 "gd": "biadh seapanach",
                 "gl": "gastronomía de xapón",
                 "he": "המטבח היפני",
+                "hi": "जापानी व्यंजन",
                 "hu": "japán konyha",
                 "id": "masakan jepang",
                 "it": "cucina giapponese",
@@ -20809,6 +20822,7 @@
                 "fi": "meksikolainen keittiö",
                 "fr": "cuisine mexicaine",
                 "ga": "cócaireachta na mheicsiceo",
+                "gl": "gastronomía de méxico",
                 "he": "המטבח המקסיקני",
                 "hi": "मेक्सिकन व्यंजन",
                 "hr": "meksička kuhinja",
