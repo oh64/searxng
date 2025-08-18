@@ -89,6 +89,16 @@ for (const button of categoryButtons) {
 const form: HTMLFormElement | null = document.querySelector<HTMLFormElement>("#search");
 assertElement(form);
 
+const luckyButton = document.getElementById("direct_search") as HTMLButtonElement | null;
+const luckyField = document.getElementById("lucky_field") as HTMLInputElement | null;
+
+if (luckyButton && luckyField) {
+  listen("click", luckyButton, () => {
+    luckyField.value = "1";
+    form.submit();
+  });
+}
+
 // override form submit action to update the actually selected categories
 listen("submit", form, (event: Event) => {
   event.preventDefault();
@@ -102,5 +112,6 @@ listen("submit", form, (event: Event) => {
     categoryValuesInput.value = categoryValues.join(",");
   }
 
+  if (luckyField) luckyField.value = "";
   form.submit();
 });

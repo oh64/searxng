@@ -11,6 +11,7 @@ type Settings = {
   favicon_resolver?: string;
   hotkeys?: KeyBindingLayout;
   infinite_scroll?: boolean;
+  search_loading_anim?: boolean;
   method?: "GET" | "POST";
   query_in_title?: boolean;
   results_on_new_tab?: boolean;

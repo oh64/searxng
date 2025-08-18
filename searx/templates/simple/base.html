@@ -93,9 +93,6 @@
         {% endfor %}
     </p>
   </footer>
-  {% if preferences.get_value('search_loading_anim') %}
-  <script src="{{ url_for('static', filename='themes/simple/js/anim.loader.js') }}"></script>
-  {% endif %}
   <script type="module" src="{{ url_for('static', filename='js/searxng.core.min.js') }}" client_settings="{{ client_settings }}"></script>
 </body>
 </html>

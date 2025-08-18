@@ -7,8 +7,13 @@ ready(
     import("../main/keyboard.ts");
     import("../main/search.ts");
 
+
     if (settings.autocomplete) {
       import("../main/autocomplete.ts");
+    }
+    
+    if (settings.search_loading_anim) {
+      import("../main/anim.load.ts");
     }
   },
   { on: [endpoint === Endpoints.index] }
@@ -27,6 +32,10 @@ ready(
 
     if (settings.autocomplete) {
       import("../main/autocomplete.ts");
+    }
+
+    if (settings.search_loading_anim) {
+      import("../main/anim.load.ts");
     }
   },
   { on: [endpoint === Endpoints.results] }

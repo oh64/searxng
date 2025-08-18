@@ -1,15 +1,56 @@
 {
-  "js/anim.loader.js": {
-    "file": "js/anim.loader.js",
-    "name": "js/anim.loader",
-    "src": "js/anim.loader.js",
-    "isEntry": true
+  "node_modules/ol/ol.css": {
+    "file": "css/ol.min.css",
+    "src": "node_modules/ol/ol.css"
   },
-  "js/searxng.head.js": {
-    "file": "js/searxng.head.min.js",
-    "name": "js/searxng.head.min",
-    "src": "js/searxng.head.js",
-    "isEntry": true
+  "src/js/core/index.ts": {
+    "file": "js/searxng.core.min.js",
+    "name": "searxng.core",
+    "src": "src/js/core/index.ts",
+    "isEntry": true,
+    "dynamicImports": [
+      "src/js/main/keyboard.ts",
+      "src/js/main/search.ts",
+      "src/js/main/autocomplete.ts",
+      "src/js/main/anim.load.ts",
+      "src/js/main/mapresult.ts",
+      "src/js/main/results.ts",
+      "src/js/main/infinite_scroll.ts",
+      "src/js/main/preferences.ts"
+    ]
+  },
+  "src/js/main/anim.load.ts": {
+    "file": "js/anim.load.min.js",
+    "name": "anim.load",
+    "src": "src/js/main/anim.load.ts",
+    "isDynamicEntry": true
+  },
+  "src/js/main/autocomplete.ts": {
+    "file": "js/autocomplete.min.js",
+    "name": "autocomplete",
+    "src": "src/js/main/autocomplete.ts",
+    "isDynamicEntry": true,
+    "imports": [
+      "src/js/core/index.ts"
+    ]
+  },
+  "src/js/main/infinite_scroll.ts": {
+    "file": "js/infinite_scroll.min.js",
+    "name": "infinite_scroll",
+    "src": "src/js/main/infinite_scroll.ts",
+    "isDynamicEntry": true,
+    "imports": [
+      "src/js/core/index.ts"
+    ]
+  },
+  "src/js/main/keyboard.ts": {
+    "file": "js/keyboard.min.js",
+    "name": "keyboard",
+    "src": "src/js/main/keyboard.ts",
+    "isDynamicEntry": true,
+    "imports": [
+      "src/js/core/index.ts"
+    ]
   },
   "src/js/main/mapresult.ts": {
     "file": "js/mapresult.min.js",
