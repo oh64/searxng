@@ -12,7 +12,7 @@ export interface EnginesCache {
   let index = 0;
   let interval: number | null = null;
 
-  if (!form || !overlay) return;
+  if (!(form && overlay)) return;
 
   try {
     const response = await fetch('/engines.json');
@@ -24,7 +24,7 @@ export interface EnginesCache {
 
   form.addEventListener('submit', () => {
     const formData = new FormData(form);
-    if (formData.get('q') != '') {
+    if (formData.get('q') !== '') {
       const catValue = String(formData.get('categories') || formData.get('category_general') || '');
       const category = (catValue === "1" || catValue === "general") ? "web" : (catValue || "web");
 
@@ -39,7 +39,9 @@ export interface EnginesCache {
           index++;
         } else {
           if (loadingText) loadingText.textContent = `Finalizing the ${category} search...`;
-          clearInterval(interval!);
+          if (interval !== null) {
+            clearInterval(interval);
+          }
           interval = null;
         }
       }, 500);
