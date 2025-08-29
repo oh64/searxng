@@ -14,7 +14,6 @@
       ],
       "ext": [
         "7z",
-        "ai",
         "azw",
         "azw3",
         "cb7",
@@ -25,7 +24,6 @@
         "doc",
         "docx",
         "epub",
-        "exe",
         "fb2",
         "gz",
         "htm",
@@ -7418,7 +7416,6 @@
       "so": "somali",
       "sq": "albanian",
       "sr": "serbian",
-      "su": "sundanese",
       "sv": "swedish",
       "sw": "swahili",
       "ta": "tamil",
