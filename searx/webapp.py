@@ -652,7 +652,7 @@ def search():
 
         lucky = sxng_request.form.get('lucky') or sxng_request.args.get('lucky')
         if lucky == '1':
-            search_query.redirect_to_first_result = True    
+            search_query.redirect_to_first_result = True
 
         search_obj = searx.search.SearchWithPlugins(search_query, sxng_request, sxng_request.user_plugins)
         result_container = search_obj.search()
