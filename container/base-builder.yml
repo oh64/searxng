@@ -6,7 +6,7 @@ contents:
     - alpine-base
     - build-base
     - python3-dev
-    - py3-pip
+    - uv
     - brotli
 
 entrypoint:
@@ -16,6 +16,7 @@ work-dir: /usr/local/searxng/
 
 environment:
   PATH: /usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin
+  SSL_CERT_DIR: /etc/ssl/certs
   SSL_CERT_FILE: /etc/ssl/certs/ca-certificates.crt
   HISTFILE: /dev/null
 

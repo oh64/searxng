@@ -13,12 +13,8 @@ import threading
 import httpx
 from httpx_socks import AsyncProxyTransport
 from python_socks import parse_proxy_url, ProxyConnectionError, ProxyTimeoutError, ProxyError
-import uvloop
 
 from searx import logger
-
-
-uvloop.install()
 
 CertTypes = str | tuple[str, str] | tuple[str, str, str]
 SslContextKeyType = tuple[str | None, CertTypes | None, bool, bool]
@@ -138,7 +134,7 @@ def get_transport_for_socks_proxy(
         password=proxy_password,
         rdns=rdns,
         loop=get_loop(),
-        verify=_verify,
+        verify=_verify,  # pyright: ignore[reportArgumentType]
         http2=http2,
         local_address=local_address,
         limits=limit,
