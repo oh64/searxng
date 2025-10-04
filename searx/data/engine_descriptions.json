@@ -2553,22 +2553,19 @@
    "wikidata"
   ],
   "yacy":"YaCy is a free distributed search engine built on the principles of peer-to-peer (P2P) networks, created by Michael Christen in 2003. The engine is written in Java and distributed on several hundred computers, as of September 2006, so-called YaCy-peers.",
-<<<<<<< HEAD
   "yacy images":[
    "yacy:en",
    "ref"
   ],
   "yahoo news":"Yahoo News is a news website that originated as an internet-based news aggregator by Yahoo. The site was created by Yahoo software engineer Brad Clawsie in August 1996. Articles originally came from news services such as the Associated Press, Reuters, Fox News, Al Jazeera, ABC News, USA Today, CNN and BBC News.",
   "youtube":"YouTube is an American social media and online video sharing platform owned by Google. YouTube was founded on February 14, 2005, by Chad Hurley, Jawed Karim, and Steve Chen, who were former employees of PayPal. Headquartered in San Bruno, California, it is the second-most-visited website in the world, after Google Search. In January 2024, YouTube had more than 2.7 billion monthly active users, who collectively watched more than one billion hours of videos every day. As of May 2019, videos were being uploaded to the platform at a rate of more than 500 hours of content per minute, and as of mid-2024, there were approximately 14.8 billion videos in total.",
-  "z-library":"Z-Library is a shadow library project for file-sharing access to scholarly journal articles, academic texts and general-interest books. It began as a mirror of Library Genesis but has expanded dramatically."
-=======
+  "z-library":"Z-Library is a shadow library project for file-sharing access to scholarly journal articles, academic texts and general-interest books. It began as a mirror of Library Genesis but has expanded dramatically.",
   "yahoo":[
    "The search engine that helps you find exactly what you're looking for. Find the most relevant information, video, images, and answers from all across the Web.",
    "https://search.yahoo.com/"
   ],
   "yahoo news":"Yahoo News is a news website that originated as an internet-based news aggregator by Yahoo.",
   "youtube":"YouTube is an American online video sharing platform owned by Google. YouTube was founded on February 14, 2005, by Chad Hurley, Jawed Karim, and Steve Chen, who were former employees of PayPal. Headquartered in San Bruno, California, it is the second-most-visited website in the world, after Google. In January 2024, YouTube had more than 2.7 billion monthly active users, who collectively watched more than one billion hours of videos every day. As of May 2019, videos were being uploaded to the platform at a rate of more than 500 hours of content per minute, and as of mid-2024, there were approximately 14.8 billion videos in total."
->>>>>>> upstream/master
  },
  "eo":{
   "artic":"La Arta Instituto de Ĉikago estas enciklopedia arta muzeo situanta ĉe la Ĉikaga Parko Grant. Ĝi enhavas kolekton de arto de Impresionismo kaj Post-impresionismo en sia konstanta kolekto. Ties enhavo inkludas ankaŭ montron de usona pentrarto, eŭropa pentrarto, eŭropa kaj amerika ornamarto, azia arto, moderna kaj nuntempa arto, kaj dezajno pri arkitekturo kaj industrio.",
