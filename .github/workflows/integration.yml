@@ -18,21 +18,20 @@ permissions:
   contents: read
 
 env:
-  PYTHON_VERSION: "3.13"
+  PYTHON_VERSION: "3.14"
 
 jobs:
   test:
     name: Python ${{ matrix.python-version }}
     runs-on: ubuntu-24.04
     strategy:
-      fail-fast: false
       matrix:
         python-version:
           - "3.10"
           - "3.11"
           - "3.12"
           - "3.13"
-          - "3.14-dev"
+          - "3.14"
 
     steps:
       - name: Setup Python
@@ -56,7 +55,6 @@ jobs:
         run: make V=1 install
 
       - name: Run tests
-        continue-on-error: ${{ matrix.python-version == '3.14-dev' }}
         run: make V=1 ci.test
 
   theme:
@@ -74,7 +72,7 @@ jobs:
           persist-credentials: "false"
 
       - name: Setup Node.js
-        uses: actions/setup-node@a0853c24544627f65ddf259abe73b1d18a591444  # v5.0.0
+        uses: actions/setup-node@2028fbc5c25fe9cf00d9f06a71cc4710d4507903  # v6.0.0
         with:
           node-version-file: "./.nvmrc"
 
