@@ -32,18 +32,13 @@
         "html",
         "jpg",
         "lit",
-        "lrf",
-        "mht",
         "mobi",
         "opf",
         "pdb",
         "pdf",
-<<<<<<< HEAD
         "ppt",
         "pptx",
         "prc",
-=======
->>>>>>> cdf5f4343a18b40799dc4ab86ba5d791df0b27b2
         "rar",
         "rtf",
         "txt",
@@ -60,7 +55,6 @@
         "smallest"
       ]
     },
-    "data_type": "traits_v1",
     "languages": {
       "af": "af",
       "am": "am",
